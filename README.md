@@ -1,16 +1,20 @@
-<div align="center">
-
-# OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts
-
-
-[![omnimmi-page](https://img.shields.io/badge/omnimmi-page-blue)](https://omnimmi.github.io/)
-[![OmniMMI](https://huggingface.co/datasets/huggingface/badges/resolve/main/dataset-on-hf-sm.svg)](https://huggingface.co/datasets/ColorfulAI/OmniMMI)
-
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxx-green.svg)](https://arxiv.org/abs/xxxx.xxxxx) -->
+<h1 align="center">OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts</h1>
+<p align="center">
+    <a href="https://arxiv.org/abs/xxxx.xxxxx">
+            <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3Axxxx.xxxxx-B31B1B.svg">
+    </a>
+    <a href="https://huggingface.co/datasets/ColorfulAI/OmniMMI">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-OmniMMI-yellow">
+    </a>
+    <a href="https://omnimmi.github.io">
+        <img alt="Build" src="https://img.shields.io/badge/omnimmi-page-blue">
+    </a>
+</p>
 
 <!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
 
-</div>
+
+
 
 ![image](assets/teaser.png)
 
