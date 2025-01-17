@@ -54,7 +54,7 @@ You can download the OmniMMI from [huggingface](https://huggingface.co/datasets/
 
 ```
 videohallucer_datasets                  
-    ├── clips/
+    ├── clips/ # video clips for assessing offline models
     ├── videos/
     ├── action_prediction.json
     ├── dynamic_state_grounding.json
