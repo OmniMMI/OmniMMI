@@ -7,7 +7,7 @@
         <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-OmniMMI-yellow">
     </a>
     <a href="https://omnimmi.github.io">
-        <img alt="Build" src="https://img.shields.io/badge/omnimmi-page-blue">
+        <img alt="Build" src="https://img.shields.io/badge/OmniMMI-page-blue">
     </a>
 </p>
 
