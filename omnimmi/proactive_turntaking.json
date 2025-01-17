@@ -1,0 +1,4290 @@
+[
+    {
+        "video": "movie101_2.mp4",
+        "conversation": [
+            {
+                "human": "How does the man in black clothes escape from indoors to the outdoors?",
+                "assistant": "He escapes to the outdoors by breaking through a window."
+            },
+            {
+                "human": "Why does the man in black clothes stand on the edge of the cliff?",
+                "assistant": "To avoid being hit by a truck."
+            },
+            {
+                "human": "What happens to the man in black clothes after he stands on the cliff?",
+                "assistant": "He is caught by a net laid by a helicopter."
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_1.mp4",
+        "conversation": [
+            {
+                "human": "How does the grey cartoon cat hide the cartoon mouse?",
+                "assistant": "The grey cartoon cat hides the mouse under its bottom."
+            },
+            {
+                "human": "From where does the cartoon mouse escape to the outside of the house?",
+                "assistant": "The cartoon mouse escapes through the window."
+            },
+            {
+                "human": "What does the cartoon cat use to drag the cartoon mouse back?",
+                "assistant": "The cartoon cat uses a fishing rod to drag the mouse."
+            },
+            {
+                "human": "What happens after the cartoon mouse hits the brown cartoon cat?",
+                "assistant": "The mouse sticks to the cartoon cat\u2019s face."
+            },
+            {
+                "human": "A grey cartoon cat hides a mouse under its bottom, tries to reel it back with a fishing rod, but the mouse escapes and sticks to a brown cat's face."
+            }
+        ]
+    },
+    {
+        "video": "movie101_89.mp4",
+        "conversation": [
+            {
+                "human": "At the start of the video, what is the old woman feeling?",
+                "assistant": "Crying"
+            },
+            {
+                "human": "What color is the old woman\u2019s clothing at the beginning of the video?",
+                "assistant": "Brown"
+            },
+            {
+                "human": "How many people are present in the frame at the end of the video?",
+                "assistant": "6"
+            },
+            {
+                "human": "The video shows an old woman in brown crying, and by the end, six people are in the frame."
+            }
+        ]
+    },
+    {
+        "video": "needle_75.mp4",
+        "conversation": [
+            {
+                "human": "What are the two young women doing on the bench in the street?",
+                "assistant": "Communicating"
+            },
+            {
+                "human": "What are the two young women wearing while sitting on the bench?",
+                "assistant": "Trendy summer clothes"
+            },
+            {
+                "human": "What is the mood of the two young women as they sit on the bench?",
+                "assistant": "Positive"
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "needle_26.mp4",
+        "conversation": [
+            {
+                "human": "What season is it when the cows are at the farm on a sunny day?",
+                "assistant": "Summer"
+            },
+            {
+                "human": "What color are the cows at the farm on this summer day?",
+                "assistant": "Black"
+            },
+            {
+                "human": "Where are these black cows on a sunny summer day?",
+                "assistant": "At the farm"
+            },
+            {
+                "human": "What is attached to the ears of the black cows at the farm?",
+                "assistant": "Yellow tags"
+            },
+            {
+                "human": "What are the black cows with yellow tags doing at the farm?",
+                "assistant": "Eating hay"
+            },
+            {
+                "human": "It's a sunny summer day, and the black cows are chilling at the farm with yellow tags, munching on hay."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_5.mp4",
+        "conversation": [
+            {
+                "human": "How did the cartoon cat enter the yard?",
+                "assistant": "Wearing a cartoon dog's headgear."
+            },
+            {
+                "human": "What did the cartoon mouse place at the door after opening it?",
+                "assistant": "A banana peel."
+            },
+            {
+                "human": "What did the cartoon mouse use to hit the cartoon cat's butt?",
+                "assistant": "A yellow board."
+            },
+            {
+                "human": "Where did the cartoon cat hide in the end?",
+                "assistant": "Under a large cartoon dog."
+            },
+            {
+                "human": "Exactly."
+            }
+        ]
+    },
+    {
+        "video": "needle_149.mp4",
+        "conversation": [
+            {
+                "human": "Where is the logo displayed in the meeting room?",
+                "assistant": "On the screen in a meeting room."
+            },
+            {
+                "human": "What logo is displayed on the screen?",
+                "assistant": "The Goldman Sachs Group."
+            },
+            {
+                "human": "The Goldman Sachs logo looks shiny up there on the screen."
+            }
+        ]
+    },
+    {
+        "video": "ego_37.mp4",
+        "conversation": [
+            {
+                "human": "Where did I put the cornflakes packet?",
+                "assistant": "On the store shelf."
+            },
+            {
+                "human": "Where was the red basket?",
+                "assistant": "Near the door."
+            },
+            {
+                "human": "I remember putting the cornflakes on the shelf and the red basket near the door."
+            }
+        ]
+    },
+    {
+        "video": "needle_124.mp4",
+        "conversation": [
+            {
+                "human": "Where are the tourists strolling and what are they doing there?",
+                "assistant": "They are at the Plaza de Espana in Seville, admiring the fountain."
+            },
+            {
+                "human": "What is the weather like when the tourists are at the Plaza de Espana in Seville?",
+                "assistant": "It is sunny."
+            },
+            {
+                "human": "Tourists are loving their time at Plaza de Espa\u00f1a, admiring the fountain under the sunny sky."
+            }
+        ]
+    },
+    {
+        "video": "ego_24.mp4",
+        "conversation": [
+            {
+                "human": "What did I place on the table first?",
+                "assistant": "A drill machine."
+            },
+            {
+                "human": "Where did I store three handfuls of nails?",
+                "assistant": "In my left pocket."
+            },
+            {
+                "human": "What kind of trolley was the man pulling afterward?",
+                "assistant": "A cement trolley."
+            },
+            {
+                "human": "I remember setting the drill on the table, pocketing nails, then seeing a guy pull a heavy cement trolley."
+            }
+        ]
+    },
+    {
+        "video": "xiaoliyu_9.mp4",
+        "conversation": [
+            {
+                "human": "What did the cartoon snake do when it encountered the cartoon carp?",
+                "assistant": "Attacked"
+            },
+            {
+                "human": "What expression did the school of fish in the cage show after watching the cartoon snake?",
+                "assistant": "Surprised"
+            },
+            {
+                "human": "What action did the cartoon lobster take towards the unconscious cartoon turtle?",
+                "assistant": "Kicked away"
+            },
+            {
+                "human": "I remember the surprised looks on the fish when the cartoon snake attacked the carp, and later, the lobster kicking away the unconscious turtle."
+            }
+        ]
+    },
+    {
+        "video": "ego_35.mp4",
+        "conversation": [
+            {
+                "human": "What color was the bottle I pressed earlier?",
+                "assistant": "Orange."
+            },
+            {
+                "human": "Did I leave the front door open?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "What did I put in the orange trashcan?",
+                "assistant": "A lemon green sponge."
+            },
+            {
+                "human": "Where did I put the leftover pack of dog food?",
+                "assistant": "In the fridge."
+            },
+            {
+                "human": "Where did I put the blue helmet?",
+                "assistant": "On the wall hanger."
+            },
+            {
+                "human": "Where was the cat after I put food in the red pet plate?",
+                "assistant": "On the back terrace of the house."
+            },
+            {
+                "human": "I might have left the front door open after handling the orange bottle, using the lemon green sponge, and putting the blue helmet on the wall hanger, while the cat roamed to the terrace after eating."
+            }
+        ]
+    },
+    {
+        "video": "needle_81.mp4",
+        "conversation": [
+            {
+                "human": "From which perspective is the shot of the egg falling on the glass floor taken?",
+                "assistant": "From below"
+            },
+            {
+                "human": "What is the floor made of where the egg falls and breaks?",
+                "assistant": "Glass"
+            },
+            {
+                "human": "What happens to the egg when it falls on the glass floor in the video?",
+                "assistant": "It breaks and makes a mess"
+            },
+            {
+                "human": "What is the result of the egg after it falls on the glass floor?",
+                "assistant": "The egg breaks and creates a mess"
+            },
+            {
+                "human": "It's fascinating how the egg falls and breaks all over the glass floor."
+            }
+        ]
+    },
+    {
+        "video": "ego_45.mp4",
+        "conversation": [
+            {
+                "human": "Where did I keep the brown packet?",
+                "assistant": "On the floor"
+            },
+            {
+                "human": "Where was the swapping machine?",
+                "assistant": "At the cash counter"
+            },
+            {
+                "human": "How many dustbins were there?",
+                "assistant": "There were three dustbins"
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "needle_88.mp4",
+        "conversation": [
+            {
+                "human": "Where is the logo displayed?",
+                "assistant": "On the screen in a meeting room."
+            },
+            {
+                "human": "What logo is displayed on the screen in the meeting room?",
+                "assistant": "The Goldman Sachs Group."
+            },
+            {
+                "human": "The logo on the screen in the meeting room is from Goldman Sachs."
+            }
+        ]
+    },
+    {
+        "video": "ego_1.mp4",
+        "conversation": [
+            {
+                "human": "Where was the meter tape before using the wood table saw?",
+                "assistant": "The meter tape was in my pocket before I put it on the wood table saw."
+            },
+            {
+                "human": "Did I leave the door open after using the tape?",
+                "assistant": "No."
+            },
+            {
+                "human": "I remember putting the meter tape on the table saw and I'm sure I didn't leave the door open afterward."
+            }
+        ]
+    },
+    {
+        "video": "ego_3.mp4",
+        "conversation": [
+            {
+                "human": "Where was the yellow shoe before I picked it up?",
+                "assistant": "On the floor."
+            },
+            {
+                "human": "Who did I interact with while holding the orange basket?",
+                "assistant": "The man in the black t-shirt."
+            },
+            {
+                "human": "Where did I last place the white furry scarf?",
+                "assistant": "On the marble counter."
+            },
+            {
+                "human": "Where did I last hang the orange top hanger?",
+                "assistant": "On the front hanger rack."
+            },
+            {
+                "human": "Where did I place the white top hanger?",
+                "assistant": "On the lower right hanger."
+            },
+            {
+                "human": "How many purses were on the display table?",
+                "assistant": "Two."
+            },
+            {
+                "human": "How many ties were there on the display table?",
+                "assistant": "Four."
+            },
+            {
+                "human": "How many belts were on the display table?",
+                "assistant": "Four."
+            },
+            {
+                "human": "Or whatever."
+            }
+        ]
+    },
+    {
+        "video": "needle_102.mp4",
+        "conversation": [
+            {
+                "human": "How does the American toad use camouflage to avoid detection in the video?",
+                "assistant": "The American toad uses camouflage to blend into its environment."
+            },
+            {
+                "human": "What is the toad\u2019s behavior when it is at the mouth of the den?",
+                "assistant": "It shows very little movement."
+            },
+            {
+                "human": "Exactly."
+            }
+        ]
+    },
+    {
+        "video": "needle_46.mp4",
+        "conversation": [
+            {
+                "human": "Where are the students celebrating their graduation?",
+                "assistant": "In the park"
+            },
+            {
+                "human": "What event are the students celebrating in the park?",
+                "assistant": "Graduation"
+            },
+            {
+                "human": "I see."
+            }
+        ]
+    },
+    {
+        "video": "movie101_26.mp4",
+        "conversation": [
+            {
+                "human": "What shape is the building designed to resemble in the video?",
+                "assistant": "Guitar"
+            },
+            {
+                "human": "What color is the safety helmet the worker is wearing in the video?",
+                "assistant": "Yellow"
+            },
+            {
+                "human": "What color are the glasses the man is wearing in the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color pajamas is the little girl wearing in the movie?",
+                "assistant": "Pink"
+            },
+            {
+                "human": "The building looks like a giant guitar, and it's intriguing seeing the worker's bright yellow helmet, the man's sleek black glasses, and the adorable little girl in pink pajamas all in one scene."
+            }
+        ]
+    },
+    {
+        "video": "movie101_27.mp4",
+        "conversation": [
+            {
+                "human": "During the meeting scene in the video, what color are the flowers on the table?",
+                "assistant": "White"
+            },
+            {
+                "human": "In the meeting, what color is the computer used by the man?",
+                "assistant": "Silver"
+            },
+            {
+                "human": "While chatting with the woman in the office, what color is the shirt worn by the man?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "What color is the jacket worn by the fencing coach in the video?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "They're talking about the white flowers, the silver computer, the man in a purple shirt, and the fencing coach with a blue jacket."
+            }
+        ]
+    },
+    {
+        "video": "movie101_83.mp4",
+        "conversation": [
+            {
+                "human": "What is the main setting of the film?",
+                "assistant": "City"
+            },
+            {
+                "human": "What genre does the film belong to?",
+                "assistant": "Romance"
+            },
+            {
+                "human": "The film is a city-based romance."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_27.mp4",
+        "conversation": [
+            {
+                "human": "What is the old woman wearing at the beginning of the video?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "How is the old woman feeling at the start of the video?",
+                "assistant": "Sad"
+            },
+            {
+                "human": "What transforms into a human shape later in the video?",
+                "assistant": "Water"
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "needle_76.mp4",
+        "conversation": [
+            {
+                "human": "Where is the chef preparing the dinner?",
+                "assistant": "By the ocean shore on an island"
+            },
+            {
+                "human": "What is the chef doing with the lobster during the dinner preparation?",
+                "assistant": "Cutting"
+            },
+            {
+                "human": "The chef is on the island's shore preparing lobster for dinner."
+            }
+        ]
+    },
+    {
+        "video": "haimian_4.mp4",
+        "conversation": [
+            {
+                "human": "What is the purpose of the two small nets?",
+                "assistant": "To catch cartoon jellyfish."
+            },
+            {
+                "human": "What is the cartoon sponge's reaction when the cartoon octopus finds him in the seaweed pile?",
+                "assistant": "The cartoon sponge was scared."
+            },
+            {
+                "human": "How does the cartoon sponge walk after entering the room?",
+                "assistant": "Tip-toeing."
+            },
+            {
+                "human": "What is the mood of the cartoon octopus in the room?",
+                "assistant": "Lonely."
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "206.mp4",
+        "conversation": [
+            {
+                "human": "What is the main scene depicted in the video?",
+                "assistant": "Forest"
+            },
+            {
+                "human": "What type of video is this?",
+                "assistant": "Animal"
+            },
+            {
+                "human": "I was watching an animal video, and the main scene shows a forest."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_12.mp4",
+        "conversation": [
+            {
+                "human": "What type of video is this?",
+                "assistant": "Daily life documentary"
+            },
+            {
+                "human": "What does the video primarily describe?",
+                "assistant": "It describes people's daily life."
+            },
+            {
+                "human": "If that makes sense."
+            }
+        ]
+    },
+    {
+        "video": "needle_5.mp4",
+        "conversation": [
+            {
+                "human": "What time of year is it when the man is at the lake shore?",
+                "assistant": "Summer"
+            },
+            {
+                "human": "What is the man in the black silhouette wearing while at the lake shore?",
+                "assistant": "A hood"
+            },
+            {
+                "human": "What is the man holding while at the lake shore?",
+                "assistant": "A controller"
+            },
+            {
+                "human": "What is the man in the silhouette doing at the lake shore on this sunny summer day?",
+                "assistant": "Catching the drone"
+            },
+            {
+                "human": "What is the object the man is catching at the lake shore?",
+                "assistant": "A drone quadcopter"
+            },
+            {
+                "human": "It's a sunny summer day at the lake, and there's a man in a hood catching a drone."
+            }
+        ]
+    },
+    {
+        "video": "needle_53.mp4",
+        "conversation": [
+            {
+                "human": "What can be found at the Remembrance War Memorial in Toronto, Canada?",
+                "assistant": "Thousands of Canadian flags."
+            },
+            {
+                "human": "Why is the Remembrance War Memorial in Toronto significant?",
+                "assistant": "It is surrounded by thousands of Canadian flags, symbolizing remembrance and national pride."
+            },
+            {
+                "human": "I guess we'll see how it goes, but I'm not too worried about it at the moment."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_32.mp4",
+        "conversation": [
+            {
+                "human": "What is on the dining table at the beginning of the video?",
+                "assistant": "Fruit"
+            },
+            {
+                "human": "What color is the clothing of the woman taking photos with a mobile phone?",
+                "assistant": "Black"
+            },
+            {
+                "human": "How does the woman in purple feel when she sees the damaged photo?",
+                "assistant": "Angry"
+            },
+            {
+                "human": "The woman in black takes photos, while the woman in purple seems angry about the damaged picture on the table with fruit."
+            }
+        ]
+    },
+    {
+        "video": "needle_62.mp4",
+        "conversation": [
+            {
+                "human": "Who is preparing for the New Year?",
+                "assistant": "A young beautiful woman."
+            },
+            {
+                "human": "What is she doing to prepare for the New Year?",
+                "assistant": "She is hanging a golden Christmas toy on the Christmas tree."
+            },
+            {
+                "human": "What is she looking at while decorating?",
+                "assistant": "She is looking at the golden Christmas toy."
+            },
+            {
+                "human": "A young woman is focused on hanging a golden ornament on her Christmas tree for the New Year."
+            }
+        ]
+    },
+    {
+        "video": "ego_77.mp4",
+        "conversation": [
+            {
+                "human": "Where is the ATM machine located?",
+                "assistant": "Near the book stand."
+            },
+            {
+                "human": "What payment method did I use for the purchase?",
+                "assistant": "Cash."
+            },
+            {
+                "human": "Did my friend also pay the bill in cash?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "It's just the way things are, and you kind of have to roll with it, don't you think?"
+            }
+        ]
+    },
+    {
+        "video": "needle_8.mp4",
+        "conversation": [
+            {
+                "human": "From where is the female making the video call?",
+                "assistant": "From her home living room"
+            },
+            {
+                "human": "What device is she using for the video call?",
+                "assistant": "Smartphone"
+            },
+            {
+                "human": "Who is she chatting with during the video call?",
+                "assistant": "Her beautiful friend"
+            },
+            {
+                "human": "What is her friend doing during the call?",
+                "assistant": "Playing with a dog"
+            },
+            {
+                "human": "Anyway, what can you do? Life goes on, and we just have to keep moving forward."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_38.mp4",
+        "conversation": [
+            {
+                "human": "What is the elderly person on the sickbed wearing in the video?",
+                "assistant": "Blue clothes."
+            },
+            {
+                "human": "What does the man in orange clothes hold in the video?",
+                "assistant": "A flower."
+            },
+            {
+                "human": "What does the woman take and leave the ward with in the video?",
+                "assistant": "Soup."
+            },
+            {
+                "human": "In the video, I noticed an elderly person in blue on a sickbed, a man in orange with a flower, and a woman who took soup and left the ward."
+            }
+        ]
+    },
+    {
+        "video": "ego_82.mp4",
+        "conversation": [
+            {
+                "human": "Where were the butter and bread before I started cooking?",
+                "assistant": "The butter and bread were inside the fridge."
+            },
+            {
+                "human": "Where was the bowl before I put a spoon into it?",
+                "assistant": "The bowl was in the basin before I put a spoon into it."
+            },
+            {
+                "human": "Where did I place the spoon after using it?",
+                "assistant": "In the sink."
+            },
+            {
+                "human": "Did I remember to turn off the stove after cooking?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "Fair enough."
+            }
+        ]
+    },
+    {
+        "video": "xiaoliyu_2.mp4",
+        "conversation": [
+            {
+                "human": "Where is the setting of the video?",
+                "assistant": "Under the sea"
+            },
+            {
+                "human": "Who is the protagonist in the video?",
+                "assistant": "A marine animal"
+            },
+            {
+                "human": "The video is set under the sea with a marine animal as the star."
+            }
+        ]
+    },
+    {
+        "video": "ego_14.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the bathroom door open after washing my hands?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Did I wash my hands?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "In which room did I see the red shelf?",
+                "assistant": "Store room"
+            },
+            {
+                "human": "I mean, come on."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_10.mp4",
+        "conversation": [
+            {
+                "human": "Why does the cartoon little mouse want to eat the cheese on the clip?",
+                "assistant": "Because the cartoon little mouse is hungry."
+            },
+            {
+                "human": "What is the cartoon big mouse taking the cartoon little mouse to do?",
+                "assistant": "Looking for food."
+            },
+            {
+                "human": "What does the cartoon big mouse use to help the cartoon little mouse climb the table?",
+                "assistant": "Noodles."
+            },
+            {
+                "human": "Why did the cartoon little mouse turn into a sphere?",
+                "assistant": "Because it swallowed an orange."
+            },
+            {
+                "human": "The little mouse, helped by the big one, climbs with noodles to reach cheese and hilariously turns round like a sphere after eating an orange."
+            }
+        ]
+    },
+    {
+        "video": "movie101_32.mp4",
+        "conversation": [
+            {
+                "human": "What color is the car knocking on the window and opening the door in the movie?",
+                "assistant": "Red"
+            },
+            {
+                "human": "At what time does the car repair scene in the movie take place, and what color is the car being repaired?",
+                "assistant": "The scene takes place at night, and the car is white."
+            },
+            {
+                "human": "In the horse riding scene, what is the color of the pants worn by the man in the blue shirt?",
+                "assistant": "Red"
+            },
+            {
+                "human": "It's memorable how the red car's window knock, the night car repair, and the horse rider in blue and red all add visual intrigue."
+            }
+        ]
+    },
+    {
+        "video": "ego_62.mp4",
+        "conversation": [
+            {
+                "human": "Where did I put the book?",
+                "assistant": "On the bookshelf."
+            },
+            {
+                "human": "Where was the ATM located?",
+                "assistant": "Near the window."
+            },
+            {
+                "human": "I guess we'll see how it goes, but I'm not too worried about it at the moment."
+            }
+        ]
+    },
+    {
+        "video": "movie101_78.mp4",
+        "conversation": [
+            {
+                "human": "As the night begins, what animal are the woman and man holding in their hands?",
+                "assistant": "Dog"
+            },
+            {
+                "human": "Later that evening in the tavern, what color is the woman\u2019s dress?",
+                "assistant": "Green"
+            },
+            {
+                "human": "What does the woman split open with a knife afterwards?",
+                "assistant": "Mat"
+            },
+            {
+                "human": "I guess."
+            }
+        ]
+    },
+    {
+        "video": "movie101_52.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, what are the two soldiers searching for on the battlefield?",
+                "assistant": "They are searching for a watch."
+            },
+            {
+                "human": "What happens to the soldier who finds the watch?",
+                "assistant": "He is shot down by an enemy hiding in the dark."
+            },
+            {
+                "human": "What preparations do the soldiers in the camp make to fight against the enemy tanks?",
+                "assistant": "They roll out a cannon to fight."
+            },
+            {
+                "human": "Soldiers search for a watch on the battlefield, one finds it but is shot, and back at camp, they prepare to fight by rolling out a cannon against the tanks."
+            }
+        ]
+    },
+    {
+        "video": "ego_74.mp4",
+        "conversation": [
+            {
+                "human": "How many picture frames are on the wall in the living room?",
+                "assistant": "2"
+            },
+            {
+                "human": "In what location did I last see the cat?",
+                "assistant": "In the storage room"
+            },
+            {
+                "human": "Where was the pack of cling wrap before I picked it up?",
+                "assistant": "In the kitchen drawer"
+            },
+            {
+                "human": "Where was the scraper before I picked it up?",
+                "assistant": "On the cupboard"
+            },
+            {
+                "human": "Cool."
+            }
+        ]
+    },
+    {
+        "video": "movie101_107.mp4",
+        "conversation": [
+            {
+                "human": "Where does the video primarily take place?",
+                "assistant": "In a marketplace."
+            },
+            {
+                "human": "Who is the central figure featured in the video?",
+                "assistant": "The woman selling fish."
+            },
+            {
+                "human": "The video captures a lively marketplace focused on a woman selling fish, vividly highlighting her role."
+            }
+        ]
+    },
+    {
+        "video": "movie101_84.mp4",
+        "conversation": [
+            {
+                "human": "What is on the man's head at the beginning of the video?",
+                "assistant": "An axe."
+            },
+            {
+                "human": "What color is the woman's dress in the video?",
+                "assistant": "White."
+            },
+            {
+                "human": "What color is the man's scarf at the end of the video?",
+                "assistant": "Black."
+            },
+            {
+                "human": "Sure."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_37.mp4",
+        "conversation": [
+            {
+                "human": "What color were the clothes of the girl who got hurt?",
+                "assistant": "Black"
+            },
+            {
+                "human": "Where did the girl in black clothes get injured?",
+                "assistant": "Neck"
+            },
+            {
+                "human": "What color were the clothes of the girl who lost her life?",
+                "assistant": "White"
+            },
+            {
+                "human": "At the end, what color were the clothes of the woman who appeared?",
+                "assistant": "Red"
+            },
+            {
+                "human": "The girl injured was in black, the one who died wore white, and a woman in red appeared at the end."
+            }
+        ]
+    },
+    {
+        "video": "haimian_8.mp4",
+        "conversation": [
+            {
+                "human": "What did the cartoon sponge give to the cartoon starfish?",
+                "assistant": "A small fishing net"
+            },
+            {
+                "human": "Why does the cartoon sponge have many bumps?",
+                "assistant": "Because it was stung by a cartoon jellyfish"
+            },
+            {
+                "human": "What happened when the cartoon sponge ate grass?",
+                "assistant": "It vomited."
+            },
+            {
+                "human": "Hmm."
+            }
+        ]
+    },
+    {
+        "video": "ego_29.mp4",
+        "conversation": [
+            {
+                "human": "Before assembling the first radio, where was the handle located?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "Where was the battery cover of the first radio before assembly?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "How many bolts did I screw onto the circuit board of the first radio?",
+                "assistant": "3."
+            },
+            {
+                "human": "Where did I place the circuit board of the first radio during assembly?",
+                "assistant": "On the back case of the first radio."
+            },
+            {
+                "human": "How many bolts did I unscrew from the back case of the second radio?",
+                "assistant": "4."
+            },
+            {
+                "human": "How many batteries were present on the table before assembly?",
+                "assistant": "5."
+            },
+            {
+                "human": "I remember assembling two radios with parts like the handle, battery cover, and five batteries all laid out on the table, while screwing three bolts into the first and removing four from the second."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_35.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, what color is the man's hair?",
+                "assistant": "Blonde"
+            },
+            {
+                "human": "What color is the woman's clothing when she first appears in the video?",
+                "assistant": "White"
+            },
+            {
+                "human": "What does the woman bring to knock on the door in the video?",
+                "assistant": "Coffee"
+            },
+            {
+                "human": "I mean, come on."
+            }
+        ]
+    },
+    {
+        "video": "ego_78.mp4",
+        "conversation": [
+            {
+                "human": "Where did I put the drill machine?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "After that, where was the hammer?",
+                "assistant": "It was on the plywood."
+            },
+            {
+                "human": "I left the drill on the table, but when I looked for the hammer, it was on the plywood."
+            }
+        ]
+    },
+    {
+        "video": "movie101_77.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, what color is the wedding dress the woman is wearing?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What are the two people cutting with scissors during the ceremony?",
+                "assistant": "The character for 'happiness'"
+            },
+            {
+                "human": "Which instrument is being played in the audience?",
+                "assistant": "Piano"
+            },
+            {
+                "human": "The wedding video shows a woman in an unusual black dress, cutting out the 'happiness' character during the ceremony with a piano playing in the background."
+            }
+        ]
+    },
+    {
+        "video": "needle_14.mp4",
+        "conversation": [
+            {
+                "human": "Who appears in the video decorating a Christmas tree outdoors?",
+                "assistant": "A young mother and her son."
+            },
+            {
+                "human": "What activity are the young mother and her son doing outdoors in the video?",
+                "assistant": "They are decorating a Christmas tree."
+            },
+            {
+                "human": "I remember a video of a young mother and her adorable son setting up a Christmas tree outside."
+            }
+        ]
+    },
+    {
+        "video": "needle_120.mp4",
+        "conversation": [
+            {
+                "human": "What are the little girl and her grandmother doing together?",
+                "assistant": "They are reading a children's book."
+            },
+            {
+                "human": "Who is the little girl reading with?",
+                "assistant": "Her grandmother."
+            },
+            {
+                "human": "What is the specific activity the little girl and her grandmother are doing?",
+                "assistant": "They are reading a children's book."
+            },
+            {
+                "human": "Where is the little girl sitting while they read?",
+                "assistant": "On her grandmother."
+            },
+            {
+                "human": "It's sweet to see the little girl enjoying a story with her grandmother."
+            }
+        ]
+    },
+    {
+        "video": "ego_58.mp4",
+        "conversation": [
+            {
+                "human": "Where did I put the bag of rice?",
+                "assistant": "In front of the microwave."
+            },
+            {
+                "human": "Where was the wastebin located?",
+                "assistant": "In the kitchen."
+            },
+            {
+                "human": "Where did I find the tray of sausages before carrying it?",
+                "assistant": "On the gas cooker."
+            },
+            {
+                "human": "Where did I put the pot lid?",
+                "assistant": "On the cooking pot."
+            },
+            {
+                "human": "How many dogs did I touch first?",
+                "assistant": "Two."
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "ego_72.mp4",
+        "conversation": [
+            {
+                "human": "Where was the router located?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "Where was the cat sitting?",
+                "assistant": "On the chair."
+            },
+            {
+                "human": "Where did I place the fruit peeler?",
+                "assistant": "In a drawer."
+            },
+            {
+                "human": "Where did I keep the green peas?",
+                "assistant": "In the refrigerator."
+            },
+            {
+                "human": "What did I put in the plastic mug?",
+                "assistant": "Orange juice."
+            },
+            {
+                "human": "Where did I place the plastic mug with juice?",
+                "assistant": "Inside the fridge."
+            },
+            {
+                "human": "After putting the green peas and orange juice in the fridge, I noticed my cat on the chair and the router on the table."
+            }
+        ]
+    },
+    {
+        "video": "needle_58.mp4",
+        "conversation": [
+            {
+                "human": "Where does the procedure take place?",
+                "assistant": "Cosmetology Clinic"
+            },
+            {
+                "human": "Who is performing the procedure at the cosmetology clinic?",
+                "assistant": "A female cosmetologist"
+            },
+            {
+                "human": "What procedure is the cosmetologist performing on the patient?",
+                "assistant": "Microblasting"
+            },
+            {
+                "human": "What is the gender of the patient receiving the microblasting procedure?",
+                "assistant": "Female"
+            },
+            {
+                "human": "And stuff like that."
+            }
+        ]
+    },
+    {
+        "video": "movie101_67.mp4",
+        "conversation": [
+            {
+                "human": "What is the emotion of the blonde woman at the beginning?",
+                "assistant": "Crying"
+            },
+            {
+                "human": "What color is the skirt of the woman interviewing the man?",
+                "assistant": "Red"
+            },
+            {
+                "human": "What falls when the woman is eavesdropping?",
+                "assistant": "Recorder"
+            },
+            {
+                "human": "Or whatever."
+            }
+        ]
+    },
+    {
+        "video": "haimian_2.mp4",
+        "conversation": [
+            {
+                "human": "What did the cartoon octopus give to the cartoon sponge before going on stage?",
+                "assistant": "A mop"
+            },
+            {
+                "human": "What action did the cartoon octopus do before giving the speech?",
+                "assistant": "Cleared its throat"
+            },
+            {
+                "human": "What changes happened to the cartoon sponge after absorbing the liquid from the white stick?",
+                "assistant": "Its arms, legs, and head separated and enlarged"
+            },
+            {
+                "human": "What did the cartoon bug try to take away from the restaurant?",
+                "assistant": "A hamburger"
+            },
+            {
+                "human": "Before the show, the octopus gave a mop to the sponge, which expanded after soaking something up, while a bug sneaked out of the restaurant with a burger."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_9.mp4",
+        "conversation": [
+            {
+                "human": "What does the cartoon mouse hide in the food?",
+                "assistant": "Iron"
+            },
+            {
+                "human": "How does the cartoon dog get its teeth?",
+                "assistant": "Installing false teeth"
+            },
+            {
+                "human": "What does the cartoon mouse use to hit the cartoon dog?",
+                "assistant": "A yellow plank"
+            },
+            {
+                "human": "Why does the cartoon cat kiss the cartoon dog?",
+                "assistant": "Because the cartoon cat mistook the cartoon dog for the cartoon female cat"
+            },
+            {
+                "human": "A cartoon mouse hides iron in food, the dog gets false teeth, the mouse hits it with a plank, and a cat mistakenly kisses the dog thinking it's another cat."
+            }
+        ]
+    },
+    {
+        "video": "needle_126.mp4",
+        "conversation": [
+            {
+                "human": "What type of view does the video provide of the tropical beach?",
+                "assistant": "Top down aerial view"
+            },
+            {
+                "human": "What type of beach is featured in the video?",
+                "assistant": "Wild rocky beach"
+            },
+            {
+                "human": "What color is the water at the tropical beach in the video?",
+                "assistant": "Azure blue"
+            },
+            {
+                "human": "Just saying."
+            }
+        ]
+    },
+    {
+        "video": "ego_34.mp4",
+        "conversation": [
+            {
+                "human": "Did I drink water before going to the backyard?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "Whom did I talk to in the backyard of the house?",
+                "assistant": "The person wearing a black hat."
+            },
+            {
+                "human": "Where did the mango go after I smelled it?",
+                "assistant": "It was with the person wearing a grey undershirt."
+            },
+            {
+                "human": "I remember having some water, chatting with someone in a black hat, and passing a mango to a person in a grey undershirt."
+            }
+        ]
+    },
+    {
+        "video": "movie101_23.mp4",
+        "conversation": [
+            {
+                "human": "What shape is the building featured in the beginning of the video?",
+                "assistant": "Guitar"
+            },
+            {
+                "human": "What color is the suit of the man playing violin on the hot air balloon?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the top worn by the long-haired man during the indoor communication scene?",
+                "assistant": "Yellow"
+            },
+            {
+                "human": "What color is the backdrop of the stage where the elementary school student performs?",
+                "assistant": "Red"
+            },
+            {
+                "human": "The building resembles a giant guitar, the violinist on the balloon sports a sleek suit, the long-haired guy indoors wears bright yellow, and the stage backdrop for the kid is bold red."
+            }
+        ]
+    },
+    {
+        "video": "needle_94.mp4",
+        "conversation": [
+            {
+                "human": "What is the female potter doing with the brush?",
+                "assistant": "She is stirring paint in a cup."
+            },
+            {
+                "human": "Where is the cup that the potter is using to stir the paint?",
+                "assistant": "The cup is on the table."
+            },
+            {
+                "human": "What is the potter's position while she stirs the paint?",
+                "assistant": "She is sitting."
+            },
+            {
+                "human": "The potter is sitting at the table, stirring paint with a brush."
+            }
+        ]
+    },
+    {
+        "video": "ego_18.mp4",
+        "conversation": [
+            {
+                "human": "What did I pick from the garden?",
+                "assistant": "Brass stairs"
+            },
+            {
+                "human": "Where did I keep the wooden cutter after picking the stairs?",
+                "assistant": "Near the wooden block"
+            },
+            {
+                "human": "How many screws did I use to secure the stairs?",
+                "assistant": "Four"
+            },
+            {
+                "human": "I'm sure it'll all make sense eventually, but until then, I'm just going to go with the flow."
+            }
+        ]
+    },
+    {
+        "video": "movie101_80.mp4",
+        "conversation": [
+            {
+                "human": "During which season does the story in the video occur?",
+                "assistant": "Winter"
+            },
+            {
+                "human": "What type of weather is depicted in the video?",
+                "assistant": "Snowy"
+            },
+            {
+                "human": "How would you describe the mood of the man who surrenders and then shoots someone at the end?",
+                "assistant": "Angry"
+            },
+            {
+                "human": "The video shows a snowy winter scene where a frustrated man ultimately shoots someone."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_36.mp4",
+        "conversation": [
+            {
+                "human": "What color is the sweater worn by the girl sitting by the bed?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "What color is the skirt worn by the old woman in the video?",
+                "assistant": "Red"
+            },
+            {
+                "human": "At the end of the video, what color is the woman's phone?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_39.mp4",
+        "conversation": [
+            {
+                "human": "What color is the dress of the woman with the duster in the video?",
+                "assistant": "White"
+            },
+            {
+                "human": "What color is the dress of the woman coming down from the eaves?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the top worn by the person doing the woman's makeup?",
+                "assistant": "Red"
+            },
+            {
+                "human": "What color is the dress of the woman looking in the mirror in the video?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "Gotcha."
+            }
+        ]
+    },
+    {
+        "video": "ego_15.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the monitor screen on?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "Did I switch off the bedroom light?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "What did I put in the refrigerator?",
+                "assistant": "Lunch box."
+            },
+            {
+                "human": "Where did I put the big glass cup?",
+                "assistant": "In the kitchen's shelf."
+            },
+            {
+                "human": "I left the monitor on again, but I remembered the bedroom light and put my lunchbox in the fridge, and I think the glass cup is on the kitchen shelf."
+            }
+        ]
+    },
+    {
+        "video": "needle_143.mp4",
+        "conversation": [
+            {
+                "human": "What is the woman doing on the computer?",
+                "assistant": "She is shopping online."
+            },
+            {
+                "human": "What unusual event happens while the woman is shopping online?",
+                "assistant": "A hand comes out of the computer."
+            },
+            {
+                "human": "What does the hand coming out of the computer do?",
+                "assistant": "It delivers a product."
+            },
+            {
+                "human": "What is the woman's reaction when the hand comes out of the computer?",
+                "assistant": "She is surprised."
+            },
+            {
+                "human": "What is the woman's appearance during this event?",
+                "assistant": "She is a beautiful woman."
+            },
+            {
+                "human": "I'm sure it'll all make sense eventually, but until then, I'm just going to go with the flow."
+            }
+        ]
+    },
+    {
+        "video": "ego_79.mp4",
+        "conversation": [
+            {
+                "human": "After playing Connect 4, what game did you play?",
+                "assistant": "Sorry."
+            },
+            {
+                "human": "After the game, where did you put the blue game piece?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "I'm sure it'll all make sense eventually, but until then, I'm just going to go with the flow."
+            }
+        ]
+    },
+    {
+        "video": "movie101_28.mp4",
+        "conversation": [
+            {
+                "human": "In what setting does the scene in the video take place?",
+                "assistant": "The scene takes place in a forest."
+            },
+            {
+                "human": "What is the genre of this movie clip?",
+                "assistant": "The genre is Science Fiction."
+            },
+            {
+                "human": "It's funny how things turn out, but I guess that's just part of the journey."
+            }
+        ]
+    },
+    {
+        "video": "needle_22.mp4",
+        "conversation": [
+            {
+                "human": "What is the chef doing with the fresh orange pumpkin on the wooden table?",
+                "assistant": "Cutting it into slices"
+            },
+            {
+                "human": "What color is the pumpkin that the chef is using?",
+                "assistant": "Orange"
+            },
+            {
+                "human": "What is the chef preparing with the slices of orange pumpkin?",
+                "assistant": "Creamy pumpkin soup"
+            },
+            {
+                "human": "It's funny how things turn out, but I guess that's just part of the journey."
+            }
+        ]
+    },
+    {
+        "video": "needle_35.mp4",
+        "conversation": [
+            {
+                "human": "Who is using the face bow on the patient in the video segment?",
+                "assistant": "The dentist and his assistant are using it."
+            },
+            {
+                "human": "What are the dentist and assistant doing to the patient\u2019s teeth after using the face bow?",
+                "assistant": "They are treating the patient\u2019s teeth."
+            },
+            {
+                "human": "The dentist and assistant are using a face bow on the patient for a dental treatment."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_26.mp4",
+        "conversation": [
+            {
+                "human": "What color is the woman's hair in the scene where two people are talking?",
+                "assistant": "Blonde"
+            },
+            {
+                "human": "What color is the woman's clothing in the scene where a man gives her flowers?",
+                "assistant": "Green"
+            },
+            {
+                "human": "What color is the woman's clothing in the scene where a man gives her a gift in a room?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "What color is the man's top who is performing on stage at the amusement park?",
+                "assistant": "Black"
+            },
+            {
+                "human": "So, yeah, I was thinking about it, and it's probably nothing to stress over, at least for now."
+            }
+        ]
+    },
+    {
+        "video": "needle_50.mp4",
+        "conversation": [
+            {
+                "human": "What is happening beside the paddy field?",
+                "assistant": "Two cows are tied there."
+            },
+            {
+                "human": "Who are having fun in the paddy field?",
+                "assistant": "Two Malay kids."
+            },
+            {
+                "human": "What are the Malay kids doing in the paddy field?",
+                "assistant": "They are having fun."
+            },
+            {
+                "human": "Two cows are tied up by the paddy field while some Malay kids play nearby."
+            }
+        ]
+    },
+    {
+        "video": "ego_16.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the door to the second bedroom open?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Where did I see the black suitcase last?",
+                "assistant": "In the bedroom on the bed"
+            },
+            {
+                "human": "Where did I place the water bottle?",
+                "assistant": "On the white table in the kid bedroom"
+            },
+            {
+                "human": "Where can I find the blue poly bag?",
+                "assistant": "On the floor next to the small black sofa"
+            },
+            {
+                "human": "Where was the blue chair located?",
+                "assistant": "Beside the dining table"
+            },
+            {
+                "human": "I remember leaving the second bedroom door open and seeing the black suitcase on the bed, the water bottle on the white table, the blue poly bag on the floor by the black sofa, and the blue chair beside the dining table."
+            }
+        ]
+    },
+    {
+        "video": "movie101_70.mp4",
+        "conversation": [
+            {
+                "human": "What event is mainly narrated in the video?",
+                "assistant": "Theft"
+            },
+            {
+                "human": "What is the genre of this film?",
+                "assistant": "Action"
+            },
+            {
+                "human": "Okay."
+            }
+        ]
+    },
+    {
+        "video": "ego_7.mp4",
+        "conversation": [
+            {
+                "human": "When I was at the store, how many handkerchiefs were in the boxes I picked up?",
+                "assistant": "Ten"
+            },
+            {
+                "human": "How many purses did I notice on the lower desk while shopping?",
+                "assistant": "Three"
+            },
+            {
+                "human": "What was written on the red pamphlet I found there?",
+                "assistant": "Sign up extra 20 percent off"
+            },
+            {
+                "human": "Near the XL section, how many dresses did I see hanging?",
+                "assistant": "Five"
+            },
+            {
+                "human": "Indeed."
+            }
+        ]
+    },
+    {
+        "video": "movie101_60.mp4",
+        "conversation": [
+            {
+                "human": "What color is the car the woman used to pick up the child?",
+                "assistant": "White"
+            },
+            {
+                "human": "What kind of shop does the man run?",
+                "assistant": "Pharmacy"
+            },
+            {
+                "human": "After the man and the child took a bath, what did they eat?",
+                "assistant": "Steamed bun"
+            },
+            {
+                "human": "Well, there you have it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_14.mp4",
+        "conversation": [
+            {
+                "human": "What is the setting of the video clip?",
+                "assistant": "City"
+            },
+            {
+                "human": "What is the weather like in the city scene of the video?",
+                "assistant": "Sunny"
+            },
+            {
+                "human": "The video shows a bustling city under perfectly sunny weather."
+            }
+        ]
+    },
+    {
+        "video": "needle_61.mp4",
+        "conversation": [
+            {
+                "human": "What does the senior businessman by the seashore look like?",
+                "assistant": "He looks posh and is wearing glasses."
+            },
+            {
+                "human": "What is he doing by the seashore?",
+                "assistant": "He is having a serious conversation on the cell phone."
+            },
+            {
+                "human": "He looks sharp with those glasses while having an intense phone discussion by the seashore."
+            }
+        ]
+    },
+    {
+        "video": "needle_82.mp4",
+        "conversation": [
+            {
+                "human": "How old is the man?",
+                "assistant": "Mature"
+            },
+            {
+                "human": "What is the man doing against the white background?",
+                "assistant": "Laughing and covering his mouth with his hand"
+            },
+            {
+                "human": "What is the background color while the man is laughing?",
+                "assistant": "White"
+            },
+            {
+                "human": "The man has a mature vibe and is laughing against a white background."
+            }
+        ]
+    },
+    {
+        "video": "AWB-7.mp4",
+        "conversation": [
+            {
+                "human": "What is the main setting of the video?",
+                "assistant": "Grassland"
+            },
+            {
+                "human": "What type of video is this?",
+                "assistant": "Animals"
+            },
+            {
+                "human": "The video focuses on animals in the grassland."
+            }
+        ]
+    },
+    {
+        "video": "movie101_105.mp4",
+        "conversation": [
+            {
+                "human": "What scene is primarily depicted at the beginning of the video?",
+                "assistant": "City"
+            },
+            {
+                "human": "What event is primarily narrated in the video?",
+                "assistant": "People's beautiful life is disrupted by an earthquake."
+            },
+            {
+                "human": "Well, there you have it."
+            }
+        ]
+    },
+    {
+        "video": "xiaoliyu_6.mp4",
+        "conversation": [
+            {
+                "human": "Who are the main characters in the cartoon, and what is their relationship?",
+                "assistant": "The main characters are a carp, jellyfish, seahorse, and turtle. They are friends."
+            },
+            {
+                "human": "Where does the giant octopus live in the cartoon?",
+                "assistant": "It lives in a dark and lightless environment."
+            },
+            {
+                "human": "The cartoon features a carp, jellyfish, seahorse, and turtle as friends, while a giant octopus lurks in a dark place."
+            }
+        ]
+    },
+    {
+        "video": "ego_13.mp4",
+        "conversation": [
+            {
+                "human": "What color is the towel on the rack?",
+                "assistant": "White with ash stripes."
+            },
+            {
+                "human": "How many picture frames are on the wall?",
+                "assistant": "There are 4 picture frames."
+            },
+            {
+                "human": "Where did I see the second hint bottled water?",
+                "assistant": "On the table by the couch."
+            },
+            {
+                "human": "How many green cups are on the table in the kitchen area?",
+                "assistant": "There are 2 green cups."
+            },
+            {
+                "human": "Where is the Jenga game located?",
+                "assistant": "In the television cabinet."
+            },
+            {
+                "human": "I noticed the striped towel, picture frames, hint water, green cups, and Jenga game in the room."
+            }
+        ]
+    },
+    {
+        "video": "ego_38.mp4",
+        "conversation": [
+            {
+                "human": "What did I put in the black bin?",
+                "assistant": "Plastic"
+            },
+            {
+                "human": "Where did I put the plastic?",
+                "assistant": "In the black bin"
+            },
+            {
+                "human": "I remember putting the plastic in the black bin earlier to stay organized."
+            }
+        ]
+    },
+    {
+        "video": "ego_65.mp4",
+        "conversation": [
+            {
+                "human": "What word was written on the wood cutting machine that I used?",
+                "assistant": "Dewalt."
+            },
+            {
+                "human": "What did I put in the chopping machine?",
+                "assistant": "A wooden piece."
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_7.mp4",
+        "conversation": [
+            {
+                "human": "Why is the cartoon cat sitting in front of the window?",
+                "assistant": "To watch the white cartoon female cat."
+            },
+            {
+                "human": "Whose pink handkerchief fell and why is it important?",
+                "assistant": "It's the white cartoon female cat's handkerchief, possibly drawing the cartoon cat's attention."
+            },
+            {
+                "human": "Why does the cartoon mouse hide in the water?",
+                "assistant": "To avoid the bee."
+            },
+            {
+                "human": "What surprising element is inside the white golf ball?",
+                "assistant": "A bomb."
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "ego_20.mp4",
+        "conversation": [
+            {
+                "human": "Where did I have the bunch of nails before I used them?",
+                "assistant": "In my pocket"
+            },
+            {
+                "human": "How many nails did I attach?",
+                "assistant": "Three"
+            },
+            {
+                "human": "Where did I last put the drill machine?",
+                "assistant": "On the upper wooden block"
+            },
+            {
+                "human": "Where did I last place the electric screwdriver?",
+                "assistant": "On the upper wooden block next to the drill machine"
+            },
+            {
+                "human": "Just saying."
+            }
+        ]
+    },
+    {
+        "video": "needle_44.mp4",
+        "conversation": [
+            {
+                "human": "What protective gear are the scientists wearing in the laboratory?",
+                "assistant": "Gloves and glasses"
+            },
+            {
+                "human": "What is the team of scientists doing in the laboratory?",
+                "assistant": "Researching sample test with protection equipment and glasses"
+            },
+            {
+                "human": "What equipment are the scientists using for their research?",
+                "assistant": "Pipette and beaker"
+            },
+            {
+                "human": "What is being transferred to the beaker?",
+                "assistant": "Liquid tester"
+            },
+            {
+                "human": "The scientists are carefully handling samples and transferring liquids with gloves and glasses for protection in the lab."
+            }
+        ]
+    },
+    {
+        "video": "needle_80.mp4",
+        "conversation": [
+            {
+                "human": "What is the floor made of where the egg falls?",
+                "assistant": "The floor is made of glass."
+            },
+            {
+                "human": "From which perspective is the egg falling on the glass floor filmed?",
+                "assistant": "The shot is taken from below."
+            },
+            {
+                "human": "What happens to the egg when it falls on the glass floor?",
+                "assistant": "It breaks and makes a mess."
+            },
+            {
+                "human": "The egg drops onto the glass floor, shattering and making a mess as seen from below."
+            }
+        ]
+    },
+    {
+        "video": "needle_16.mp4",
+        "conversation": [
+            {
+                "human": "What type of dog is the owner stroking?",
+                "assistant": "Jack Russell"
+            },
+            {
+                "human": "What is the owner wearing while stroking the Jack Russell?",
+                "assistant": "Sports boots"
+            },
+            {
+                "human": "What does the Jack Russell want to do while being stroked?",
+                "assistant": "Run away"
+            },
+            {
+                "human": "The owner is stroking a Jack Russell in sports boots, but the dog seems eager to run away."
+            }
+        ]
+    },
+    {
+        "video": "ego_23.mp4",
+        "conversation": [
+            {
+                "human": "Where was the white vase placed initially?",
+                "assistant": "Beside the extension board."
+            },
+            {
+                "human": "Where did I keep the Jenga puzzle afterwards?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "What did I eventually put in the storage box?",
+                "assistant": "Puzzle and coins."
+            },
+            {
+                "human": "Where did I finally place the Connect4 game box?",
+                "assistant": "Under the television stand."
+            },
+            {
+                "human": "I moved the white vase beside the extension board, then rearranged the Jenga puzzle, packed it and some coins away, and finally placed the Connect4 box under the TV stand."
+            }
+        ]
+    },
+    {
+        "video": "needle_68.mp4",
+        "conversation": [
+            {
+                "human": "What time of day is it when the little Asian girl is creating sand piles on the beach?",
+                "assistant": "Sunset"
+            },
+            {
+                "human": "What is the little Asian girl wearing while making sand piles on the beach?",
+                "assistant": "A bikini"
+            },
+            {
+                "human": "What season is it when the little girl in a bikini is playing on the beach?",
+                "assistant": "Summer"
+            },
+            {
+                "human": "During sunset, a little girl is building sand piles on the beach wearing a bikini since it's summer."
+            }
+        ]
+    },
+    {
+        "video": "movie101_36.mp4",
+        "conversation": [
+            {
+                "human": "In the video, what color is the scarf worn by the girl playing in the snow while wearing a plaid shirt?",
+                "assistant": "Red"
+            },
+            {
+                "human": "In the snowy scene, what color is the coat worn by the girl while two people are looking at each other in the woods?",
+                "assistant": "White"
+            },
+            {
+                "human": "At the hospital, what color is the hat worn by the girl being rescued?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "What color is the top worn by the woman holding a white cloth in her hand later in the video?",
+                "assistant": "Green"
+            },
+            {
+                "human": "I vividly picture the girl with a red scarf in the snow, a white coat in the woods, a blue hat at the hospital, and a woman in a green top holding a white cloth."
+            }
+        ]
+    },
+    {
+        "video": "movie101_71.mp4",
+        "conversation": [
+            {
+                "human": "What is the genre of the film described?",
+                "assistant": "Comedy"
+            },
+            {
+                "human": "What event is primarily depicted in the video?",
+                "assistant": "Prison Break"
+            },
+            {
+                "human": "I'm intrigued by how a comedy can focus on a prison break with such intensity."
+            }
+        ]
+    },
+    {
+        "video": "ego_52.mp4",
+        "conversation": [
+            {
+                "human": "Did I see any Pepsi cans on the table?",
+                "assistant": "Yes, there were four Pepsi cans on the table."
+            },
+            {
+                "human": "Where was the Tostitos queso cheese jar?",
+                "assistant": "It was in the fridge."
+            },
+            {
+                "human": "What word did I read on the banner?",
+                "assistant": "\"We can do it\" was written on the banner."
+            },
+            {
+                "human": "What instrument did I play?",
+                "assistant": "You played the piano."
+            },
+            {
+                "human": "Did I see a flower drawing in the notebook?",
+                "assistant": "Yes, there was a flower drawing in the notebook."
+            },
+            {
+                "human": "Where was the writing book stored?",
+                "assistant": "The writing book was in the drawer."
+            },
+            {
+                "human": "How many paintings were there in the bedroom?",
+                "assistant": "There were three paintings in the bedroom."
+            },
+            {
+                "human": "How many yoga mats did I find?",
+                "assistant": "There were three yoga mats."
+            },
+            {
+                "human": "I mean, come on."
+            }
+        ]
+    },
+    {
+        "video": "movie101_41.mp4",
+        "conversation": [
+            {
+                "human": "What does the diving wild man wear as a mask?",
+                "assistant": "Bone"
+            },
+            {
+                "human": "What materials are used for the wild man\u2019s hunting tools?",
+                "assistant": "Wooden stick, stone, and hemp rope"
+            },
+            {
+                "human": "What is floating on the surface of the river?",
+                "assistant": "Animal skin"
+            },
+            {
+                "human": "What color is the pottery found on the ground in the video?",
+                "assistant": "Red"
+            },
+            {
+                "human": "Uh, yeah."
+            }
+        ]
+    },
+    {
+        "video": "movie101_4.mp4",
+        "conversation": [
+            {
+                "human": "What was the mood of the person in camouflage clothing while talking to a lady on the street?",
+                "assistant": "Excited"
+            },
+            {
+                "human": "What happened when a person in black clothing and a person wearing glasses were driving a race car?",
+                "assistant": "They had a car accident."
+            },
+            {
+                "human": "Why didn\u2019t the person in the red jacket stab the person in camouflage clothing at the end?",
+                "assistant": "They were stopped by a person on a motorcycle."
+            },
+            {
+                "human": "You know what I mean?"
+            }
+        ]
+    },
+    {
+        "video": "8.mp4",
+        "conversation": [
+            {
+                "human": "What is the weather when the main cartoon character meets his friends in the video?",
+                "assistant": "Sunny"
+            },
+            {
+                "human": "What color are the shoes that the main cartoon character is wearing?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "What color is the beard of the captain on the ship?",
+                "assistant": "Long white beard"
+            },
+            {
+                "human": "What color is the top worn by the pink-haired cartoon character at the end of the video?",
+                "assistant": "Red"
+            },
+            {
+                "human": "Sort of, kind of."
+            }
+        ]
+    },
+    {
+        "video": "needle_45.mp4",
+        "conversation": [
+            {
+                "human": "What protective gear are the scientists wearing as they enter the laboratory?",
+                "assistant": "Gloves and glasses."
+            },
+            {
+                "human": "What are the scientists doing in the laboratory?",
+                "assistant": "They are researching sample tests with protection equipment and glasses."
+            },
+            {
+                "human": "What equipment do the scientists use for their research?",
+                "assistant": "They use a pipette and beaker."
+            },
+            {
+                "human": "What substance is being transferred to the beaker during the experiment?",
+                "assistant": "A liquid tester."
+            },
+            {
+                "human": "It's just the way things are, and you kind of have to roll with it, don't you think?"
+            }
+        ]
+    },
+    {
+        "video": "needle_96.mp4",
+        "conversation": [
+            {
+                "human": "What is the ethnicity of the couple?",
+                "assistant": "Multiethnic"
+            },
+            {
+                "human": "What are the couple doing on the couch?",
+                "assistant": "Choosing a new home and ordering furniture online"
+            },
+            {
+                "human": "What devices are the couple using while sitting on the couch?",
+                "assistant": "Laptop and phone"
+            },
+            {
+                "human": "What are the couple surrounded by while sitting on the couch?",
+                "assistant": "Cardboard boxes"
+            },
+            {
+                "human": "What are the couple planning and dreaming about?",
+                "assistant": "A new home"
+            },
+            {
+                "human": "I see."
+            }
+        ]
+    },
+    {
+        "video": "needle_4.mp4",
+        "conversation": [
+            {
+                "human": "During a sunny summer day, what is the man in the black silhouette doing on the lake shore?",
+                "assistant": "Catching the drone."
+            },
+            {
+                "human": "What is the man in the black silhouette wearing as he stands on the lake shore?",
+                "assistant": "A hood."
+            },
+            {
+                "human": "What object is the man in the black silhouette holding on the lake shore?",
+                "assistant": "A controller."
+            },
+            {
+                "human": "What is the man in the black silhouette catching on the lake shore?",
+                "assistant": "A drone quadcopter."
+            },
+            {
+                "human": "You know what I mean?"
+            }
+        ]
+    },
+    {
+        "video": "movie101_12.mp4",
+        "conversation": [
+            {
+                "human": "What color is the incense burner seen at the beginning of the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color top is the woman wearing while doing makeup in the video?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "What color skirt does the woman who is doing makeup wear?",
+                "assistant": "Pink"
+            },
+            {
+                "human": "What color hat is the person chatting with the seated man wearing later in the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "It's like, you know."
+            }
+        ]
+    },
+    {
+        "video": "needle_83.mp4",
+        "conversation": [
+            {
+                "human": "What is the background color?",
+                "assistant": "White"
+            },
+            {
+                "human": "What is the man's apparent age?",
+                "assistant": "Mature"
+            },
+            {
+                "human": "What is the man doing in front of the white background?",
+                "assistant": "Laughing and covering his mouth with his hand"
+            },
+            {
+                "human": "That's about it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_81.mp4",
+        "conversation": [
+            {
+                "human": "What type of film is this?",
+                "assistant": "Romance"
+            },
+            {
+                "human": "In what setting does the romance film take place?",
+                "assistant": "Wedding"
+            },
+            {
+                "human": "I find it interesting how romance movies often use weddings as a dramatic backdrop."
+            }
+        ]
+    },
+    {
+        "video": "needle_56.mp4",
+        "conversation": [
+            {
+                "human": "Where is the woman working?",
+                "assistant": "In a garment factory"
+            },
+            {
+                "human": "What kind of factory is it?",
+                "assistant": "It is a garment factory"
+            },
+            {
+                "human": "What is the woman doing there?",
+                "assistant": "She is working on the production line"
+            },
+            {
+                "human": "The lady works on the production line in a garment factory, keeping everything running smoothly."
+            }
+        ]
+    },
+    {
+        "video": "movie101_85.mp4",
+        "conversation": [
+            {
+                "human": "What is the main setting of the film?",
+                "assistant": "Ocean"
+            },
+            {
+                "human": "What type of film is this?",
+                "assistant": "Animation"
+            },
+            {
+                "human": "Or something."
+            }
+        ]
+    },
+    {
+        "video": "movie101_73.mp4",
+        "conversation": [
+            {
+                "human": "What type of film is this?",
+                "assistant": "Romance"
+            },
+            {
+                "human": "What is the main plot of the film?",
+                "assistant": "Blind date"
+            },
+            {
+                "human": "And stuff like that."
+            }
+        ]
+    },
+    {
+        "video": "needle_92.mp4",
+        "conversation": [
+            {
+                "human": "Who is the woman enjoying the summer sunset?",
+                "assistant": "She is a retired woman."
+            },
+            {
+                "human": "What is the woman doing during the summer sunset?",
+                "assistant": "She is taking a moment to enjoy life."
+            },
+            {
+                "human": "What is the woman wearing while enjoying the summer sunset?",
+                "assistant": "She is wearing a hat and sunglasses."
+            },
+            {
+                "human": "Interesting."
+            }
+        ]
+    },
+    {
+        "video": "AWA-4.mp4",
+        "conversation": [
+            {
+                "human": "What type of video is this?",
+                "assistant": "Nature and Animals"
+            },
+            {
+                "human": "What is the main background setting of the video?",
+                "assistant": "Grassland"
+            },
+            {
+                "human": "Who are the main subjects featured in the video?",
+                "assistant": "Various types of dinosaurs"
+            },
+            {
+                "human": "I'm watching a nature video set in a grassland featuring various dinosaurs."
+            }
+        ]
+    },
+    {
+        "video": "movie101_111.mp4",
+        "conversation": [
+            {
+                "human": "What type of video is this?",
+                "assistant": "Mystery"
+            },
+            {
+                "human": "What is the main plot of the video?",
+                "assistant": "Police solving a case"
+            },
+            {
+                "human": "Anyway, what can you do? Life goes on, and we just have to keep moving forward."
+            }
+        ]
+    },
+    {
+        "video": "needle_11.mp4",
+        "conversation": [
+            {
+                "human": "What is the profession of the person in the control room during a recording session?",
+                "assistant": "Sound engineer"
+            },
+            {
+                "human": "Where is the sound engineer during a recording session?",
+                "assistant": "In the control room"
+            },
+            {
+                "human": "What is the sound engineer doing during a recording session?",
+                "assistant": "Moving levers of a multitrack mixing console"
+            },
+            {
+                "human": "What is happening when the sound engineer moves the levers of a multitrack mixing console?",
+                "assistant": "A recording session"
+            },
+            {
+                "human": "The sound engineer really shapes the recording experience by adjusting those levers at the mixing console."
+            }
+        ]
+    },
+    {
+        "video": "232.mp4",
+        "conversation": [
+            {
+                "human": "What is the topic of the video?",
+                "assistant": "The video is related to nature."
+            },
+            {
+                "human": "Who is explaining the content in the video?",
+                "assistant": "It's a man."
+            },
+            {
+                "human": "Gotcha."
+            }
+        ]
+    },
+    {
+        "video": "needle_43.mp4",
+        "conversation": [
+            {
+                "human": "What is the purpose of the SUV being parked on the side of the desert highway?",
+                "assistant": "For green screen or chroma key"
+            },
+            {
+                "human": "What is the condition of the highway where the SUV is parked?",
+                "assistant": "Empty"
+            },
+            {
+                "human": "Sort of, kind of."
+            }
+        ]
+    },
+    {
+        "video": "needle_19.mp4",
+        "conversation": [
+            {
+                "human": "What is the setting of the segment where the tourists are?",
+                "assistant": "A beautiful fishing village"
+            },
+            {
+                "human": "Where exactly are the tourists walking in the fishing village?",
+                "assistant": "On the embankment"
+            },
+            {
+                "human": "What activity are the tourists engaged in on the embankment?",
+                "assistant": "Walking"
+            },
+            {
+                "human": "I suppose."
+            }
+        ]
+    },
+    {
+        "video": "movie101_13.mp4",
+        "conversation": [
+            {
+                "human": "What color is the hat of the man conducting business at the bank in the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the box of money seen at the beginning of the video?",
+                "assistant": "Red"
+            },
+            {
+                "human": "What color is the top worn by the little boy who picks up the box in the video?",
+                "assistant": "White"
+            },
+            {
+                "human": "What color is the top worn by the little girl who later picks up the box in the video?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "I mean, at the end of the day, everything will work out somehow, as it always does."
+            }
+        ]
+    },
+    {
+        "video": "ego_2.mp4",
+        "conversation": [
+            {
+                "human": "Where is the person in the video?",
+                "assistant": "Clothing store"
+            },
+            {
+                "human": "What is the weather like outside in the video?",
+                "assistant": "Sunny"
+            },
+            {
+                "human": "Well, you know, it's just one of those things that happens sometimes, and there's not much you can do about it, right?"
+            }
+        ]
+    },
+    {
+        "video": "needle_54.mp4",
+        "conversation": [
+            {
+                "human": "Where is the mature businesswoman working on the corporate strategy?",
+                "assistant": "In the office."
+            },
+            {
+                "human": "What is the mature businesswoman holding while working on the corporate strategy?",
+                "assistant": "A marker."
+            },
+            {
+                "human": "What is she writing on the whiteboard?",
+                "assistant": "Notes."
+            },
+            {
+                "human": "The businesswoman is developing corporate strategy notes on the office whiteboard."
+            }
+        ]
+    },
+    {
+        "video": "xiaoliyu_5.mp4",
+        "conversation": [
+            {
+                "human": "Who captured the cartoon turtle?",
+                "assistant": "The cartoon snake captured the cartoon turtle."
+            },
+            {
+                "human": "Why did the cartoon seahorse stop attacking?",
+                "assistant": "The cartoon seahorse stopped attacking because the cartoon snake used the cartoon turtle to block it."
+            },
+            {
+                "human": "What are the cartoon shrimp and cartoon seal disguised as?",
+                "assistant": "They are disguised as a cartoon lobster and a cartoon catfish."
+            },
+            {
+                "human": "What is the reaction of the cartoon crab group when they see the cartoon turtle?",
+                "assistant": "The cartoon crab group runs away when they see the cartoon turtle."
+            },
+            {
+                "human": "Interesting."
+            }
+        ]
+    },
+    {
+        "video": "needle_65.mp4",
+        "conversation": [
+            {
+                "human": "In the video segment, what is the condition of the grass during the forest fire?",
+                "assistant": "The grass is old and dry."
+            },
+            {
+                "human": "What happens to the dry grass as a result of the forest fire?",
+                "assistant": "The grass is producing smoke and flame."
+            },
+            {
+                "human": "During which season does the forest fire take place in the video?",
+                "assistant": "Dry season."
+            },
+            {
+                "human": "The dry, old grass in the video looked ready to burn, which often happens during the dry season."
+            }
+        ]
+    },
+    {
+        "video": "needle_21.mp4",
+        "conversation": [
+            {
+                "human": "What is the condition of the car\u2019s windshield as it rides through the mountain country village?",
+                "assistant": "The windshield is broken"
+            },
+            {
+                "human": "What is the weather like as the car with a broken windshield travels through the mountain village?",
+                "assistant": "It is a sunny summer day."
+            },
+            {
+                "human": "From whose perspective is this scene witnessed?",
+                "assistant": "It is viewed from the backseat passenger's perspective."
+            },
+            {
+                "human": "Cool."
+            }
+        ]
+    },
+    {
+        "video": "ego_66.mp4",
+        "conversation": [
+            {
+                "human": "Where was the insulated drink cup located earlier?",
+                "assistant": "It was on the table."
+            },
+            {
+                "human": "Where did I notice a silver bucket?",
+                "assistant": "You saw it in the bedroom."
+            },
+            {
+                "human": "Where did I have the can?",
+                "assistant": "It was in your hand."
+            },
+            {
+                "human": "Cool."
+            }
+        ]
+    },
+    {
+        "video": "movie101_54.mp4",
+        "conversation": [
+            {
+                "human": "What is the person in black clothes discussing with the person sitting in the car?",
+                "assistant": "An important arrest operation"
+            },
+            {
+                "human": "While escaping on a motorcycle, what did the person in the black leather jacket encounter?",
+                "assistant": "They were hit by a car"
+            },
+            {
+                "human": "How did the person in the black leather jacket reach the hospital after the accident?",
+                "assistant": "A red taxi took him to the hospital"
+            },
+            {
+                "human": "An intense moment unfolds as someone in black discusses an arrest in a car, leading to a dramatic motorcycle escape and a crash, before a red taxi rushes them to the hospital."
+            }
+        ]
+    },
+    {
+        "video": "movie101_68.mp4",
+        "conversation": [
+            {
+                "human": "In what environment does the story of the movie take place?",
+                "assistant": "Snowy mountains"
+            },
+            {
+                "human": "What is the genre of this movie?",
+                "assistant": "Comedy"
+            },
+            {
+                "human": "The movie must be funny with all those snowy mountain scenes."
+            }
+        ]
+    },
+    {
+        "video": "needle_70.mp4",
+        "conversation": [
+            {
+                "human": "Where are the tourists strolling and what are they admiring?",
+                "assistant": "The tourists are strolling in the Plaza de Espana in Seville, admiring a fountain."
+            },
+            {
+                "human": "What notable feature are the tourists drawn to in the Plaza de Espana?",
+                "assistant": "They are drawn to the fountain."
+            },
+            {
+                "human": "What activity are the tourists engaged in at the Plaza de Espana?",
+                "assistant": "They are admiring the fountain."
+            },
+            {
+                "human": "What is the weather like as they enjoy their visit?",
+                "assistant": "The weather is sunny."
+            },
+            {
+                "human": "Tourists at the Plaza de Espa\u00f1a are captivated by the fountain sparkling in the sunlight on this beautiful day."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_8.mp4",
+        "conversation": [
+            {
+                "human": "What does the man with a scar on his face do after drawing blood?",
+                "assistant": "He takes a pill from a yellow bottle."
+            },
+            {
+                "human": "Where does the woman in the black leather jacket go after talking alone with the man with a scar on his face?",
+                "assistant": "She goes to the swimming pool."
+            },
+            {
+                "human": "Why do the man and woman stop kissing in the pool?",
+                "assistant": "They are interrupted by a man in a black T-shirt."
+            },
+            {
+                "human": "After their chat, the guy with a scar takes a pill seriously right after the blood draw, while the woman in the black jacket heads for a swim, which is interrupted when someone in a black T-shirt shows up unexpectedly."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_5.mp4",
+        "conversation": [
+            {
+                "human": "What occurred during the police search process in the sewer?",
+                "assistant": "The officers were knocked down by a man and a woman."
+            },
+            {
+                "human": "What happened to the woman in the sewer after she attacked the police?",
+                "assistant": "She was washed away by the water."
+            },
+            {
+                "human": "Who found and rescued the woman washed away by the water?",
+                "assistant": "She was found and rescued by a man."
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_3.mp4",
+        "conversation": [
+            {
+                "human": "What did the delivery man deliver to the cartoon cat?",
+                "assistant": "A kitten"
+            },
+            {
+                "human": "How did the cartoon cat drink its milk?",
+                "assistant": "Drinking with a straw"
+            },
+            {
+                "human": "What did the cartoon cat put under the carpet?",
+                "assistant": "Tomato"
+            },
+            {
+                "human": "How was the cartoon mouse tied up by the cat?",
+                "assistant": "With black thread"
+            },
+            {
+                "human": "First, a delivery guy gives a kitten to a cartoon cat, which drinks milk with a straw, hides a tomato under the carpet, and ties up a cartoon mouse with black thread."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_19.mp4",
+        "conversation": [
+            {
+                "human": "In the opening scene of the video, where three people are chatting, what color is the shirt of the man wearing glasses?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "As the story progresses, in the scene where two people get out of the car, what color is the car?",
+                "assistant": "Black"
+            },
+            {
+                "human": "Later, in the dining scene with four people chatting, what color is the dress of the woman wearing a necklace?",
+                "assistant": "Black"
+            },
+            {
+                "human": "Towards the end of the movie, what color is the top of the woman talking to the black police officer?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "I recall in the movie how the guy with glasses wore a blue shirt, and later, a woman in black with a necklace appears; near the end, a woman in a purple top chats with a black police officer."
+            }
+        ]
+    },
+    {
+        "video": "movie101_25.mp4",
+        "conversation": [
+            {
+                "human": "What is the setting and weather like in the scene of the video?",
+                "assistant": "The scene takes place on a sunny day."
+            },
+            {
+                "human": "How would you describe the genre of the movie clip?",
+                "assistant": "The genre is modern."
+            },
+            {
+                "human": "The video captures a bright, sunny day with a modern vibe in a contemporary setting."
+            }
+        ]
+    },
+    {
+        "video": "ego_81.mp4",
+        "conversation": [
+            {
+                "human": "Where was the bread before I picked it?",
+                "assistant": "In the refrigerator"
+            },
+            {
+                "human": "How many eggs did I pick?",
+                "assistant": "3"
+            },
+            {
+                "human": "What did I put in the egg yolk?",
+                "assistant": "Bread"
+            },
+            {
+                "human": "What did I put in the pan?",
+                "assistant": "Butter"
+            },
+            {
+                "human": "Where did I place the butter before using it?",
+                "assistant": "On the countertop"
+            },
+            {
+                "human": "What did I put on the plate?",
+                "assistant": "Yolk"
+            },
+            {
+                "human": "Where did I put the plate after using it?",
+                "assistant": "In the sink"
+            },
+            {
+                "human": "How many mugs did I see on the countertop?",
+                "assistant": "3"
+            },
+            {
+                "human": "How many knives did I notice in the cabinet?",
+                "assistant": "4"
+            },
+            {
+                "human": "How many jars did I see in the cabinet?",
+                "assistant": ""
+            },
+            {
+                "human": "What did I put in the plastic bag?",
+                "assistant": "Banana peel"
+            },
+            {
+                "human": "Or whatever."
+            }
+        ]
+    },
+    {
+        "video": "haimian_6.mp4",
+        "conversation": [
+            {
+                "human": "What are the cartoon starfish and cartoon sponge doing in the room?",
+                "assistant": "Watching TV"
+            },
+            {
+                "human": "What are the cartoon octopus and cartoon sponge doing together later?",
+                "assistant": "Running a restaurant"
+            },
+            {
+                "human": "What does the red cartoon character give to the cartoon character in yellow clothes?",
+                "assistant": "A ring"
+            },
+            {
+                "human": "What color does the cartoon starfish change the boat into?",
+                "assistant": "Black"
+            },
+            {
+                "human": "It's amusing to imagine the cartoon starfish and sponge watching TV, while later the octopus and sponge team up to run a restaurant, and the red character gives a ring to the one in yellow, with a starfish changing a boat unexpectedly."
+            }
+        ]
+    },
+    {
+        "video": "needle_40.mp4",
+        "conversation": [
+            {
+                "human": "What animal is sitting very still at the mouth of the den in the video?",
+                "assistant": "American toad"
+            },
+            {
+                "human": "What is the nature of the den where the American toad is sitting?",
+                "assistant": "Earthen cavity"
+            },
+            {
+                "human": "What is the American toad doing at the mouth of the den?",
+                "assistant": "Breathing and waiting"
+            },
+            {
+                "human": "How does the American toad avoid detection?",
+                "assistant": "Camouflage"
+            },
+            {
+                "human": "What is the state of movement of the American toad at the den entrance?",
+                "assistant": "Very little movement"
+            },
+            {
+                "human": "An American toad sits calmly at the den's entrance, using camouflage to stay unnoticed."
+            }
+        ]
+    },
+    {
+        "video": "ego_40.mp4",
+        "conversation": [
+            {
+                "human": "Where was the \"No Parking\" sign located?",
+                "assistant": "On the street."
+            },
+            {
+                "human": "Where was the \"Unauthorized Vehicle\" poster displayed?",
+                "assistant": "On the street."
+            },
+            {
+                "human": "What color shoes was the man wearing when he crossed the street?",
+                "assistant": "Red."
+            },
+            {
+                "human": "Anyway, what can you do? Life goes on, and we just have to keep moving forward."
+            }
+        ]
+    },
+    {
+        "video": "needle_97.mp4",
+        "conversation": [
+            {
+                "human": "What are the couple surrounded by as they sit on the couch?",
+                "assistant": "Cardboard boxes"
+            },
+            {
+                "human": "What devices are the couple using while sitting on the couch?",
+                "assistant": "Laptop and phone"
+            },
+            {
+                "human": "How are the couple using their devices?",
+                "assistant": "Choosing a new home and ordering furniture online"
+            },
+            {
+                "human": "What are the couple planning and dreaming about?",
+                "assistant": "A new home"
+            },
+            {
+                "human": "Well, there you have it."
+            }
+        ]
+    },
+    {
+        "video": "ego_69.mp4",
+        "conversation": [
+            {
+                "human": "Who did I interact with upon entering the clothing store?",
+                "assistant": "Grey t-shirt man"
+            },
+            {
+                "human": "Where was the red plastic shopping basket before I picked it up?",
+                "assistant": "On the floor"
+            },
+            {
+                "human": "Who did I talk to near the counter?",
+                "assistant": "Blue t-shirt man"
+            },
+            {
+                "human": "Where was the weighing scale located?",
+                "assistant": "Next to the fruits"
+            },
+            {
+                "human": "Where was the red ketchup bottle placed?",
+                "assistant": "Next to the bakery counter"
+            },
+            {
+                "human": "I first spoke to the guy in the grey t-shirt when I entered the store, picked up a red basket from the floor, then talked to the guy in the blue t-shirt near the counter, noticing the weighing scale by the fruits and a red ketchup bottle by the bakery."
+            }
+        ]
+    },
+    {
+        "video": "needle_41.mp4",
+        "conversation": [
+            {
+                "human": "What is the environment of the den where the American toad is located in the video?",
+                "assistant": "The den is an earthen cavity."
+            },
+            {
+                "human": "What animal is observed sitting at the mouth of the den?",
+                "assistant": "An American toad is sitting there."
+            },
+            {
+                "human": "How much movement is the American toad showing at the mouth of the den?",
+                "assistant": "There is very little movement."
+            },
+            {
+                "human": "What activity is the American toad engaged in while at the mouth of the den?",
+                "assistant": "It is breathing and waiting."
+            },
+            {
+                "human": "The American toad sits quietly, barely moving, as it breathes and waits at the entrance of its den."
+            }
+        ]
+    },
+    {
+        "video": "needle_51.mp4",
+        "conversation": [
+            {
+                "human": "Who are the two kids seen in the paddy field?",
+                "assistant": "They are Malay children."
+            },
+            {
+                "human": "What are the children doing in the paddy field?",
+                "assistant": "They are having fun."
+            },
+            {
+                "human": "What animals can be found tied beside the paddy field?",
+                "assistant": "Cows are tied beside the paddy field."
+            },
+            {
+                "human": "The Malay children are happily playing in the paddy field with cows tied nearby."
+            }
+        ]
+    },
+    {
+        "video": "movie101_15.mp4",
+        "conversation": [
+            {
+                "human": "What animal appears in the video?",
+                "assistant": "Llama"
+            },
+            {
+                "human": "What type of movie is the scene in the video from?",
+                "assistant": "Modern film"
+            },
+            {
+                "human": "Exactly."
+            }
+        ]
+    },
+    {
+        "video": "movie101_40.mp4",
+        "conversation": [
+            {
+                "human": "What genre is the movie clip in the video?",
+                "assistant": "Action"
+            },
+            {
+                "human": "In what setting does the scene from the video take place?",
+                "assistant": "City"
+            },
+            {
+                "human": "The movie clip seems to be from an action film set in a city."
+            }
+        ]
+    },
+    {
+        "video": "movie101_88.mp4",
+        "conversation": [
+            {
+                "human": "What is the purpose of the two individuals signing the contract?",
+                "assistant": "Blood transfusion"
+            },
+            {
+                "human": "What does the man do when they arrive at the seaside?",
+                "assistant": "Playing cotton candy"
+            },
+            {
+                "human": "What transportation does the man use to arrive at the end of the video?",
+                "assistant": "Helicopter"
+            },
+            {
+                "human": "If that makes sense."
+            }
+        ]
+    },
+    {
+        "video": "needle_89.mp4",
+        "conversation": [
+            {
+                "human": "Where is the Goldman Sachs Group logo displayed?",
+                "assistant": "On the screen in a meeting room."
+            },
+            {
+                "human": "What logo is displayed on the screen in the meeting room?",
+                "assistant": "The Goldman Sachs Group."
+            },
+            {
+                "human": "Uh-oh."
+            }
+        ]
+    },
+    {
+        "video": "needle_84.mp4",
+        "conversation": [
+            {
+                "human": "What is the setting when the engineer begins their work in the video?",
+                "assistant": "Windmills"
+            },
+            {
+                "human": "What does the engineer start working on in the video?",
+                "assistant": "Drawings"
+            },
+            {
+                "human": "What is the profession of the person working with the drawings?",
+                "assistant": "Engineer"
+            },
+            {
+                "human": "The engineer focuses on drawings, immersing in their work amidst the windmills."
+            }
+        ]
+    },
+    {
+        "video": "ego_17.mp4",
+        "conversation": [
+            {
+                "human": "What is the main activity of the first-person character in this video?",
+                "assistant": "Punching holes in wood"
+            },
+            {
+                "human": "What is the weather like in the video during these activities?",
+                "assistant": "Overcast"
+            },
+            {
+                "human": "It's like, you know."
+            }
+        ]
+    },
+    {
+        "video": "ego_36.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the extension box on?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Did I leave the front door open?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Where was the leash before I picked it up?",
+                "assistant": "On the front door handle"
+            },
+            {
+                "human": "Where was the dog after I opened the front door?",
+                "assistant": "In the lobby"
+            },
+            {
+                "human": "Where was the black tape before I picked it up?",
+                "assistant": "On the entrance stairs"
+            },
+            {
+                "human": "In what location did I first see the red pair of slippers?",
+                "assistant": "At the entrance of my house"
+            },
+            {
+                "human": "Who did I talk to at the entrance of my house?",
+                "assistant": "The woman in the pink top"
+            },
+            {
+                "human": "Where was the brown wallet?",
+                "assistant": "On the brown cabinet top"
+            },
+            {
+                "human": "How many face masks were on the brown cabinet?",
+                "assistant": "3"
+            },
+            {
+                "human": "Where was the yellow bag?",
+                "assistant": "On the black cabinet top"
+            },
+            {
+                "human": "Where was my card?",
+                "assistant": "In my hand"
+            },
+            {
+                "human": "Where was the pair of skating shoes before I picked them up?",
+                "assistant": "On the road side pavement"
+            },
+            {
+                "human": "Who did I interact with when I skated?",
+                "assistant": "The woman in black sports tights"
+            },
+            {
+                "human": "What colour was the helmet on the bicycle?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "Where was the watch I wore before I picked it up?",
+                "assistant": "On the white table"
+            },
+            {
+                "human": "Where did I put my lemon green wristwatch?",
+                "assistant": "On the white table"
+            },
+            {
+                "human": "Where did I put the white cup?",
+                "assistant": "On the white table"
+            },
+            {
+                "human": "What colour was the pair of trainers?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "In what location did I first see the orange sticky note?",
+                "assistant": "On the monitor of the desktop"
+            },
+            {
+                "human": "Where was the brown bag?",
+                "assistant": "On the floor"
+            },
+            {
+                "human": "I left the extension box and door open, saw my red slippers and brown wallet by the cabinet, talked to a woman in a pink top, held my card, picked up my skating shoes, and noticed my watch and cup on the white table."
+            }
+        ]
+    },
+    {
+        "video": "needle_13.mp4",
+        "conversation": [
+            {
+                "human": "During the simulation drill, what are the volunteers searching for?",
+                "assistant": "Rocket attack casualties"
+            },
+            {
+                "human": "What are the volunteers doing to find these casualties in the drill?",
+                "assistant": "Digging through the rubble"
+            },
+            {
+                "human": "How are the volunteers conducting their search in the rubble?",
+                "assistant": "They are searching for rocket attack casualties."
+            },
+            {
+                "human": "Sure."
+            }
+        ]
+    },
+    {
+        "video": "movie101_8.mp4",
+        "conversation": [
+            {
+                "human": "Where does the fight take place at the beginning of the video?",
+                "assistant": "In the forest"
+            },
+            {
+                "human": "What is the hair color of the child seen in the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the little monster\u2019s fur in the video?",
+                "assistant": "Green"
+            },
+            {
+                "human": "When does the final scene of the video occur?",
+                "assistant": "Night"
+            },
+            {
+                "human": "I see."
+            }
+        ]
+    },
+    {
+        "video": "xiaoliyu_1.mp4",
+        "conversation": [
+            {
+                "human": "What is the cartoon carp holding?",
+                "assistant": "Seaweed"
+            },
+            {
+                "human": "What happened to the cartoon turtle after it ate the seaweed?",
+                "assistant": "Vomiting"
+            },
+            {
+                "human": "What did the cartoon catfish and cartoon lobster do to the cartoon turtle?",
+                "assistant": "Kicked the cartoon turtle, knocking it into the rocks"
+            },
+            {
+                "human": "What did the cartoon turtle hit that caused it to get dizzy?",
+                "assistant": "Cartoon carp"
+            },
+            {
+                "human": "The cartoon turtle got sick from eating seaweed, then the catfish and lobster kicked it into the rocks, causing it to collide with the dizzy carp."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_4.mp4",
+        "conversation": [
+            {
+                "human": "What does the cartoon cat use to hit the cartoon mouse?",
+                "assistant": "A vase"
+            },
+            {
+                "human": "Why was the cartoon cat thrown out of the house?",
+                "assistant": "Because people thought the cartoon cat broke the vase"
+            },
+            {
+                "human": "What are the cartoon cat and mouse eating together on the wall afterwards?",
+                "assistant": "Chicken leg"
+            },
+            {
+                "human": "What are the cartoon cat and mouse doing in front of the pink curtain later?",
+                "assistant": "Clapping hands"
+            },
+            {
+                "human": "Uh-huh."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_10.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, what are the two men searching for on the street?",
+                "assistant": "They are searching for a watch."
+            },
+            {
+                "human": "What is the woman in the plaid shirt watching inside the house during the video?",
+                "assistant": "She is watching surveillance video."
+            },
+            {
+                "human": "At the end of the video, how does the woman in the plaid shirt feel when talking to the man with a scar on his face?",
+                "assistant": "She feels excited."
+            },
+            {
+                "human": "It's interesting how the guys search for a watch while a woman in a plaid shirt watches the surveillance, and she gets excited talking to a guy with a scar."
+            }
+        ]
+    },
+    {
+        "video": "movie101_31.mp4",
+        "conversation": [
+            {
+                "human": "What color is the clothing of the injured officer in the police station in the movie clip?",
+                "assistant": "Green"
+            },
+            {
+                "human": "How many bullets are on the table during the scene?",
+                "assistant": "10"
+            },
+            {
+                "human": "How many cars are parked by the small river in the video?",
+                "assistant": "Two"
+            },
+            {
+                "human": "What color is the bag placed on the table at the end of the video?",
+                "assistant": "Green"
+            },
+            {
+                "human": "Ah."
+            }
+        ]
+    },
+    {
+        "video": "needle_91.mp4",
+        "conversation": [
+            {
+                "human": "What color are the leaves of the lily of the valley plant in the video?",
+                "assistant": "Green"
+            },
+            {
+                "human": "What is happening to the lily of the valley flowers in the video?",
+                "assistant": "Raindrops are falling on them"
+            },
+            {
+                "human": "Uh-huh."
+            }
+        ]
+    },
+    {
+        "video": "movie101_1.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, what is the person in the blue pants trying to prevent the person in the black shirt from doing?",
+                "assistant": "Lighting a cigarette"
+            },
+            {
+                "human": "Why did the children run out of the classroom?",
+                "assistant": "To watch two other children fight"
+            },
+            {
+                "human": "After kicking the water, what is the mood of the person in the blue pants?",
+                "assistant": "Resentful"
+            },
+            {
+                "human": "A person in blue pants tries to stop someone in a black shirt from lighting a cigarette amidst classroom chaos, leading to drama and resentment."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_11.mp4",
+        "conversation": [
+            {
+                "human": "Why does the woman in leather clothing want to attract attention?",
+                "assistant": "To help another woman sneak into the house."
+            },
+            {
+                "human": "Why does the woman in blue clothing want to enter the house?",
+                "assistant": "To operate the computer device in the house."
+            },
+            {
+                "human": "Why are the woman in blue clothing and the man with a scar on his face surrounded by armed personnel?",
+                "assistant": "Because they triggered the alarm device."
+            },
+            {
+                "human": "I guess we'll see how it goes, but I'm not too worried about it at the moment."
+            }
+        ]
+    },
+    {
+        "video": "needle_66.mp4",
+        "conversation": [
+            {
+                "human": "What time of day is it in the video segment featuring the power plant?",
+                "assistant": "Dawn"
+            },
+            {
+                "human": "What is rising to the sky in the power plant video segment?",
+                "assistant": "Water vapor"
+            },
+            {
+                "human": "What can be seen in the background of the power plant video segment?",
+                "assistant": "Power poles and chimneys"
+            },
+            {
+                "human": "I mean, at the end of the day, everything will work out somehow, as it always does."
+            }
+        ]
+    },
+    {
+        "video": "ego_25.mp4",
+        "conversation": [
+            {
+                "human": "How many trash cans are on the front porch of the apartment?",
+                "assistant": "6"
+            },
+            {
+                "human": "What word is written on the black bag?",
+                "assistant": "walker"
+            },
+            {
+                "human": "What color is the bag with the second rider?",
+                "assistant": "blue"
+            },
+            {
+                "human": "Where is the package in the plastic bag located?",
+                "assistant": "Under the flower vase at the entrance of the house"
+            },
+            {
+                "human": "I guess."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_13.mp4",
+        "conversation": [
+            {
+                "human": "Where does the family of three finally stop after driving on the road?",
+                "assistant": "Parking lot"
+            },
+            {
+                "human": "What does the man in the checkered shirt get up to bring while people are eating?",
+                "assistant": "Cup"
+            },
+            {
+                "human": "I mean, come on."
+            }
+        ]
+    },
+    {
+        "video": "tomjerry_11.mp4",
+        "conversation": [
+            {
+                "human": "Why does the cartoon cat exercise?",
+                "assistant": "To defeat the cartoon mouse in yellow clothes."
+            },
+            {
+                "human": "What did the cartoon cat throw at the two cartoon mice?",
+                "assistant": "A black ball."
+            },
+            {
+                "human": "Why are all the cartoon cats lying outside?",
+                "assistant": "Because they were hit by the cartoon mouse."
+            },
+            {
+                "human": "Why is the grey cartoon cat making a phone call?",
+                "assistant": "To call other cartoon cats."
+            },
+            {
+                "human": "The grey cartoon cat is on the phone gathering more cats because the mouse in yellow hit them all with a black ball."
+            }
+        ]
+    },
+    {
+        "video": "needle_48.mp4",
+        "conversation": [
+            {
+                "human": "What is the child doing at home in the video?",
+                "assistant": "Playing a game on a mobile phone."
+            },
+            {
+                "human": "What is the ethnicity of the children playing the game on the mobile phone?",
+                "assistant": "Asian."
+            },
+            {
+                "human": "I guess."
+            }
+        ]
+    },
+    {
+        "video": "movie101_69.mp4",
+        "conversation": [
+            {
+                "human": "What is the genre of this film?",
+                "assistant": "Police and criminals"
+            },
+            {
+                "human": "What event is depicted in the entire video?",
+                "assistant": "Police drug bust"
+            },
+            {
+                "human": "This movie dives into the intense world of law enforcement and crime, focusing on a thrilling police drug bust."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_31.mp4",
+        "conversation": [
+            {
+                "human": "What color is the dress of the woman who enters while the two men are cooking at the beginning?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "What is the woman in the blue dress holding in the video?",
+                "assistant": "Flower"
+            },
+            {
+                "human": "What does the drone operated by the two men hit?",
+                "assistant": "Photo"
+            },
+            {
+                "human": "As the woman in the blue dress walks in with a flower, the guys' drone crashes into a photo."
+            }
+        ]
+    },
+    {
+        "video": "movie101_62.mp4",
+        "conversation": [
+            {
+                "human": "What type of film is this?",
+                "assistant": "Comedy"
+            },
+            {
+                "human": "Where is the setting of the video?",
+                "assistant": "Ocean"
+            },
+            {
+                "human": "I love ocean-side comedies."
+            }
+        ]
+    },
+    {
+        "video": "needle_93.mp4",
+        "conversation": [
+            {
+                "human": "Who is the woman enjoying the summer sunset?",
+                "assistant": "She is a retired woman."
+            },
+            {
+                "human": "What is the woman doing during the summer sunset?",
+                "assistant": "She is taking a moment to enjoy life."
+            },
+            {
+                "human": "What is the woman wearing during the summer sunset?",
+                "assistant": "She is wearing a hat and sunglasses."
+            },
+            {
+                "human": "I can picture a retired woman with a hat and sunglasses, savoring a summer sunset and enjoying life."
+            }
+        ]
+    },
+    {
+        "video": "movie101_108.mp4",
+        "conversation": [
+            {
+                "human": "What is the main subject shown in the video?",
+                "assistant": "Two little girls"
+            },
+            {
+                "human": "Which scene is missing from the video?",
+                "assistant": "Auditorium"
+            },
+            {
+                "human": "Exactly."
+            }
+        ]
+    },
+    {
+        "video": "ego_9.mp4",
+        "conversation": [
+            {
+                "human": "Did I throw away the black plastic?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "Did I put the fish thread tape in the toolbox?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "Did I keep the hammer and white cups on the stairs?",
+                "assistant": "Yes."
+            },
+            {
+                "human": "How many drilling machines did I leave on the stairs?",
+                "assistant": "Two."
+            },
+            {
+                "human": "Where did I place the gloves and cutter?",
+                "assistant": "On the stairs."
+            },
+            {
+                "human": "Fair enough."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_22.mp4",
+        "conversation": [
+            {
+                "human": "What color is the woman's hair in the room where the man is kidnapped?",
+                "assistant": "Yellow"
+            },
+            {
+                "human": "What color is the clothing of the man breaking the brick wall with a hammer?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What material is the wall made of in the scene where it's being broken down?",
+                "assistant": "Bricks"
+            },
+            {
+                "human": "What color is the vest worn by the character in the amusement park scene?",
+                "assistant": "Black"
+            },
+            {
+                "human": "That's about it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_56.mp4",
+        "conversation": [
+            {
+                "human": "What is the man's emotion when he arrives at the woman's house?",
+                "assistant": "Angry"
+            },
+            {
+                "human": "What color are the man's clothes when he gets to the woman's house?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What does the man see on the woman's table that makes him angry?",
+                "assistant": "Pass"
+            },
+            {
+                "human": "The man seems upset when he arrives in black clothes, and something on the woman's table triggers his anger."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_29.mp4",
+        "conversation": [
+            {
+                "human": "What animal is seen at the beginning of the video?",
+                "assistant": "Dinosaur"
+            },
+            {
+                "human": "What color is the sweater worn by the old man who talks to the woman?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "What unusual piece of clothing does the old man have after the scan?",
+                "assistant": "Skirt"
+            },
+            {
+                "human": "Totally."
+            }
+        ]
+    },
+    {
+        "video": "ego_68.mp4",
+        "conversation": [
+            {
+                "human": "What word did I read on the paper stuck to the green glass?",
+                "assistant": "Santana Row."
+            },
+            {
+                "human": "What symbol did I see on my ID?",
+                "assistant": "Facebook symbol."
+            },
+            {
+                "human": "What did I put in my pocket?",
+                "assistant": "ATM card."
+            },
+            {
+                "human": "Or whatever."
+            }
+        ]
+    },
+    {
+        "video": "needle_79.mp4",
+        "conversation": [
+            {
+                "human": "In the video, what is first shown in close-up of the doctor?",
+                "assistant": "Eye"
+            },
+            {
+                "human": "Later, what is depicted in the colors of the Poland flag in the video?",
+                "assistant": "The doctor's glasses"
+            },
+            {
+                "human": "The video starts with a close-up of the doctor's eye, and later I noticed his glasses have the colors of the Polish flag."
+            }
+        ]
+    },
+    {
+        "video": "AWD-1.mp4",
+        "conversation": [
+            {
+                "human": "What is the background setting of the video?",
+                "assistant": "Glacier"
+            },
+            {
+                "human": "What type of video is this?",
+                "assistant": "Nature Science"
+            },
+            {
+                "human": "That's about it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_34.mp4",
+        "conversation": [
+            {
+                "human": "What is the setting of the movie scene you are watching?",
+                "assistant": "Town"
+            },
+            {
+                "human": "How would you describe the genre of this movie clip?",
+                "assistant": "Modern"
+            },
+            {
+                "human": "Well, you know, it's just one of those things that happens sometimes, and there's not much you can do about it, right?"
+            }
+        ]
+    },
+    {
+        "video": "needle_146.mp4",
+        "conversation": [
+            {
+                "human": "Who are using the face bow in the video segment?",
+                "assistant": "The dentist and his assistant"
+            },
+            {
+                "human": "What tool are the dentist and his assistant using while treating the patient\u2019s teeth in the video?",
+                "assistant": "Face bow"
+            },
+            {
+                "human": "In the video, the dentist and assistant are carefully using a face bow to treat the patient's teeth."
+            }
+        ]
+    },
+    {
+        "video": "ego_26.mp4",
+        "conversation": [
+            {
+                "human": "Where was the drill before you picked it up?",
+                "assistant": "It was on the table."
+            },
+            {
+                "human": "Where did you put the spanner after using it?",
+                "assistant": "I put it back on the table."
+            },
+            {
+                "human": "Which part of the bicycle did you spray with lube?",
+                "assistant": "I sprayed the bicycle chain area."
+            },
+            {
+                "human": "I see."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_24.mp4",
+        "conversation": [
+            {
+                "human": "What color is the taxi at the beginning of the clip?",
+                "assistant": "Yellow"
+            },
+            {
+                "human": "What color is the lamp next to the two people chatting in the clip?",
+                "assistant": "Green"
+            },
+            {
+                "human": "What color is the police car in the video?",
+                "assistant": "White"
+            },
+            {
+                "human": "What color is the top worn by the woman among the three people chatting at the end of the clip?",
+                "assistant": "Green"
+            },
+            {
+                "human": "I recall the yellow taxi, the green lamp by two people chatting, the white police car, and the woman in a green top at the end."
+            }
+        ]
+    },
+    {
+        "video": "needle_32.mp4",
+        "conversation": [
+            {
+                "human": "What is the woman doing on the computer?",
+                "assistant": "Shopping online"
+            },
+            {
+                "human": "What unusual event happens while the woman is using the computer?",
+                "assistant": "A hand comes out of the computer"
+            },
+            {
+                "human": "What is the woman's reaction when the hand comes out of the computer?",
+                "assistant": "She is surprised"
+            },
+            {
+                "human": "What does the hand coming out of the computer do?",
+                "assistant": "Delivers a product"
+            },
+            {
+                "human": "What is the woman's appearance?",
+                "assistant": "She is a beautiful woman"
+            },
+            {
+                "human": "While casually shopping online, a beautiful woman is shocked when a mysterious hand pops out of the computer to hand her a product."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_39.mp4",
+        "conversation": [
+            {
+                "human": "Where does the story take place?",
+                "assistant": "In a city."
+            },
+            {
+                "human": "What type of film is it?",
+                "assistant": "It is a comedy."
+            },
+            {
+                "human": "It's a comedy set in a bustling city, all about the laughs."
+            }
+        ]
+    },
+    {
+        "video": "movie101_104.mp4",
+        "conversation": [
+            {
+                "human": "What is the girl's reaction after receiving the phone call at the beginning of the video?",
+                "assistant": "She walks on the road with a blank stare."
+            },
+            {
+                "human": "Why does the girl with glasses run downstairs in a hurry later on?",
+                "assistant": "To help another girl out of a situation."
+            },
+            {
+                "human": "How does the girl with glasses feel after receiving the letter for the second time?",
+                "assistant": "Happy."
+            },
+            {
+                "human": "The girl seemed detached until she got the urgent call and dashed downstairs, but receiving that letter again really brightened her mood."
+            }
+        ]
+    },
+    {
+        "video": "movie101_22.mp4",
+        "conversation": [
+            {
+                "human": "Can you describe the type of movie the scene in the video is from?",
+                "assistant": "Historical drama"
+            },
+            {
+                "human": "What is the weather like in the scene from the video?",
+                "assistant": "Sunny"
+            },
+            {
+                "human": "This scene feels like a warm historical drama with its sunny atmosphere."
+            }
+        ]
+    },
+    {
+        "video": "haimian_10.mp4",
+        "conversation": [
+            {
+                "human": "Why is the cartoon sponge going up and down in the air?",
+                "assistant": "Because the cartoon starfish is running back and forth on the roof."
+            },
+            {
+                "human": "What is the reaction of the cartoon animals to the sponge hanging in the air?",
+                "assistant": "They are laughing."
+            },
+            {
+                "human": "What shape did the cartoon starfish trim the sponge into?",
+                "assistant": "Cylindrical."
+            },
+            {
+                "human": "What did the cartoon starfish make for the sponge using wood?",
+                "assistant": "A pair of shoes."
+            },
+            {
+                "human": "I'm sure it'll all make sense eventually, but until then, I'm just going to go with the flow."
+            }
+        ]
+    },
+    {
+        "video": "needle_138.mp4",
+        "conversation": [
+            {
+                "human": "What are the two young women wearing in the street?",
+                "assistant": "They are wearing trendy summer clothes."
+            },
+            {
+                "human": "As they walk, what accessory are they wearing?",
+                "assistant": "They are wearing sunglasses."
+            },
+            {
+                "human": "What are the two young women doing when they sit on the bench in the street?",
+                "assistant": "They are communicating."
+            },
+            {
+                "human": "What is the mood of the two young women as they sit on the bench?",
+                "assistant": "They seem to be in a positive mood."
+            },
+            {
+                "human": "If that makes sense."
+            }
+        ]
+    },
+    {
+        "video": "movie101_58.mp4",
+        "conversation": [
+            {
+                "human": "What is the little boy doing at the beginning of the video?",
+                "assistant": "He is drawing."
+            },
+            {
+                "human": "How does the man react when the reporter asks several questions in a row?",
+                "assistant": "He gets angry and ends the interview."
+            },
+            {
+                "human": "What happens to the van at the end of the video?",
+                "assistant": "It rolls down the cliff and catches fire."
+            },
+            {
+                "human": "You know, it's all good. I'm just going to take it one day at a time and see what happens."
+            }
+        ]
+    },
+    {
+        "video": "ego_30.mp4",
+        "conversation": [
+            {
+                "human": "Where did I put the keys?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "Where did I leave the marker pen?",
+                "assistant": "On the table."
+            },
+            {
+                "human": "Where did I put the tools?",
+                "assistant": "In the red tray."
+            },
+            {
+                "human": "Where did I store the money?",
+                "assistant": "Inside the drawer."
+            },
+            {
+                "human": "What did I put in the drawer?",
+                "assistant": "Money."
+            },
+            {
+                "human": "I keep putting things in the same spots, like my keys on the table, tools in the red tray, and money in the drawer."
+            }
+        ]
+    },
+    {
+        "video": "ego_63.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the room door open?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Did I throw the papers in the trash bin?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "What did I throw in the trash bin?",
+                "assistant": "Scrap paper manuals"
+            },
+            {
+                "human": "Where did I put the trashcan?",
+                "assistant": "In the truck"
+            },
+            {
+                "human": "Did I cut down the wood strip?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "Where did I keep the wood base panel?",
+                "assistant": "In the room"
+            },
+            {
+                "human": "Where did I put the wooden rack?",
+                "assistant": "Inside the storeroom"
+            },
+            {
+                "human": "Did I leave the storeroom door open?",
+                "assistant": "No"
+            },
+            {
+                "human": "Where was the polishing machine?",
+                "assistant": "In the box"
+            },
+            {
+                "human": "Where was the fevicol?",
+                "assistant": "In the room"
+            },
+            {
+                "human": "Where did I put the white bucket?",
+                "assistant": "In the room"
+            },
+            {
+                "human": "What did I put in the cabinet?",
+                "assistant": "White box"
+            },
+            {
+                "human": "Where was the cabinet after I removed it?",
+                "assistant": "In the cupboard"
+            },
+            {
+                "human": "Where was the empty paint bucket before I kept it inside the storeroom?",
+                "assistant": "Outside the house"
+            },
+            {
+                "human": "You get the idea."
+            }
+        ]
+    },
+    {
+        "video": "ego_12.mp4",
+        "conversation": [
+            {
+                "human": "What is the weather like in the video?",
+                "assistant": "Sunny"
+            },
+            {
+                "human": "Who is the young woman captured in the video?",
+                "assistant": "A young woman"
+            },
+            {
+                "human": "The video shows sunny weather with a young woman featured prominently."
+            }
+        ]
+    },
+    {
+        "video": "ego_39.mp4",
+        "conversation": [
+            {
+                "human": "Did I leave the car bonnet open before checking the box?",
+                "assistant": "Yes"
+            },
+            {
+                "human": "After checking, what did I remove from the box?",
+                "assistant": "Paper"
+            },
+            {
+                "human": "I left the car bonnet open to check the box and took out some paper from it."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_21.mp4",
+        "conversation": [
+            {
+                "human": "In the movie, what color is the fence by the road during the first street scene?",
+                "assistant": "Yellow"
+            },
+            {
+                "human": "In the rooftop conversation, what color is the bag carried by the man?",
+                "assistant": "Black"
+            },
+            {
+                "human": "While two people are chatting on the street, what is the color of the numbers on the wall?",
+                "assistant": "White"
+            },
+            {
+                "human": "During the conversation scene, what color is the dress worn by the woman with the necklace?",
+                "assistant": "Rose Red"
+            },
+            {
+                "human": "I guess."
+            }
+        ]
+    },
+    {
+        "video": "215.mp4",
+        "conversation": [
+            {
+                "human": "What is the main environment featured in the video?",
+                "assistant": "Desert"
+            },
+            {
+                "human": "What type of video are we watching?",
+                "assistant": "It is a video documenting nature."
+            },
+            {
+                "human": "You get the idea."
+            }
+        ]
+    },
+    {
+        "video": "needle_86.mp4",
+        "conversation": [
+            {
+                "human": "What is the kid doing with the colorful party balloons in the video?",
+                "assistant": "Walking in the water"
+            },
+            {
+                "human": "What is the mood of the boy walking in the water with colorful party balloons?",
+                "assistant": "Happy"
+            },
+            {
+                "human": "What direction is the boy walking towards with the colorful party balloons?",
+                "assistant": "Towards the sparkling sunset light"
+            },
+            {
+                "human": "And stuff like that."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_16.mp4",
+        "conversation": [
+            {
+                "human": "What genre of movie is featured in the video clip?",
+                "assistant": "Action movie"
+            },
+            {
+                "human": "In what setting does the scene from the action movie take place?",
+                "assistant": "City"
+            },
+            {
+                "human": "Cool."
+            }
+        ]
+    },
+    {
+        "video": "movie101_59.mp4",
+        "conversation": [
+            {
+                "human": "Why do the two men enter the cabinet shop in the video?",
+                "assistant": "They are planning a robbery."
+            },
+            {
+                "human": "Why does one of the men close the door after entering the cabinet shop?",
+                "assistant": "He intends to inflict violence on the people inside."
+            },
+            {
+                "human": "How does the man's ear get cut off in the video?",
+                "assistant": "Another man accidentally cuts the wrong person."
+            },
+            {
+                "human": "The guys plan a robbery at the cabinet shop, but things escalate, and one ends up cutting his partner's ear by mistake."
+            }
+        ]
+    },
+    {
+        "video": "needle_34.mp4",
+        "conversation": [
+            {
+                "human": "What are the dentist and assistant doing to the patient\u2019s teeth in the video?",
+                "assistant": "They are treating the patient."
+            },
+            {
+                "human": "Which tool do the dentist and assistant use while treating the patient\u2019s teeth?",
+                "assistant": "They use a face bow."
+            },
+            {
+                "human": "Who is using the face bow during the treatment in the video?",
+                "assistant": "The dentist and his assistant are using the face bow."
+            },
+            {
+                "human": "I mean, at the end of the day, everything will work out somehow, as it always does."
+            }
+        ]
+    },
+    {
+        "video": "en_tv_18.mp4",
+        "conversation": [
+            {
+                "human": "What color is the shirt of the man talking to the man exercising?",
+                "assistant": "Blue"
+            },
+            {
+                "human": "What color is the hat of the man talking to the woman?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the scarf of the woman making a phone call in the video?",
+                "assistant": "Purple"
+            },
+            {
+                "human": "What color is the hair of the woman giving a speech on stage?",
+                "assistant": "White"
+            },
+            {
+                "human": "Right."
+            }
+        ]
+    },
+    {
+        "video": "9.mp4",
+        "conversation": [
+            {
+                "human": "At the beginning of the video, how do the people in light-colored and dark-colored clothes enter the scene?",
+                "assistant": "They climb over an iron fence to enter the scene."
+            },
+            {
+                "human": "Once inside, how do they climb onto the blue crane?",
+                "assistant": "They climb onto the crane through the crane's hook."
+            },
+            {
+                "human": "Why does the person in light-colored clothes release the person in dark-colored clothes at the end of the video?",
+                "assistant": "The person in light-colored clothes was blocked by armed personnel in a yard."
+            },
+            {
+                "human": "They climb over a fence, use a crane hook to ascend, but are stopped by armed personnel, leading one to let go of the other."
+            }
+        ]
+    },
+    {
+        "video": "needle_142.mp4",
+        "conversation": [
+            {
+                "human": "Where is the remembrance war memorial located?",
+                "assistant": "Toronto, Canada"
+            },
+            {
+                "human": "What can be seen at the remembrance war memorial in Toronto?",
+                "assistant": "Thousands of Canadian flags."
+            },
+            {
+                "human": "Why is the remembrance war memorial in Toronto significant?",
+                "assistant": "It is surrounded by thousands of Canadian flags."
+            },
+            {
+                "human": "So, yeah."
+            }
+        ]
+    },
+    {
+        "video": "movie101_18.mp4",
+        "conversation": [
+            {
+                "human": "Under what environmental conditions does the scene in the video take place?",
+                "assistant": "Forest"
+            },
+            {
+                "human": "What color are the glasses the little boy is wearing in the video?",
+                "assistant": "Black"
+            },
+            {
+                "human": "What color is the woman's dress in the video?",
+                "assistant": "White"
+            },
+            {
+                "human": "How does the man leave the restaurant in the video?",
+                "assistant": "Leaves by horse"
+            },
+            {
+                "human": "Oh well, it is what it is. No point in overthinking it."
+            }
+        ]
+    },
+    {
+        "video": "movie101_86.mp4",
+        "conversation": [
+            {
+                "human": "What is the mood of the man at the beginning of the video?",
+                "assistant": "Sad"
+            },
+            {
+                "human": "What weather does the event occur in?",
+                "assistant": "Snowy day"
+            },
+            {
+                "human": "What item is knocked off from the man's hand?",
+                "assistant": "Wine glass"
+            },
+            {
+                "human": "Or whatever."
+            }
+        ]
+    },
+    {
+        "video": "needle_1.mp4",
+        "conversation": [
+            {
+                "human": "Where is the basketball court in the video located?",
+                "assistant": "On a cruise ship"
+            },
+            {
+                "human": "What is the backdrop while playing basketball on the cruise ship?",
+                "assistant": "A bright multi-colored cloudy sky"
+            },
+            {
+                "human": "Playing basketball on a cruise ship with a stunning multi-colored sky sounds amazing."
+            }
+        ]
+    }
+]

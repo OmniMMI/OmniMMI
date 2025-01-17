@@ -1,0 +1,5022 @@
+[
+    {
+        "video": "pVsQZMnlNis.mp4",
+        "qa": [
+            {
+                "question": "What is the current action in the video?",
+                "answer": "Connect branches",
+                "timestamp": "9.0 -- 13.0"
+            },
+            {
+                "question": "What is the current action in the video?",
+                "answer": "Wind the junction",
+                "timestamp": "19.0 -- 49.0"
+            },
+            {
+                "question": "What is the current action in the video?",
+                "answer": "Cut branches",
+                "timestamp": "50.0 -- 92.0"
+            }
+        ]
+    },
+    {
+        "video": "pi4mSJkCuLQ.mp4",
+        "qa": [
+            {
+                "question": "What is the action of the instruction video?",
+                "answer": "Add tea powder",
+                "timestamp": "108.0 -- 114.0"
+            },
+            {
+                "question": "What is the action of the instruction video?",
+                "answer": "Brew tea and stir",
+                "timestamp": "117.0 -- 163.0"
+            }
+        ]
+    },
+    {
+        "video": "fSZkc9CUN98.mp4",
+        "qa": [
+            {
+                "question": "What is being done in the video?",
+                "answer": "Unscrewing",
+                "timestamp": "27.5 -- 54.0"
+            },
+            {
+                "question": "What is being done in the video?",
+                "answer": "Removing screen",
+                "timestamp": "60.5 -- 74.0"
+            },
+            {
+                "question": "What is being done in the video?",
+                "answer": "Installing new screen",
+                "timestamp": "77.5 -- 101.5"
+            }
+        ]
+    },
+    {
+        "video": "b2H8ph_FnTE.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the tea?",
+                "answer": "Water",
+                "timestamp": "63.0 -- 64.0"
+            },
+            {
+                "question": "What is being added to the tea?",
+                "answer": "Nothing",
+                "timestamp": "84.0 -- 88.0"
+            }
+        ]
+    },
+    {
+        "video": "Cvym6uVKOc4.mp4",
+        "qa": [
+            {
+                "question": "What is being done in the video?",
+                "answer": "Unrolling the dough",
+                "timestamp": "28.0 -- 31.0"
+            },
+            {
+                "question": "What is being done in the video?",
+                "answer": "Adding seasoning",
+                "timestamp": "34.0 -- 51.0"
+            }
+        ]
+    },
+    {
+        "video": "fuNB9A_Z2qI.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the mango?",
+                "answer": "Removing the core",
+                "timestamp": "19.0 -- 23.0"
+            },
+            {
+                "question": "What is being done with the mango?",
+                "answer": "Cut into strips and pieces",
+                "timestamp": "25.0 -- 41.0"
+            },
+            {
+                "question": "What is being done with the mango?",
+                "answer": "Peeling",
+                "timestamp": "42.0 -- 44.0"
+            }
+        ]
+    },
+    {
+        "video": "s2mYMIJ11b0.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the TV control?",
+                "answer": "Open cover",
+                "timestamp": "40.0 -- 59.5"
+            },
+            {
+                "question": "What is being done with the TV control?",
+                "answer": "Remove battery",
+                "timestamp": "60.0 -- 62.5"
+            },
+            {
+                "question": "What is being done with the TV control?",
+                "answer": "Put battery in",
+                "timestamp": "72.0 -- 86.0"
+            }
+        ]
+    },
+    {
+        "video": "_2N1hAfuOBI.mp4",
+        "qa": [
+            {
+                "question": "What is the current step?",
+                "answer": "Shake and juice",
+                "timestamp": "21.0 -- 23.0"
+            },
+            {
+                "question": "What is the current step?",
+                "answer": "Put strawberries into the juicer",
+                "timestamp": "28.0 -- 31.0"
+            },
+            {
+                "question": "What is the current step?",
+                "answer": "Shake and juice",
+                "timestamp": "32.0 -- 35.0"
+            }
+        ]
+    },
+    {
+        "video": "ivX9Wwp13HA.mp4",
+        "qa": [
+            {
+                "question": "What action is being performed?",
+                "answer": "Layup",
+                "timestamp": "9.0 -- 12.0"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Passing",
+                "timestamp": "19.0 -- 22.0"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Shooting",
+                "timestamp": "27.0 -- 33.0"
+            }
+        ]
+    },
+    {
+        "video": "WqMX17vnGjw.mp4",
+        "qa": [
+            {
+                "question": "What is the action in the video?",
+                "answer": "Put on hair extensions",
+                "timestamp": "23.0 -- 45.0"
+            },
+            {
+                "question": "What is the action in the video?",
+                "answer": "Put down and comb",
+                "timestamp": "146.0 -- 156.0"
+            }
+        ]
+    },
+    {
+        "video": "kNswNkw5lNk.mp4",
+        "qa": [
+            {
+                "question": "What is the action being demonstrated?",
+                "answer": "Fry meat",
+                "timestamp": "3.0 -- 5.0"
+            },
+            {
+                "question": "What is the action being demonstrated?",
+                "answer": "Knead the meat",
+                "timestamp": "14.0 -- 16.0"
+            },
+            {
+                "question": "What is the action being demonstrated?",
+                "answer": "Combine meat and bread",
+                "timestamp": "37.0 -- 49.0"
+            }
+        ]
+    },
+    {
+        "video": "ye_CceBzB-Q.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Frying meat",
+                "timestamp": "79.0 -- 99.0"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Making burger",
+                "timestamp": "140.0 -- 161.0"
+            }
+        ]
+    },
+    {
+        "video": "9irHyjMSuQ0.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in making a Chinese lantern?",
+                "answer": "Drawing pictures",
+                "timestamp": "66.0 -- 118.0"
+            },
+            {
+                "question": "What is the current step in making a Chinese lantern?",
+                "answer": "Assembling materials",
+                "timestamp": "137.0 -- 143.0"
+            },
+            {
+                "question": "What is the current step in making a Chinese lantern?",
+                "answer": "Threading and knotting",
+                "timestamp": "145.0 -- 150.0"
+            }
+        ]
+    },
+    {
+        "video": "rvjaGQBlhPU.mp4",
+        "qa": [
+            {
+                "question": "What is the method to secure the rope?",
+                "answer": "Circle under the bolt.",
+                "timestamp": "33.0 -- 41.0"
+            },
+            {
+                "question": "What is the method to secure the rope?",
+                "answer": "Cross to wrap the bolt.",
+                "timestamp": "42.0 -- 47.0"
+            },
+            {
+                "question": "What is the method to secure the rope?",
+                "answer": "Cross to wrap again.",
+                "timestamp": "81.0 -- 108.0"
+            }
+        ]
+    },
+    {
+        "video": "1qSIdchvsu4.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Pouring the egg",
+                "timestamp": "41.0 -- 44.0"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Frying",
+                "timestamp": "45.0 -- 51.0"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Adding seasoning",
+                "timestamp": "52.0 -- 53.0"
+            }
+        ]
+    },
+    {
+        "video": "AlUVHdaNrW4.mp4",
+        "qa": [
+            {
+                "question": "What is being placed first in the assembly process?",
+                "answer": "The board on each side",
+                "timestamp": "70.0 -- 158.0"
+            },
+            {
+                "question": "What is being placed first in the assembly process?",
+                "answer": "All bed boxes",
+                "timestamp": "187.0 -- 213.0"
+            }
+        ]
+    },
+    {
+        "video": "LML4k8lJvs4.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Pushing curling stone.",
+                "timestamp": "0.0 -- 3.0"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Brushing ice floor.",
+                "timestamp": "6.0 -- 15.0"
+            }
+        ]
+    },
+    {
+        "video": "6P994ZVoAUA.mp4",
+        "qa": [
+            {
+                "question": "What is the action being shown?",
+                "answer": "Pull out the insurance ring.",
+                "timestamp": "0.0 -- 2.5"
+            },
+            {
+                "question": "What is the action being shown?",
+                "answer": "Spray towards the fire.",
+                "timestamp": "7.0 -- 57.0"
+            }
+        ]
+    },
+    {
+        "video": "KkddkRK7SFg.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the graphics card?",
+                "answer": "Removing",
+                "timestamp": "13.0 -- 21.0"
+            },
+            {
+                "question": "What is being done with the graphics card?",
+                "answer": "Installing",
+                "timestamp": "22.0 -- 55.0"
+            }
+        ]
+    },
+    {
+        "video": "XQBfOYkvjx0.mp4",
+        "qa": [
+            {
+                "question": "What are they doing with the materials?",
+                "answer": "Rubbing and dragging.",
+                "timestamp": "0.0 -- 19.0"
+            },
+            {
+                "question": "What are they doing with the materials?",
+                "answer": "Adding ingredients.",
+                "timestamp": "23.0 -- 139.0"
+            },
+            {
+                "question": "What are they doing with the materials?",
+                "answer": "Mixing raw materials.",
+                "timestamp": "140.0 -- 158.0"
+            }
+        ]
+    },
+    {
+        "video": "sDd4VkUm85Y.mp4",
+        "qa": [
+            {
+                "question": "What should you do now?",
+                "answer": "Open cover",
+                "timestamp": "33.5 -- 39.5"
+            },
+            {
+                "question": "What should you do now?",
+                "answer": "Remove battery",
+                "timestamp": "59.5 -- 71.5"
+            }
+        ]
+    },
+    {
+        "video": "_qNMAgBItEM.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in making the Chinese lantern?",
+                "answer": "Fold or bent the paper",
+                "timestamp": "20.0 -- 24.0"
+            },
+            {
+                "question": "What is the current step in making the Chinese lantern?",
+                "answer": "Draw pictures on the materials",
+                "timestamp": "26.0 -- 27.0"
+            },
+            {
+                "question": "What is the current step in making the Chinese lantern?",
+                "answer": "Cut the raw materials",
+                "timestamp": "29.0 -- 31.0"
+            }
+        ]
+    },
+    {
+        "video": "BF54mfTpd0Q.mp4",
+        "qa": [
+            {
+                "question": "What is being attached to the back of the car?",
+                "answer": "Bracket",
+                "timestamp": "25.5 -- 33.0"
+            },
+            {
+                "question": "What is being attached to the back of the car?",
+                "answer": "Ropes",
+                "timestamp": "33.5 -- 50.0"
+            },
+            {
+                "question": "What is being attached to the back of the car?",
+                "answer": "Bicycle",
+                "timestamp": "61.0 -- 65.5"
+            }
+        ]
+    },
+    {
+        "video": "lHFZnfx6HEk.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Squatting and holding the barbell",
+                "timestamp": "3.0 -- 21.0"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Pulling the barbell to the chin",
+                "timestamp": "22.0 -- 24.0"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Lifting the barbell over the head",
+                "timestamp": "25.0 -- 31.0"
+            }
+        ]
+    },
+    {
+        "video": "MeZvU3ffU7I.mp4",
+        "qa": [
+            {
+                "question": "What is being prepared at this moment?",
+                "answer": "The teapot and cup are being washed.",
+                "timestamp": "58.0 -- 74.0"
+            },
+            {
+                "question": "What is being prepared at this moment?",
+                "answer": "Water is being boiled.",
+                "timestamp": "93.0 -- 94.0"
+            },
+            {
+                "question": "What is being prepared at this moment?",
+                "answer": "Tea is being added.",
+                "timestamp": "99.0 -- 103.0"
+            }
+        ]
+    },
+    {
+        "video": "8L7fj8R7mlE.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the wire?",
+                "answer": "Stripping the insulation",
+                "timestamp": "42.0 -- 65.0"
+            },
+            {
+                "question": "What is being done with the wire?",
+                "answer": "Arranging the separated wire",
+                "timestamp": "69.0 -- 193.0"
+            },
+            {
+                "question": "What is being done with the wire?",
+                "answer": "Inserting it into the crystal head",
+                "timestamp": "198.0 -- 209.0"
+            }
+        ]
+    },
+    {
+        "video": "9IZ42IXDpuc.mp4",
+        "qa": [
+            {
+                "question": "What is the current step?",
+                "answer": "Opening the cover.",
+                "timestamp": "30.0 -- 41.5"
+            },
+            {
+                "question": "What is the current step?",
+                "answer": "Removing the battery.",
+                "timestamp": "53.0 -- 63.0"
+            },
+            {
+                "question": "What is the current step?",
+                "answer": "Inserting the battery.",
+                "timestamp": "84.0 -- 91.0"
+            },
+            {
+                "question": "What is the current step?",
+                "answer": "Closing the cover.",
+                "timestamp": "91.5 -- 103.5"
+            }
+        ]
+    },
+    {
+        "video": "pESV6xLJNkA.mp4",
+        "qa": [
+            {
+                "question": "What action is being performed?",
+                "answer": "Set up the brackets",
+                "timestamp": "17.0 -- 56.0"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Fix the ground nail",
+                "timestamp": "57.0 -- 79.0"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Set up the platfond",
+                "timestamp": "80.0 -- 82.0"
+            }
+        ]
+    },
+    {
+        "video": "gGrIGa88BbA.mp4",
+        "qa": [
+            {
+                "question": "What is the method used to clean the pot?",
+                "answer": "Rub with potatoes.",
+                "timestamp": "6.0 -- 15.0"
+            },
+            {
+                "question": "What is the method used to clean the pot?",
+                "answer": "Pour salt and rust removal liquid.",
+                "timestamp": "18.0 -- 20.0"
+            },
+            {
+                "question": "What is the method used to clean the pot?",
+                "answer": "Heat the pot.",
+                "timestamp": "45.0 -- 53.0"
+            }
+        ]
+    },
+    {
+        "video": "76HTCZmJb7I.mp4",
+        "qa": [
+            {
+                "question": "What is being done in this step?",
+                "answer": "Removing the old bulb",
+                "timestamp": "103.0 -- 110.5"
+            },
+            {
+                "question": "What is being done in this step?",
+                "answer": "Installing the new bulb",
+                "timestamp": "111.0 -- 165.5"
+            }
+        ]
+    },
+    {
+        "video": "aa9DUgKnRCs.mp4",
+        "qa": [
+            {
+                "question": "What is the action of the instruction video?",
+                "answer": "Pour the egg",
+                "timestamp": "23.0 -- 25.0"
+            },
+            {
+                "question": "What is the action of the instruction video?",
+                "answer": "Fry eggs",
+                "timestamp": "26.0 -- 44.0"
+            }
+        ]
+    },
+    {
+        "video": "zKwnGRiKvPU.mp4",
+        "qa": [
+            {
+                "question": "What is being done of the CD drive?",
+                "answer": "take out",
+                "timestamp": "10.0 -- 32.0"
+            },
+            {
+                "question": "What is being done of the CD drive?",
+                "answer": "insert the hard disk tray",
+                "timestamp": "33.0 -- 39.0"
+            }
+        ]
+    },
+    {
+        "video": "fP8zX6UKsRA.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing in the video?",
+                "answer": "Installing legs",
+                "timestamp": "33.0 -- 41.0"
+            },
+            {
+                "question": "What is the person doing in the video?",
+                "answer": "Placing cushions and backrest",
+                "timestamp": "43.0 -- 45.0"
+            }
+        ]
+    },
+    {
+        "video": "G2kI5sNco74.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in the instruction?",
+                "answer": "Wrap the bolt",
+                "timestamp": "8.0 -- 47.0"
+            },
+            {
+                "question": "What is the current step in the instruction?",
+                "answer": "Circle the rope",
+                "timestamp": "117.0 -- 121.0"
+            }
+        ]
+    },
+    {
+        "video": "lyS0DjDN9Qw.mp4",
+        "qa": [
+            {
+                "question": "What is the action in the video?",
+                "answer": "remove the core",
+                "timestamp": "17.0 -- 21.0"
+            },
+            {
+                "question": "What is the action in the video?",
+                "answer": "cut into strips and pieces",
+                "timestamp": "26.0 -- 42.0"
+            },
+            {
+                "question": "What is the action in the video?",
+                "answer": "cut the flesh",
+                "timestamp": "51.0 -- 55.0"
+            }
+        ]
+    },
+    {
+        "video": "9eT87s105NE.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the egg?",
+                "answer": "Stirring",
+                "timestamp": "20.0 -- 23.0"
+            },
+            {
+                "question": "What is being done with the egg?",
+                "answer": "Seasoning",
+                "timestamp": "25.0 -- 30.0"
+            },
+            {
+                "question": "What is being done with the egg?",
+                "answer": "Frying",
+                "timestamp": "94.0 -- 139.0"
+            }
+        ]
+    },
+    {
+        "video": "81gfwH3X_S4.mp4",
+        "qa": [
+            {
+                "question": "What action is being performed in the video?",
+                "answer": "Line up for admission",
+                "timestamp": "7.0 -- 60.0"
+            },
+            {
+                "question": "What action is being performed in the video?",
+                "answer": "Raise the national flag",
+                "timestamp": "88.0 -- 159.0"
+            }
+        ]
+    },
+    {
+        "video": "LnogHwL3SKI.mp4",
+        "qa": [
+            {
+                "question": "What is being done to the garlic in this step?",
+                "answer": "Cutting",
+                "timestamp": "7.0 -- 37.0"
+            },
+            {
+                "question": "What is being done to the garlic in this step?",
+                "answer": "Smashing",
+                "timestamp": "60.0 -- 98.5"
+            }
+        ]
+    },
+    {
+        "video": "r9qsd6nNXBQ.mp4",
+        "qa": [
+            {
+                "question": "What is the action in the video?",
+                "answer": "Cut both ends and remove fruit seeds.",
+                "timestamp": "8.0 -- 20.0"
+            },
+            {
+                "question": "What is the action in the video?",
+                "answer": "Slice the pulp.",
+                "timestamp": "49.0 -- 84.0"
+            }
+        ]
+    },
+    {
+        "video": "b67fXiGCbuQ.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the ingredients?",
+                "answer": "Into the can",
+                "timestamp": "41.0 -- 50.0"
+            },
+            {
+                "question": "What is being done with the ingredients?",
+                "answer": "Pouring soup",
+                "timestamp": "62.0 -- 65.0"
+            },
+            {
+                "question": "What is being done with the ingredients?",
+                "answer": "Closing cans",
+                "timestamp": "68.0 -- 72.0"
+            }
+        ]
+    },
+    {
+        "video": "J4k5LnFtcIM.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the protector?",
+                "answer": "Line up",
+                "timestamp": "5.0 -- 7.0"
+            },
+            {
+                "question": "What is happening with the protector?",
+                "answer": "Paste",
+                "timestamp": "8.0 -- 13.0"
+            },
+            {
+                "question": "What is happening with the protector?",
+                "answer": "Remove",
+                "timestamp": "69.0 -- 76.0"
+            }
+        ]
+    },
+    {
+        "video": "SDRZfBB93bM.mp4",
+        "qa": [
+            {
+                "question": "What is the current action in CPR?",
+                "answer": "Press the chest",
+                "timestamp": "33.0 -- 44.0"
+            },
+            {
+                "question": "What is the current action in CPR?",
+                "answer": "Artificial breathing",
+                "timestamp": "72.0 -- 77.0"
+            }
+        ]
+    },
+    {
+        "video": "shiQl90MgNA.mp4",
+        "qa": [
+            {
+                "question": "What needs to be done with the wiper?",
+                "answer": "Take out",
+                "timestamp": "48.0 -- 96.0"
+            },
+            {
+                "question": "What needs to be done with the wiper?",
+                "answer": "Install back",
+                "timestamp": "180.0 -- 198.0"
+            }
+        ]
+    },
+    {
+        "video": "THoWo6JUk1Q.mp4",
+        "qa": [
+            {
+                "question": "What is being done to the screen?",
+                "answer": "Wiping",
+                "timestamp": "47.0 -- 70.0"
+            },
+            {
+                "question": "What is being done to the screen?",
+                "answer": "Removing protector",
+                "timestamp": "113.0 -- 117.0"
+            },
+            {
+                "question": "What is being done to the screen?",
+                "answer": "Pasting protector",
+                "timestamp": "141.0 -- 165.0"
+            }
+        ]
+    },
+    {
+        "video": "oUFez-3nc8o.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in making French fries?",
+                "answer": "Put in the oil to fry",
+                "timestamp": "33.0 -- 51.0"
+            },
+            {
+                "question": "What is the current step in making French fries?",
+                "answer": "Dry strips",
+                "timestamp": "54.0 -- 65.0"
+            }
+        ]
+    },
+    {
+        "video": "JIm62tXmBvc.mp4",
+        "qa": [
+            {
+                "question": "What is being done to the car?",
+                "answer": "Applying polishing paste.",
+                "timestamp": "75.0 -- 78.0"
+            },
+            {
+                "question": "What is being done to the car?",
+                "answer": "Cleaning the scratch.",
+                "timestamp": "113.0 -- 118.0"
+            }
+        ]
+    },
+    {
+        "video": "11WfYWXFS9M.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in opening a champagne bottle?",
+                "answer": "Tear out the foil",
+                "timestamp": "0.0 -- 1.0"
+            },
+            {
+                "question": "What is the current step in opening a champagne bottle?",
+                "answer": "Turn the suspension link",
+                "timestamp": "8.0 -- 21.0"
+            },
+            {
+                "question": "What is the current step in opening a champagne bottle?",
+                "answer": "Open the bottle carefully",
+                "timestamp": "25.0 -- 32.0"
+            }
+        ]
+    },
+    {
+        "video": "S13ah0yuT5A.mp4",
+        "qa": [
+            {
+                "question": "What step are you supposed to do first?",
+                "answer": "Fold the edges of the paper.",
+                "timestamp": "16.0 -- 57.0"
+            },
+            {
+                "question": "What step are you supposed to do first?",
+                "answer": "Cut along the edges.",
+                "timestamp": "58.0 -- 62.0"
+            },
+            {
+                "question": "What step are you supposed to do first?",
+                "answer": "Fold the squares inward and fix them.",
+                "timestamp": "94.0 -- 130.0"
+            }
+        ]
+    },
+    {
+        "video": "NadlIM8GD4U.mp4",
+        "qa": [
+            {
+                "question": "What is the current step in the rice cooking process?",
+                "answer": "Taking out rice",
+                "timestamp": "6.0 -- 7.0"
+            },
+            {
+                "question": "What is the current step in the rice cooking process?",
+                "answer": "Soaking and washing rice",
+                "timestamp": "8.0 -- 9.0"
+            },
+            {
+                "question": "What is the current step in the rice cooking process?",
+                "answer": "Putting rice into rice cooker",
+                "timestamp": "10.0 -- 14.0"
+            }
+        ]
+    },
+    {
+        "video": "89ts_Imt3RQ.mp4",
+        "qa": [
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Practising Karate",
+                "timestamp": "5.0 -- 110.0"
+            },
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Exiting and saluting",
+                "timestamp": "111.0 -- 113.0"
+            }
+        ]
+    },
+    {
+        "video": "2f23b607-f2e6-4f58-85d3-004c840bead2.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the banana fritters?",
+                "answer": "Stir batter",
+                "timestamp": "10.03727 -- 22.73506"
+            },
+            {
+                "question": "What is happening with the banana fritters?",
+                "answer": "Add to oil",
+                "timestamp": "22.80173 -- 106.247"
+            },
+            {
+                "question": "What is happening with the banana fritters?",
+                "answer": "Flip with spatula",
+                "timestamp": "119.87847 -- 247.193"
+            }
+        ]
+    },
+    {
+        "video": "603a427f-9191-4ca4-a1b0-dd3c5e7fda70.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Operating the phone",
+                "timestamp": "3.06245 -- 46.40649"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Wearing the apron",
+                "timestamp": "69.68999 -- 95.72368"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Sifting flour in the bowl",
+                "timestamp": "250.90824 -- 270.5021"
+            }
+        ]
+    },
+    {
+        "video": "0fcf23a0-fc53-4378-9a99-18c4f109f659.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Drinking wine",
+                "timestamp": "2.12201 -- 6.29335"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Throwing dirt into the dustbin",
+                "timestamp": "94.34916 -- 97.19435"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Filling a flask with water",
+                "timestamp": "331.3618 -- 365.82809"
+            }
+        ]
+    },
+    {
+        "video": "0a01978c-e16d-4587-95f1-49efa3ab15d9.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the pancake?",
+                "answer": "Turns over in oil",
+                "timestamp": "29.15124 -- 33.61483"
+            },
+            {
+                "question": "What is happening with the pancake?",
+                "answer": "Added to syrup",
+                "timestamp": "75.804145 -- 114.06947"
+            },
+            {
+                "question": "What is happening with the pancake?",
+                "answer": "Puts in a container",
+                "timestamp": "1688.81333 -- 1696.97719"
+            }
+        ]
+    },
+    {
+        "video": "002c3b5c-ed86-4af3-99a1-4b497b7c8a86.mp4",
+        "qa": [
+            {
+                "question": "What is being done with cooking utensils?",
+                "answer": "Cooking utensils are being arranged.",
+                "timestamp": "536.6813 -- 558.69649"
+            },
+            {
+                "question": "What is being done with cooking utensils?",
+                "answer": "Cooking utensils are gathered with carrots.",
+                "timestamp": "2368.64771 -- 2391.17859"
+            }
+        ]
+    },
+    {
+        "video": "grp-3549e738-4cce-492f-a530-e473777e3220.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Oil",
+                "timestamp": "84.03555 -- 93.26693"
+            },
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Turkey",
+                "timestamp": "130.98933 -- 140.27669"
+            },
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Soy sauce",
+                "timestamp": "522.39454 -- 534.16018"
+            }
+        ]
+    },
+    {
+        "video": "grp-27825332-6946-4c1c-9b4f-e4de4f13b718.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Chicken",
+                "timestamp": "566.35861 -- 569.44328"
+            },
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Sauce",
+                "timestamp": "661.84234 -- 676.66895"
+            },
+            {
+                "question": "What is being added to the pan?",
+                "answer": "Cheese",
+                "timestamp": "919.07967 -- 949.77511"
+            }
+        ]
+    },
+    {
+        "video": "grp-7fb63b81-0a4f-4e9e-906b-60d1935d53c7.mp4",
+        "qa": [
+            {
+                "question": "What is being fetched from the refrigerator?",
+                "answer": "Eggs",
+                "timestamp": "9.89781 -- 13.89191"
+            },
+            {
+                "question": "What is being fetched from the refrigerator?",
+                "answer": "Agave plant",
+                "timestamp": "33.02988 -- 35.97563"
+            },
+            {
+                "question": "What is being fetched from the refrigerator?",
+                "answer": "Cucumber",
+                "timestamp": "148.83204 -- 160.46075"
+            }
+        ]
+    },
+    {
+        "video": "0e0d6704-1c6c-4a62-bc97-cc55658cf8ac.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the dough mixer?",
+                "answer": "Dry ingredients",
+                "timestamp": "551.54752 -- 573.06592"
+            },
+            {
+                "question": "What is being added to the dough mixer?",
+                "answer": "Water",
+                "timestamp": "1187.63336 -- 1191.01352"
+            },
+            {
+                "question": "What is being added to the dough mixer?",
+                "answer": "Icing sugar",
+                "timestamp": "1548.97673 -- 1572.93074"
+            }
+        ]
+    },
+    {
+        "video": "3a158275-c4c2-4bde-a186-788341e43ed4.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Carrying a baby chair",
+                "timestamp": "1003.75104 -- 1007.09023"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Loosening a decoration rope",
+                "timestamp": "1028.39597 -- 1092.09864"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Serving soup on rice",
+                "timestamp": "1376.52073 -- 1424.66159"
+            }
+        ]
+    },
+    {
+        "video": "4d770048-cfde-411f-ad53-e4d57a7dd0d1.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Removing walnuts.",
+                "timestamp": "0.79056 -- 27.64522"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Drinking tea.",
+                "timestamp": "213.04484 -- 221.046"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Detaching kernels.",
+                "timestamp": "438.92985 -- 458.41467"
+            }
+        ]
+    },
+    {
+        "video": "grp-cec778f9-9b54-4b67-b013-116378fd7a85.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Opens the bag of rice",
+                "timestamp": "2.26918 -- 9.50537"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Wash rice",
+                "timestamp": "54.55434 -- 113.68854"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Grill fish in the oven",
+                "timestamp": "145.80685 -- 181.25543"
+            }
+        ]
+    },
+    {
+        "video": "1a327b0c-b78b-4ae2-add0-49334bccddcd.mp4",
+        "qa": [
+            {
+                "question": "What is being prepared now?",
+                "answer": "Baby food",
+                "timestamp": "31.88036 -- 43.1345"
+            },
+            {
+                "question": "What is being prepared now?",
+                "answer": "Chips",
+                "timestamp": "314.52964 -- 458.22699"
+            }
+        ]
+    },
+    {
+        "video": "26b4e1c1-54c7-419f-b2d3-63ea52fd3540.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the container?",
+                "answer": "Milk",
+                "timestamp": "20.30874 -- 27.6899"
+            },
+            {
+                "question": "What is being added to the container?",
+                "answer": "Flour",
+                "timestamp": "50.42193 -- 72.55228"
+            },
+            {
+                "question": "What is being added to the container?",
+                "answer": "Egg mixture",
+                "timestamp": "288.31229 -- 297.197"
+            }
+        ]
+    },
+    {
+        "video": "54337e20-df12-4133-9e34-618e0381265e.mp4",
+        "qa": [
+            {
+                "question": "What action is being performed?",
+                "answer": "Putting dough in the pan",
+                "timestamp": "3.94471 -- 6.47695"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Flipping the dough",
+                "timestamp": "20.07568 -- 25.222"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Removing fried dough",
+                "timestamp": "60.02358 -- 62.62453"
+            }
+        ]
+    },
+    {
+        "video": "grp-51fc62f8-00f4-44e3-af9c-7ebb63da6c3d.mp4",
+        "qa": [
+            {
+                "question": "What is being prepared?",
+                "answer": "Steak",
+                "timestamp": "19.42073 -- 38.12778"
+            },
+            {
+                "question": "What is being prepared?",
+                "answer": "Green beans",
+                "timestamp": "420.28812 -- 460.48145"
+            },
+            {
+                "question": "What is being prepared?",
+                "answer": "Yam",
+                "timestamp": "504.16946 -- 548.78993"
+            }
+        ]
+    },
+    {
+        "video": "grp-d8f0089b-cac5-41f4-af66-e11d6f54a43c.mp4",
+        "qa": [
+            {
+                "question": "What is being cleaned?",
+                "answer": "Kitchen surface",
+                "timestamp": "3.15869 -- 190.520565"
+            },
+            {
+                "question": "What is being cleaned?",
+                "answer": "Utensils",
+                "timestamp": "461.4278 -- 491.56452"
+            },
+            {
+                "question": "What is being cleaned?",
+                "answer": "Dishes",
+                "timestamp": "1073.6062 -- 1172.594"
+            }
+        ]
+    },
+    {
+        "video": "grp-b93ab731-52c3-43b2-9d99-4229663ba67c.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the onion?",
+                "answer": "Removing outer skin",
+                "timestamp": "33.394 -- 86.56"
+            },
+            {
+                "question": "What is being done with the onion?",
+                "answer": "Slicing",
+                "timestamp": "103.22814 -- 119.86866"
+            },
+            {
+                "question": "What is being done with the onion?",
+                "answer": "Rinsing",
+                "timestamp": "413.12258 -- 429.32519"
+            }
+        ]
+    },
+    {
+        "video": "0e6fb738-05fc-4dd5-9746-a8e10efe8c20.mp4",
+        "qa": [
+            {
+                "question": "What is being diced?",
+                "answer": "Potato",
+                "timestamp": "19.666655 -- 73.898"
+            },
+            {
+                "question": "What is being diced?",
+                "answer": "Onions",
+                "timestamp": "77.06594 -- 142.784"
+            },
+            {
+                "question": "What is being diced?",
+                "answer": "Green peppers",
+                "timestamp": "488.84479 -- 703.532"
+            }
+        ]
+    },
+    {
+        "video": "478d7fa4-b174-4266-b0ff-bd180ba0b806.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Washing the grinding stone",
+                "timestamp": "4.18944 -- 9.94711"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Chopping the gourd",
+                "timestamp": "174.2444 -- 205.96679"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Frying flat dough",
+                "timestamp": "4573.74507 -- 4576.0621"
+            }
+        ]
+    },
+    {
+        "video": "174bee0b-b5d6-4e22-b81d-048005ae6ba6.mp4",
+        "qa": [
+            {
+                "question": "What is being diced on the chopping board?",
+                "answer": "Cabbage",
+                "timestamp": "31.60324 -- 76.30266"
+            },
+            {
+                "question": "What is being diced on the chopping board?",
+                "answer": "Bell pepper",
+                "timestamp": "139.07686 -- 179.2994"
+            },
+            {
+                "question": "What is being diced on the chopping board?",
+                "answer": "Sausage",
+                "timestamp": "303.28322 -- 335.78598"
+            }
+        ]
+    },
+    {
+        "video": "04fe8f4d-081e-437e-a56a-2d53b6233fc9.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the wok at the beginning?",
+                "answer": "Salt",
+                "timestamp": "17.19336 -- 34.28089"
+            },
+            {
+                "question": "What is being added to the wok at the beginning?",
+                "answer": "Puffed rice mixture",
+                "timestamp": "391.44982 -- 440.43287"
+            },
+            {
+                "question": "What is being added to the wok at the beginning?",
+                "answer": "Sugar",
+                "timestamp": "3270.58451 -- 3320.48231"
+            }
+        ]
+    },
+    {
+        "video": "grp-cfe4d1f3-20c1-45d9-8bd3-5a7a8e7443f4.mp4",
+        "qa": [
+            {
+                "question": "What is being done to the ingredients?",
+                "answer": "Sorting",
+                "timestamp": "0.001 -- 22.811"
+            },
+            {
+                "question": "What is being done to the ingredients?",
+                "answer": "Mixing",
+                "timestamp": "41.2085 -- 58.81533"
+            },
+            {
+                "question": "What is being done to the ingredients?",
+                "answer": "Refrigerating",
+                "timestamp": "591.43486 -- 599.43741"
+            }
+        ]
+    },
+    {
+        "video": "13c76616-f168-4af0-8d2a-fe82ce232d6a.mp4",
+        "qa": [
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Stir fry rice inside pot",
+                "timestamp": "0 -- 80.26872"
+            },
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Regulate firewood heat",
+                "timestamp": "80.26872 -- 85.53232"
+            },
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Remove pot from firewood",
+                "timestamp": "1471.558 -- 1474.50656"
+            }
+        ]
+    },
+    {
+        "video": "45dc74e1-c8dd-443a-a7a6-ca4215144e97.mp4",
+        "qa": [
+            {
+                "question": "What is happening to the pastries?",
+                "answer": "Turning",
+                "timestamp": "0.16666 -- 14.61176"
+            },
+            {
+                "question": "What is happening to the pastries?",
+                "answer": "Draining",
+                "timestamp": "25.1688 -- 86.06892"
+            },
+            {
+                "question": "What is happening to the pastries?",
+                "answer": "Transferring",
+                "timestamp": "86.06892 -- 95.05363"
+            }
+        ]
+    },
+    {
+        "video": "1558e9f2-d7f3-4a23-9627-4240f506d7df.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Rolling out dough",
+                "timestamp": "36.75307 -- 53.37563"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Cutting dough",
+                "timestamp": "444.19981 -- 467.40139"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Using phone",
+                "timestamp": "1075.5366649999999 -- 1097.09713"
+            }
+        ]
+    },
+    {
+        "video": "grp-93d50e4c-0a3b-430a-8267-01fbe5f302f4.mp4",
+        "qa": [
+            {
+                "question": "What is being mixed in the bowl?",
+                "answer": "Corn starch solution and soy sauce",
+                "timestamp": "84.87708 -- 125.37839"
+            },
+            {
+                "question": "What is being mixed in the bowl?",
+                "answer": "Tofu",
+                "timestamp": "406.44548 -- 410.35629"
+            },
+            {
+                "question": "What is being mixed in the bowl?",
+                "answer": "Meat",
+                "timestamp": "672.63752 -- 678.90246"
+            }
+        ]
+    },
+    {
+        "video": "46d00bf5-ed73-4e5f-84eb-9c880eec10d8.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the dough?",
+                "answer": "Guava papusa",
+                "timestamp": "141.99796 -- 179.01307"
+            },
+            {
+                "question": "What is being added to the dough?",
+                "answer": "Sliced potatoes",
+                "timestamp": "1247.17679 -- 1288.0773"
+            },
+            {
+                "question": "What is being added to the dough?",
+                "answer": "Mixed dough",
+                "timestamp": "1686.65382 -- 1788.50616"
+            }
+        ]
+    },
+    {
+        "video": "grp-5251b41e-91b1-4b87-9a18-c631b1d17e2e.mp4",
+        "qa": [
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Gather ingredient",
+                "timestamp": "18.39763 -- 34.98754"
+            },
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Season cooked rice",
+                "timestamp": "63.90343 -- 85.8993"
+            },
+            {
+                "question": "What activity is happening in the scene?",
+                "answer": "Spread rice on the nori sheet",
+                "timestamp": "536.77597 -- 578.14616"
+            }
+        ]
+    },
+    {
+        "video": "grp-1a9bb53f-01ae-4bd7-afa3-a92570679a7a.mp4",
+        "qa": [
+            {
+                "question": "What task is being performed?",
+                "answer": "Remove ingredients",
+                "timestamp": "0 -- 32.773374999999994"
+            },
+            {
+                "question": "What task is being performed?",
+                "answer": "Dice carrot",
+                "timestamp": "82.36389 -- 159.4997"
+            },
+            {
+                "question": "What task is being performed?",
+                "answer": "Clean kitchen surface",
+                "timestamp": "847.35332 -- 873.69596"
+            }
+        ]
+    },
+    {
+        "video": "110352df-c7a3-4fec-a707-42936d101c28.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the meat?",
+                "answer": "Placed on plate",
+                "timestamp": "224.93717 -- 238.31569"
+            },
+            {
+                "question": "What is being done with the meat?",
+                "answer": "Added in pan",
+                "timestamp": "255.8875 -- 267.43756"
+            }
+        ]
+    },
+    {
+        "video": "2a2ff7db-5460-4296-a8a7-946ba628226d.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Moulding dough",
+                "timestamp": "0.04457 -- 121.084"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Kneading dough",
+                "timestamp": "121.1904 -- 182.452"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Thinning out dough",
+                "timestamp": "496.968 -- 907.06343"
+            }
+        ]
+    },
+    {
+        "video": "106e9447-8a09-4e89-964e-61c927827a56.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the wine?",
+                "answer": "Pours wine in a cup",
+                "timestamp": "81.06624 -- 109.54848"
+            },
+            {
+                "question": "What is being done with the wine?",
+                "answer": "Drinks wine from a cup",
+                "timestamp": "311.4335 -- 320.63285"
+            }
+        ]
+    },
+    {
+        "video": "3bd5bf35-d6ac-43b2-ab75-1558a37c8550.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the batter?",
+                "answer": "Properly mixing",
+                "timestamp": "95 -- 194"
+            },
+            {
+                "question": "What is happening with the batter?",
+                "answer": "Adding sugar",
+                "timestamp": "194.53883 -- 200.89222"
+            },
+            {
+                "question": "What is happening with the batter?",
+                "answer": "Scooping into piping bag",
+                "timestamp": "733.9744 -- 733.82586"
+            }
+        ]
+    },
+    {
+        "video": "grp-67759ea1-52a2-45ee-b129-f482532d83df.mp4",
+        "qa": [
+            {
+                "question": "What is being cooked in the video?",
+                "answer": "Beef",
+                "timestamp": "11.73408 -- 22.06978"
+            },
+            {
+                "question": "What is being cooked in the video?",
+                "answer": "Noodles",
+                "timestamp": "392.12545 -- 404.0983"
+            },
+            {
+                "question": "What is being cooked in the video?",
+                "answer": "Pasta",
+                "timestamp": "495.92862 -- 500.39179"
+            }
+        ]
+    },
+    {
+        "video": "44e3114f-8654-48ee-97c5-9506311ba188.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the pastry mix?",
+                "answer": "Piped in embroidered pattern",
+                "timestamp": "1.2373 -- 209.148"
+            },
+            {
+                "question": "What is being done with the pastry mix?",
+                "answer": "Excess removed with a stick",
+                "timestamp": "222.935 -- 231.506"
+            }
+        ]
+    },
+    {
+        "video": "28bc1ee7-b0c1-4f30-934a-0ab665779d90.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the pawpaw?",
+                "answer": "Peeling",
+                "timestamp": "78.54752 -- 100.01332"
+            },
+            {
+                "question": "What is happening with the pawpaw?",
+                "answer": "Cutting",
+                "timestamp": "332.22002 -- 426.17879"
+            },
+            {
+                "question": "What is happening with the pawpaw?",
+                "answer": "Washing",
+                "timestamp": "427.20533 -- 435.29005"
+            }
+        ]
+    },
+    {
+        "video": "grp-1982af6d-8f53-43a5-b81a-cda5a8099e6e.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the pot?",
+                "answer": "Salt",
+                "timestamp": "0 -- 20.44659"
+            },
+            {
+                "question": "What is being added to the pot?",
+                "answer": "Broccoli",
+                "timestamp": "65.56402 -- 74.06506"
+            },
+            {
+                "question": "What is being added to the pot?",
+                "answer": "Cooked Broccoli",
+                "timestamp": "268.26665 -- 271.38014"
+            }
+        ]
+    },
+    {
+        "video": "16d55886-6e1e-4195-9918-12dc4568320e.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the lime?",
+                "answer": "Extract seed",
+                "timestamp": "2545.07161 -- 2554.61249"
+            },
+            {
+                "question": "What is happening with the lime?",
+                "answer": "Prepare juice",
+                "timestamp": "5422.65416 -- 5576.31843"
+            },
+            {
+                "question": "What is happening with the lime?",
+                "answer": "Cut and press",
+                "timestamp": "5634.36951 -- 5663.94945"
+            }
+        ]
+    },
+    {
+        "video": "023bf95e-28de-43b4-a43f-720edba667a5.mp4",
+        "qa": [
+            {
+                "question": "What is being arranged into the cabinet?",
+                "answer": "Plates",
+                "timestamp": "180.84822 -- 188.18484"
+            },
+            {
+                "question": "What is being arranged into the cabinet?",
+                "answer": "Bowls",
+                "timestamp": "225.80257 -- 239.46489"
+            },
+            {
+                "question": "What is being arranged into the cabinet?",
+                "answer": "Mugs",
+                "timestamp": "276.9473 -- 311.84675"
+            }
+        ]
+    },
+    {
+        "video": "228eb02a-6c89-4aa0-9cd4-0cdab1550c83.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the sauce?",
+                "answer": "Turmeric powder",
+                "timestamp": "1174.44613 -- 1189.41838"
+            },
+            {
+                "question": "What is being added to the sauce?",
+                "answer": "Chicken pieces",
+                "timestamp": "1328.7147 -- 1341.18232"
+            },
+            {
+                "question": "What is being added to the sauce?",
+                "answer": "Spice paste",
+                "timestamp": "1391.54872 -- 1403.8731"
+            }
+        ]
+    },
+    {
+        "video": "47078bd8-6b58-458c-8c34-8d905e21079a.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Stirring ingredients in a pan",
+                "timestamp": "0 -- 36.27096"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Drinking water from a bottle",
+                "timestamp": "56.11148 -- 95.60486"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Operating phone",
+                "timestamp": "202.20081 -- 219.15694"
+            }
+        ]
+    },
+    {
+        "video": "grp-79f47a60-f1e9-4232-88b8-a1836e7dfd30.mp4",
+        "qa": [
+            {
+                "question": "What is being done with the water?",
+                "answer": "Heating",
+                "timestamp": "56.36262 -- 66.61959"
+            },
+            {
+                "question": "What is being done with the water?",
+                "answer": "Boiling",
+                "timestamp": "406.63575 -- 454.96057"
+            },
+            {
+                "question": "What is being done with the water?",
+                "answer": "Draining",
+                "timestamp": "964.63251 -- 993.34207"
+            }
+        ]
+    },
+    {
+        "video": "35ab724d-5dba-4094-927b-e7bc5ad8cf41.mp4",
+        "qa": [
+            {
+                "question": "What game are they playing?",
+                "answer": "Catch ball",
+                "timestamp": "34.5655 -- 616.72134"
+            }
+        ]
+    },
+    {
+        "video": "26f1c77e-814e-4609-ad67-12447d1627e1.mp4",
+        "qa": [
+            {
+                "question": "What is being prepared in the pan?",
+                "answer": "Sausages",
+                "timestamp": "58.86275 -- 82.05364"
+            },
+            {
+                "question": "What is being prepared in the pan?",
+                "answer": "Meat slices",
+                "timestamp": "791.54685 -- 843.40704"
+            },
+            {
+                "question": "What is being prepared in the pan?",
+                "answer": "Eggs",
+                "timestamp": "1044.98294 -- 1083.025"
+            }
+        ]
+    },
+    {
+        "video": "04ac4c40-22fd-42aa-a7f0-ee597ffb7058.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Charge a battery",
+                "timestamp": "41.11057 -- 76.19255"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Use a phone",
+                "timestamp": "94.36064 -- 154.59136"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Put whey into the blender",
+                "timestamp": "199.93299 -- 243.63094"
+            }
+        ]
+    },
+    {
+        "video": "grp-3d7ccb44-b05d-4b67-baae-4e0f55d8307b.mp4",
+        "qa": [
+            {
+                "question": "What is being added to the bacon?",
+                "answer": "Lime",
+                "timestamp": "166.2158 -- 185.57422"
+            },
+            {
+                "question": "What is being added to the bacon?",
+                "answer": "Soy sauce",
+                "timestamp": "186.05457 -- 198.28014"
+            },
+            {
+                "question": "What is being added to the bacon?",
+                "answer": "Mustard",
+                "timestamp": "208.28849 -- 227.87207"
+            }
+        ]
+    },
+    {
+        "video": "26a3f39e-16e3-4146-824f-859cdd3c580f.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Plucking leaves",
+                "timestamp": "2.48472 -- 1058.06933"
+            }
+        ]
+    },
+    {
+        "video": "2c0c6508-397f-4c48-aeb7-abc7a3cae8d1.mp4",
+        "qa": [
+            {
+                "question": "What action is taking place at this point?",
+                "answer": "Slice the onion",
+                "timestamp": "96.07093499999999 -- 113.03519"
+            },
+            {
+                "question": "What action is taking place at this point?",
+                "answer": "Wash pepper",
+                "timestamp": "135.76745 -- 140.77375"
+            },
+            {
+                "question": "What action is taking place at this point?",
+                "answer": "Stirs chicken stir fry mixture",
+                "timestamp": "218.63211 -- 842.73507"
+            }
+        ]
+    },
+    {
+        "video": "grp-8912a138-6c68-424d-8be5-59e0d4f5c173.mp4",
+        "qa": [
+            {
+                "question": "What action is being performed?",
+                "answer": "Wash hands",
+                "timestamp": "4.84505 -- 7.35518"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Peel outer skin of potato",
+                "timestamp": "109.75369 -- 226.98489"
+            },
+            {
+                "question": "What action is being performed?",
+                "answer": "Slice tomato",
+                "timestamp": "334.31989 -- 363.61714"
+            }
+        ]
+    },
+    {
+        "video": "c_8fLy7W61c.8.mp4",
+        "qa": [
+            {
+                "question": "Can you see the trunk of the speedboat?",
+                "answer": "No.",
+                "timestamp": "0.0 -- 1.9686"
+            },
+            {
+                "question": "Can you see the trunk of the speedboat?",
+                "answer": "Yes.",
+                "timestamp": "9.7764 -- 13.38"
+            }
+        ]
+    },
+    {
+        "video": "O-__QzkIWOU.22.mp4",
+        "qa": [
+            {
+                "question": "What is the scene showing?",
+                "answer": "Three people sitting and talking.",
+                "timestamp": "0.0 -- 7.5492"
+            },
+            {
+                "question": "What is the scene showing?",
+                "answer": "A group of dolls dancing in the grass.",
+                "timestamp": "7.5909 -- 8.8422"
+            },
+            {
+                "question": "What is the scene showing?",
+                "answer": "a blue creature is jumping.",
+                "timestamp": "8.8839 -- 10.9693"
+            }
+        ]
+    },
+    {
+        "video": "pz5LEdZhOVM.5.mp4",
+        "qa": [
+            {
+                "question": "What color are the cosmetics?",
+                "answer": "Warm burnt orange",
+                "timestamp": "0.0 -- 5.3053"
+            },
+            {
+                "question": "What color are the cosmetics?",
+                "answer": "Brick red",
+                "timestamp": "5.3387 -- 10.1435"
+            }
+        ]
+    },
+    {
+        "video": "4lc496pF1fo.5.mp4",
+        "qa": [
+            {
+                "question": "What is the man talking about?",
+                "answer": "Desmond is wrong.",
+                "timestamp": "0.0334 -- 1.3347"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Gasoline prices.",
+                "timestamp": "1.368 -- 9.1425"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Condemning Floridians.",
+                "timestamp": "9.1758 -- 12.012"
+            }
+        ]
+    },
+    {
+        "video": "Vdy2DuYSQ-0.2.mp4",
+        "qa": [
+            {
+                "question": "Who is present at the event?",
+                "answer": "Adam Sandler",
+                "timestamp": "0.0 -- 5.2"
+            },
+            {
+                "question": "Who is present at the event?",
+                "answer": "Kevin James",
+                "timestamp": "5.24 -- 9.24"
+            }
+        ]
+    },
+    {
+        "video": "eaU9xQkP_jE.26.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the boxing ring?",
+                "answer": "A man in a black T-shirt helps another man.",
+                "timestamp": "1.2346 -- 6.5065"
+            },
+            {
+                "question": "What is happening in the boxing ring?",
+                "answer": "A man is taken down and pressed.",
+                "timestamp": "9.5095 -- 15.6156"
+            }
+        ]
+    },
+    {
+        "video": "JPLKi10TO7g.28.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A frog is sitting.",
+                "timestamp": "0.0 -- 2.52"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "People are stepping into a roller coaster.",
+                "timestamp": "7.28 -- 11.68"
+            }
+        ]
+    },
+    {
+        "video": "H2vUiWSig_s.21.mp4",
+        "qa": [
+            {
+                "question": "What is happening with the car?",
+                "answer": "Driving down a road",
+                "timestamp": "0.0 -- 6.0727"
+            },
+            {
+                "question": "What is happening with the car?",
+                "answer": "Close-up of speedometer",
+                "timestamp": "6.1061 -- 9.6096"
+            },
+            {
+                "question": "What is happening with the car?",
+                "answer": "Operating a button",
+                "timestamp": "12.7461 -- 13.9473"
+            }
+        ]
+    },
+    {
+        "video": "4dr0llTvNMI.26.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Picking up toys",
+                "timestamp": "0.0 -- 11.3113"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Wiping the table",
+                "timestamp": "14.4811 -- 15.7491"
+            }
+        ]
+    },
+    {
+        "video": "Bk7rsElrD-o.5.mp4",
+        "qa": [
+            {
+                "question": "What is the scene showing in the first timestamp?",
+                "answer": "Peeling a banana.",
+                "timestamp": "0.0 -- 1.2346"
+            },
+            {
+                "question": "What is the scene showing in the second timestamp?",
+                "answer": "Bananas in a bowl.",
+                "timestamp": "1.2679 -- 3.1031"
+            },
+            {
+                "question": "What is the scene showing in the third timestamp?",
+                "answer": "Using peanut butter.",
+                "timestamp": "3.1365 -- 10.0767"
+            }
+        ]
+    },
+    {
+        "video": "fGJ3wS7jxWU.6.mp4",
+        "qa": [
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "A white U-shaped sofa.",
+                "timestamp": "0.0 -- 3.7371"
+            },
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "A group enjoying food and drinks.",
+                "timestamp": "3.7704 -- 7.4408"
+            },
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "Two women in bikinis.",
+                "timestamp": "7.4741 -- 11.6116"
+            }
+        ]
+    },
+    {
+        "video": "LLVEVw5CkPY.2.mp4",
+        "qa": [
+            {
+                "question": "What is the woman doing?",
+                "answer": "Grooming a dog",
+                "timestamp": "0.0 -- 4.0374"
+            },
+            {
+                "question": "What is the woman doing?",
+                "answer": "Talking",
+                "timestamp": "4.0707 -- 6.1728"
+            }
+        ]
+    },
+    {
+        "video": "NsZbNSADNV0.23.mp4",
+        "qa": [
+            {
+                "question": "What is the witch doing?",
+                "answer": "Holding a scepter",
+                "timestamp": "0.0 -- 3.0667"
+            },
+            {
+                "question": "What is the witch doing?",
+                "answer": "Flying on a broom",
+                "timestamp": "16.5333 -- 19.8667"
+            }
+        ]
+    },
+    {
+        "video": "WtFejcr5AGc.2.mp4",
+        "qa": [
+            {
+                "question": "What is the man in the hat describing?",
+                "answer": "Variation in horsepower and torque.",
+                "timestamp": "0.0 -- 5.7057"
+            },
+            {
+                "question": "What is the man in the hat describing?",
+                "answer": "Car\u2019s horsepower and torque.",
+                "timestamp": "5.7391 -- 31.0644"
+            }
+        ]
+    },
+    {
+        "video": "0w2jNRf4o7c.5.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing in the scene?",
+                "answer": "Standing with a tool.",
+                "timestamp": "0.0 -- 4.004"
+            },
+            {
+                "question": "What is the person doing in the scene?",
+                "answer": "Digging into an object.",
+                "timestamp": "8.4084 -- 10.377"
+            },
+            {
+                "question": "What is the person doing in the scene?",
+                "answer": "Squatting and breaking pieces.",
+                "timestamp": "14.2476 -- 15.9826"
+            }
+        ]
+    },
+    {
+        "video": "RXl88NxbuJM.9.mp4",
+        "qa": [
+            {
+                "question": "What can be seen on the rack?",
+                "answer": "Radios",
+                "timestamp": "0.0 -- 3.8"
+            },
+            {
+                "question": "What can be seen on the rack?",
+                "answer": "Walkie-talkies",
+                "timestamp": "12.0 -- 13.0"
+            }
+        ]
+    },
+    {
+        "video": "nh5ytvqLx2I.1.mp4",
+        "qa": [
+            {
+                "question": "Does the video show a picture?",
+                "answer": "Yes",
+                "timestamp": "2.9029 -- 4.6713"
+            },
+            {
+                "question": "Does the video show a picture?",
+                "answer": "No",
+                "timestamp": "4.7047 -- 10.7774"
+            }
+        ]
+    },
+    {
+        "video": "X9OhvgBdvIA.8.mp4",
+        "qa": [
+            {
+                "question": "Who high-fives someone at the table?",
+                "answer": "The man with the backpack.",
+                "timestamp": "1.5015 -- 8.9423"
+            },
+            {
+                "question": "Who high-fives someone at the table?",
+                "answer": "No high-five happens.",
+                "timestamp": "8.9756 -- 11.2112"
+            }
+        ]
+    },
+    {
+        "video": "8YIWypzkS5M.4.mp4",
+        "qa": [
+            {
+                "question": "What did the player in a white uniform do?",
+                "answer": "Caught the ball",
+                "timestamp": "0.0 -- 3.3033"
+            },
+            {
+                "question": "What did the player in a white uniform do?",
+                "answer": "Hits the ball",
+                "timestamp": "8.7754 -- 11.5449"
+            }
+        ]
+    },
+    {
+        "video": "eBz1EqDpOAI.1.mp4",
+        "qa": [
+            {
+                "question": "What is the hyena doing?",
+                "answer": "Biting another hyena.",
+                "timestamp": "1.56 -- 4.24"
+            },
+            {
+                "question": "What is the hyena doing?",
+                "answer": "Yawning.",
+                "timestamp": "4.28 -- 7.52"
+            }
+        ]
+    },
+    {
+        "video": "fibE7AKlwQA.1.mp4",
+        "qa": [
+            {
+                "question": "Who is speaking in the scene?",
+                "answer": "A woman in red clothes.",
+                "timestamp": "0.0 -- 1.4598"
+            },
+            {
+                "question": "Who is speaking in the scene?",
+                "answer": "Two men, one in plaid and one in blue.",
+                "timestamp": "1.5015 -- 22.8562"
+            }
+        ]
+    },
+    {
+        "video": "epx0do0YOtw.32.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Applying white stuff to the sink drain.",
+                "timestamp": "0.0 -- 17.0667"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Removing a clog from the sink drain.",
+                "timestamp": "17.1 -- 21.9667"
+            }
+        ]
+    },
+    {
+        "video": "ruaZf6JF16I.47.mp4",
+        "qa": [
+            {
+                "question": "Is the woman indoor or outdoor?",
+                "answer": "Indoor",
+                "timestamp": "0.0 -- 2.1355"
+            },
+            {
+                "question": "Is the woman indoor or outdoor?",
+                "answer": "Outdoor",
+                "timestamp": "3.2366 -- 13.5469"
+            }
+        ]
+    },
+    {
+        "video": "pppFBdWbiU.4.mp4",
+        "qa": [
+            {
+                "question": "Is there a car in the video?",
+                "answer": "Yes.",
+                "timestamp": "0.0 -- 4.8715"
+            },
+            {
+                "question": "Is there a car in the video?",
+                "answer": "No.",
+                "timestamp": "7.7077 -- 10.377"
+            }
+        ]
+    },
+    {
+        "video": "8bQpTURSlU0.1.mp4",
+        "qa": [
+            {
+                "question": "What appears on the screen?",
+                "answer": "Green circle",
+                "timestamp": "0.0 -- 0.4"
+            },
+            {
+                "question": "What appears on the screen?",
+                "answer": "REACT",
+                "timestamp": "1.9 -- 4.0"
+            },
+            {
+                "question": "What appears on the screen initially?",
+                "answer": "PEOPLE VS FOOD",
+                "timestamp": "5.7 -- 6.2"
+            }
+        ]
+    },
+    {
+        "video": "FL9WvBWs73I.18.mp4",
+        "qa": [
+            {
+                "question": "Is the man Squatting?",
+                "answer": "Yes",
+                "timestamp": "3.16 -- 5.92"
+            },
+            {
+                "question": "Is the man Squatting?",
+                "answer": "No",
+                "timestamp": "21.4 -- 24.44"
+            }
+        ]
+    },
+    {
+        "video": "Wmkv0jDy35M.12.mp4",
+        "qa": [
+            {
+                "question": "Is there flower on the glaze of the cake?",
+                "answer": "No",
+                "timestamp": "0.0 -- 7.0333"
+            },
+            {
+                "question": "Is there flower on the glaze of the cake?",
+                "answer": "No",
+                "timestamp": "9.7333 -- 14.3667"
+            }
+        ]
+    },
+    {
+        "video": "_T2A_lgn69w.37.mp4",
+        "qa": [
+            {
+                "question": "What is the man holding?",
+                "answer": "Chopsticks",
+                "timestamp": "0.0 -- 4.9333"
+            },
+            {
+                "question": "What is the man holding?",
+                "answer": "Bottle of Apple Sidra",
+                "timestamp": "4.9667 -- 12.8333"
+            },
+            {
+                "question": "What is the man holding?",
+                "answer": "Nothing",
+                "timestamp": "12.8667 -- 17.6"
+            }
+        ]
+    },
+    {
+        "video": "kWF3Jm1ukrQ.22.mp4",
+        "qa": [
+            {
+                "question": "Are there girls in the video?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 4.2667"
+            },
+            {
+                "question": "Are there girls in the video?",
+                "answer": "No",
+                "timestamp": "6.2333 -- 14.1667"
+            }
+        ]
+    },
+    {
+        "video": "IF-GVRPu_EY.22.mp4",
+        "qa": [
+            {
+                "question": "What is the man doing?",
+                "answer": "Standing in front of a control panel.",
+                "timestamp": "0.0 -- 3.2032"
+            },
+            {
+                "question": "What is the man doing?",
+                "answer": "Talking.",
+                "timestamp": "10.2436 -- 12.0454"
+            }
+        ]
+    },
+    {
+        "video": "6nYL5nxmBOs.18.mp4",
+        "qa": [
+            {
+                "question": "What is the man wearing?",
+                "answer": "Cowboy outfit and hat",
+                "timestamp": "0.0 -- 3.003"
+            },
+            {
+                "question": "What is the man wearing?",
+                "answer": "Checkered shirt and bowler hat",
+                "timestamp": "3.0447 -- 7.7577"
+            }
+        ]
+    },
+    {
+        "video": "P1mVU2pKuTg.1.mp4",
+        "qa": [
+            {
+                "question": "Is there a person hold a tennis racket?",
+                "answer": "No",
+                "timestamp": "0.0 -- 4.96"
+            },
+            {
+                "question": "Is there a person hold a tennis racket?",
+                "answer": "Yes",
+                "timestamp": "9.16 -- 12.12"
+            }
+        ]
+    },
+    {
+        "video": "dRKPUvLDfWI.16.mp4",
+        "qa": [
+            {
+                "question": "What is on the screen?",
+                "answer": "Icons of the teams.",
+                "timestamp": "0.0 -- 2.3357"
+            },
+            {
+                "question": "What is on the screen?",
+                "answer": "Athletes in a hall.",
+                "timestamp": "2.369 -- 10.5439"
+            }
+        ]
+    },
+    {
+        "video": "GgfvYeYGzOE.18.mp4",
+        "qa": [
+            {
+                "question": "What is the man talking about?",
+                "answer": "Shoes",
+                "timestamp": "0.0 -- 2.7361"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Compliments",
+                "timestamp": "3.8038 -- 9.643"
+            }
+        ]
+    },
+    {
+        "video": "1IPxtMgRmwE.37.mp4",
+        "qa": [
+            {
+                "question": "What is the person talking about?",
+                "answer": "Tool introduction",
+                "timestamp": "0.0 -- 9.0757"
+            },
+            {
+                "question": "What is the person talking about?",
+                "answer": "Web page view",
+                "timestamp": "9.1091 -- 10.8775"
+            },
+            {
+                "question": "What is the person talking about?",
+                "answer": "Description link",
+                "timestamp": "10.9109 -- 12.7461"
+            }
+        ]
+    },
+    {
+        "video": "iZvoSdw3_ZU.31.mp4",
+        "qa": [
+            {
+                "question": "What is the man doing with the kebab?",
+                "answer": "Putting it on the grill.",
+                "timestamp": "0.0 -- 6.36"
+            },
+            {
+                "question": "What is the man doing with the kebab?",
+                "answer": "Sprinkling salt on it.",
+                "timestamp": "8.36 -- 10.84"
+            }
+        ]
+    },
+    {
+        "video": "hNWwyXW38XA.3.mp4",
+        "qa": [
+            {
+                "question": "What is the main focus of the movie being introduced?",
+                "answer": "Prequel",
+                "timestamp": "1.4181 -- 6.006"
+            },
+            {
+                "question": "What is the main focus of the movie being introduced?",
+                "answer": "Bumblebee",
+                "timestamp": "6.0477 -- 12.0537"
+            },
+            {
+                "question": "What is the main focus of the movie being introduced?",
+                "answer": "The Last Knight",
+                "timestamp": "13.8472 -- 15.6823"
+            }
+        ]
+    },
+    {
+        "video": "f_cweIDPdw0.6.mp4",
+        "qa": [
+            {
+                "question": "Who is being talked about in the video?",
+                "answer": "Todd Gurley",
+                "timestamp": "0.0 -- 6.1728"
+            },
+            {
+                "question": "Who is being talked about in the video?",
+                "answer": "Julio Jones",
+                "timestamp": "6.2562 -- 8.9673"
+            },
+            {
+                "question": "Who is being talked about in the video?",
+                "answer": "Dan Quinn",
+                "timestamp": "9.009 -- 17.1004"
+            }
+        ]
+    },
+    {
+        "video": "Kd3vC0lL9C4.57.mp4",
+        "qa": [
+            {
+                "question": "According to the person in a helmet, what is he confused about?",
+                "answer": "The roar.",
+                "timestamp": "8.0747 -- 10.2769"
+            },
+            {
+                "question": "According to the person in a helmet, what is he confused about?",
+                "answer": "The bull.",
+                "timestamp": "8.0747 -- 10.2769"
+            }
+        ]
+    },
+    {
+        "video": "PkiaXT7rcC8.8.mp4",
+        "qa": [
+            {
+                "question": "What is the person saying about the handbrake?",
+                "answer": "Wrong side.",
+                "timestamp": "1.4014 -- 1.79"
+            },
+            {
+                "question": "What is the person saying about the handbrake?",
+                "answer": "Hangover from left-hand drive.",
+                "timestamp": "1.80 -- 5.2052"
+            }
+        ]
+    },
+    {
+        "video": "Lu8xnxyDh8Y.1.mp4",
+        "qa": [
+            {
+                "question": "Can you see the host?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 3.8"
+            },
+            {
+                "question": "Can you see the host?",
+                "answer": "No",
+                "timestamp": "3.84 -- 23.44"
+            }
+        ]
+    },
+    {
+        "video": "nTGjRCHPHYw.10.mp4",
+        "qa": [
+            {
+                "question": "What is the man talking about?",
+                "answer": "Motorcycle positioning",
+                "timestamp": "0.0 -- 8.3083"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Bike-specific applications",
+                "timestamp": "11.9786 -- 17.9179"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Different kinds of mats",
+                "timestamp": "17.9513 -- 22.1888"
+            }
+        ]
+    },
+    {
+        "video": "FpEGW-ti2QE.68.mp4",
+        "qa": [
+            {
+                "question": "What does the background voice mention?",
+                "answer": "stocking",
+                "timestamp": "0.0 -- 1.06"
+            },
+            {
+                "question": "What does the background voice mention?",
+                "answer": "Coloring books",
+                "timestamp": "14.7481 -- 16.1495"
+            }
+        ]
+    },
+    {
+        "video": "JY06gNX_XNI.11.mp4",
+        "qa": [
+            {
+                "question": "What are the people doing in the video?",
+                "answer": "Having a meeting.",
+                "timestamp": "0.0 -- 1.64"
+            },
+            {
+                "question": "What are the people doing in the video?",
+                "answer": "Icons appearing.",
+                "timestamp": "6.0 -- 11.2"
+            }
+        ]
+    },
+    {
+        "video": "Ep7k2AThI8w.14.mp4",
+        "qa": [
+            {
+                "question": "What is on the table?",
+                "answer": "A black WiFi signal receiver.",
+                "timestamp": "0.0 -- 7.0487"
+            },
+            {
+                "question": "What is on the table?",
+                "answer": "A computer monitor and other items.",
+                "timestamp": "7.0904 -- 10.9693"
+            }
+        ]
+    },
+    {
+        "video": "epmh_bRmhKo.11.mp4",
+        "qa": [
+            {
+                "question": "What is the man doing?",
+                "answer": "Talking to the camera",
+                "timestamp": "0.0 -- 11.2667"
+            },
+            {
+                "question": "What is the man doing?",
+                "answer": "Kneeling in front of a rock pile",
+                "timestamp": "11.3 -- 19.5333"
+            }
+        ]
+    },
+    {
+        "video": "2NkM6kouV-Q.4.mp4",
+        "qa": [
+            {
+                "question": "Does the host show in the video?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 18.0"
+            },
+            {
+                "question": "Does the host show in the video?",
+                "answer": "No",
+                "timestamp": "22.08 -- 23.32"
+            }
+        ]
+    },
+    {
+        "video": "ZPnT8o05D28.21.mp4",
+        "qa": [
+            {
+                "question": "What is the man talking about?",
+                "answer": "Xbox",
+                "timestamp": "0.0 -- 2.636"
+            },
+            {
+                "question": "What is the man talking about?",
+                "answer": "Kinect concerns",
+                "timestamp": "8.5419 -- 11.9786"
+            }
+        ]
+    },
+    {
+        "video": "Xbd2UtNNdRE.1.mp4",
+        "qa": [
+            {
+                "question": "Is there a guitar in the video?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 7.299"
+            },
+            {
+                "question": "Is there a guitar in the video?",
+                "answer": "No",
+                "timestamp": "7.3407 -- 10.8025"
+            }
+        ]
+    },
+    {
+        "video": "BVRHQPkJ1_4.6.mp4",
+        "qa": [
+            {
+                "question": "What is the storage capacity of the device?",
+                "answer": "2 TB",
+                "timestamp": "0.0 -- 3.7371"
+            },
+            {
+                "question": "What is the storage capacity of the device?",
+                "answer": "2 TB",
+                "timestamp": "12.379 -- 14.0474"
+            }
+        ]
+    },
+    {
+        "video": "IL0cuuekUO8.2.mp4",
+        "qa": [
+            {
+                "question": "What is the beekeeper doing in the video?",
+                "answer": "Working with beehives",
+                "timestamp": "0.0 -- 6.2"
+            },
+            {
+                "question": "What is the beekeeper doing in the video?",
+                "answer": "Driving a tractor",
+                "timestamp": "6.24 -- 9.76"
+            },
+            {
+                "question": "What is the beekeeper doing in the video?",
+                "answer": "Walking in overalls",
+                "timestamp": "18.16 -- 22.2"
+            }
+        ]
+    },
+    {
+        "video": "IoLTWQHkTDw.9.mp4",
+        "qa": [
+            {
+                "question": "What is in the center of the table?",
+                "answer": "A large pot of soup and sea food",
+                "timestamp": "0.0 -- 4.3377"
+            },
+            {
+                "question": "What is in the center of the table?",
+                "answer": "Spicy cabbage",
+                "timestamp": "4.3794 -- 10.2185"
+            }
+        ]
+    },
+    {
+        "video": "Gw1fS2Nze5s.1.mp4",
+        "qa": [
+            {
+                "question": "What is the basketball player doing?",
+                "answer": "Dribbling the ball.",
+                "timestamp": "0.0 -- 8.16"
+            },
+            {
+                "question": "What is the basketball player doing?",
+                "answer": "Throwing the ball into the basket.",
+                "timestamp": "8.2 -- 12.96"
+            }
+        ]
+    },
+    {
+        "video": "rrA3ehK0Yn0.24.mp4",
+        "qa": [
+            {
+                "question": "What is being shown in the video?",
+                "answer": "City street with cars.",
+                "timestamp": "0.0 -- 2.5025"
+            },
+            {
+                "question": "What is being shown in the video?",
+                "answer": "High-rise building view.",
+                "timestamp": "2.5442 -- 4.9633"
+            },
+            {
+                "question": "What is being shown in the video?",
+                "answer": "Dome of a large building.",
+                "timestamp": "5.005 -- 7.0487"
+            }
+        ]
+    },
+    {
+        "video": "_ovNbnjRUNQ.4.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Touching a waterfall.",
+                "timestamp": "0.0 -- 2.6693"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Holding a piece of paper.",
+                "timestamp": "9.2759 -- 13.6803"
+            }
+        ]
+    },
+    {
+        "video": "YdlfnzR8ojc.1.mp4",
+        "qa": [
+            {
+                "question": "What type of vehicle is in the scene?",
+                "answer": "Red van",
+                "timestamp": "0.0 -- 1.6683"
+            },
+            {
+                "question": "What type of vehicle is in the scene?",
+                "answer": "Black car",
+                "timestamp": "1.7517 -- 9.3427"
+            },
+            {
+                "question": "What type of vehicle is in the scene?",
+                "answer": "Red SUV and Blue Jeep",
+                "timestamp": "14.1808 -- 17.6009"
+            }
+        ]
+    },
+    {
+        "video": "qE3I74NshWo.53.mp4",
+        "qa": [
+            {
+                "question": "What does the man mention?",
+                "answer": "Annabelle creation",
+                "timestamp": "0.0 -- 1.7517"
+            },
+            {
+                "question": "What does the man mention?",
+                "answer": "Good night",
+                "timestamp": "1.7935 -- 4.5045"
+            },
+            {
+                "question": "What does the man mention?",
+                "answer": "There is no mention",
+                "timestamp": "4.5462 -- 12.6793"
+            }
+        ]
+    },
+    {
+        "video": "JRG5C9WRW8E.1.mp4",
+        "qa": [
+            {
+                "question": "What is the model of the car?",
+                "answer": "2015 McLaren 650s Spider",
+                "timestamp": "11.2195 -- 15.5989"
+            }
+        ]
+    },
+    {
+        "video": "2XNj-f0rKXc.12.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing with the iPad?",
+                "answer": "Drawing on the screen.",
+                "timestamp": "0.0 -- 5.7391"
+            },
+            {
+                "question": "What is the person doing with the iPad?",
+                "answer": "Holding a stylus.",
+                "timestamp": "11.2446 -- 12.2456"
+            }
+        ]
+    },
+    {
+        "video": "eGGMGHnh5kI.42.mp4",
+        "qa": [
+            {
+                "question": "What is Superman doing at the end of the movie?",
+                "answer": "Helping defeat Steppenwolf",
+                "timestamp": "4.3377 -- 9.0757"
+            },
+            {
+                "question": "What is Superman doing at the end of the movie?",
+                "answer": "Standing with a red cape",
+                "timestamp": "19.1525 -- 23.2232"
+            }
+        ]
+    },
+    {
+        "video": "19M1-mDvzts.3.mp4",
+        "qa": [
+            {
+                "question": "What does the man say about the helmat?",
+                "answer": "It's a lady helmet",
+                "timestamp": "0.0 -- 2.3357"
+            },
+            {
+                "question": "What does the man say about the helmat?",
+                "answer": "It's trading off",
+                "timestamp": "7.0737 -- 11.2112"
+            }
+        ]
+    },
+    {
+        "video": "YqMaWOM2cRI.12.mp4",
+        "qa": [
+            {
+                "question": "Who is on base?",
+                "answer": "Mike Trout",
+                "timestamp": "10.644 -- 12.2789"
+            },
+            {
+                "question": "Who is on base?",
+                "answer": "Red helmet player",
+                "timestamp": "12.3123 -- 13.8138"
+            }
+        ]
+    },
+    {
+        "video": "W_0Um8qy4qM.47.mp4",
+        "qa": [
+            {
+                "question": "What is the man wearing?",
+                "answer": "Black shorts and no shirt",
+                "timestamp": "0.0 -- 2.4191"
+            },
+            {
+                "question": "What is the man wearing?",
+                "answer": "A yellow sports vest",
+                "timestamp": "9.67 -- 10.01"
+            }
+        ]
+    },
+    {
+        "video": "jD9od-_9nNg.14.mp4",
+        "qa": [
+            {
+                "question": "What is the person wearing while surfing?",
+                "answer": "Black outfit",
+                "timestamp": "4.0707 -- 5.1051"
+            },
+            {
+                "question": "What is the person wearing while surfing?",
+                "answer": "Yellow",
+                "timestamp": "10.6773 -- 14.7481"
+            }
+        ]
+    },
+    {
+        "video": "B8nIsmD3vlU.6.mp4",
+        "qa": [
+            {
+                "question": "What are the people doing?",
+                "answer": "A man speaks with gestures.",
+                "timestamp": "3.1667 -- 5.25"
+            },
+            {
+                "question": "What are the people doing?",
+                "answer": "Catching fish.",
+                "timestamp": "5.2917 -- 11.5417"
+            }
+        ]
+    },
+    {
+        "video": "Wo4t72Q8V7Y.23.mp4",
+        "qa": [
+            {
+                "question": "What does the person do?",
+                "answer": "Put straws to the sink.",
+                "timestamp": "0.0 -- 4.4711"
+            },
+            {
+                "question": "What does the person do?",
+                "answer": "Pour the mixture into the straws.",
+                "timestamp": "8.5085 -- 12.6126"
+            }
+        ]
+    },
+    {
+        "video": "ISeEIYMPpJk.2.mp4",
+        "qa": [
+            {
+                "question": "Where has the woman in the suit been all day?",
+                "answer": "Mayor's office.",
+                "timestamp": "0.0 -- 10.9776"
+            }
+        ]
+    },
+    {
+        "video": "Fw65u33tcDo.1.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Game scenario",
+                "timestamp": "0.0 -- 3.1365"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Football match and cards",
+                "timestamp": "12.7794 -- 17.8178"
+            }
+        ]
+    },
+    {
+        "video": "BAM-aEWsTnY.1.mp4",
+        "qa": [
+            {
+                "question": "Where are they now?",
+                "answer": "On a Station of Kyoto",
+                "timestamp": "1.5015 -- 7.4241"
+            },
+            {
+                "question": "Where are they now?",
+                "answer": "On a train",
+                "timestamp": "7.4658 -- 12.3874"
+            }
+        ]
+    },
+    {
+        "video": "dixQovgXvdY.3.mp4",
+        "qa": [
+            {
+                "question": "What happened to the roller coaster?",
+                "answer": "Struck a tree branch.",
+                "timestamp": "0.0 -- 8.8422"
+            },
+            {
+                "question": "What happened to the roller coaster?",
+                "answer": "People stranded.",
+                "timestamp": "19.2859 -- 24.4244"
+            }
+        ]
+    },
+    {
+        "video": "j0z4QExGEJU.1.mp4",
+        "qa": [
+            {
+                "question": "What color is the car on the track?",
+                "answer": "Black",
+                "timestamp": "0.0 -- 3.0697"
+            },
+            {
+                "question": "What color is the car on the track?",
+                "answer": "Silver",
+                "timestamp": "3.1031 -- 5.5722"
+            },
+            {
+                "question": "What color is the car on the track?",
+                "answer": "Blue and black",
+                "timestamp": "5.6056 -- 12.379"
+            }
+        ]
+    },
+    {
+        "video": "qIzC4Nn-qzA.13.mp4",
+        "qa": [
+            {
+                "question": "What is being displayed on the smartphone screen?",
+                "answer": "Graph",
+                "timestamp": "0.0 -- 2.6693"
+            },
+            {
+                "question": "What is being displayed on the smartphone screen?",
+                "answer": "Many applications",
+                "timestamp": "6.4648 -- 14.306"
+            }
+        ]
+    },
+    {
+        "video": "WZ1gb-T_Fxw.1.mp4",
+        "qa": [
+            {
+                "question": "What is visible in the street?",
+                "answer": "A street with residents",
+                "timestamp": "0.0 -- 3.8"
+            },
+            {
+                "question": "What is visible in the street?",
+                "answer": "A shoe store",
+                "timestamp": "6.8 -- 11.12"
+            }
+        ]
+    },
+    {
+        "video": "BZ7tfTv546w.27.mp4",
+        "qa": [
+            {
+                "question": "What is the context of the scene?",
+                "answer": "A news discussion on past honey trap cases.",
+                "timestamp": "0.0 -- 7.56"
+            },
+            {
+                "question": "What is the context of the scene?",
+                "answer": "An update about an IAF officer arrested for spying.",
+                "timestamp": "7.6 -- 12.2"
+            }
+        ]
+    },
+    {
+        "video": "3Nq7HPrCfxM.21.mp4",
+        "qa": [
+            {
+                "question": "What is the man introducing in the video?",
+                "answer": "Bridge of Spies",
+                "timestamp": "0.0 -- 4.3377"
+            },
+            {
+                "question": "What is the man introducing in the video?",
+                "answer": "Tradition canceled in 2009",
+                "timestamp": "6.7985 -- 10.5522"
+            }
+        ]
+    },
+    {
+        "video": "VHyUicMTqW4.8.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Playing football.",
+                "timestamp": "0.0 -- 1.8018"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Man and woman talking.",
+                "timestamp": "4.1041 -- 10.01"
+            }
+        ]
+    },
+    {
+        "video": "2aDu9xD2OL0.14.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Two people smiling.",
+                "timestamp": "0.0 -- 2.302"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A dog is standing.",
+                "timestamp": "2.3417 -- 4.1674"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A dog is lying down.",
+                "timestamp": "4.2071 -- 7.1839"
+            }
+        ]
+    },
+    {
+        "video": "MMugTWK4uWQ.23.mp4",
+        "qa": [
+            {
+                "question": "What is on the table?",
+                "answer": "graphics card",
+                "timestamp": "0.0 -- 1.8352"
+            },
+            {
+                "question": "What is on the table?",
+                "answer": "Computer case",
+                "timestamp": "6.5899 -- 11.2612"
+            }
+        ]
+    },
+    {
+        "video": "8OUjcO_q_7Y.1.mp4",
+        "qa": [
+            {
+                "question": "What color is the rider\u2019s suit?",
+                "answer": "Blue",
+                "timestamp": "0.0 -- 3.04"
+            },
+            {
+                "question": "What color is the rider\u2019s suit?",
+                "answer": "Black",
+                "timestamp": "18.0 -- 19.88"
+            }
+        ]
+    },
+    {
+        "video": "jFC-75RHT8c.6.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A woman's face is shown.",
+                "timestamp": "0.0 -- 5.4221"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A woman lies by the sea.",
+                "timestamp": "5.4638 -- 8.2582"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A ship floats at sea.",
+                "timestamp": "11.0944 -- 13.6386"
+            }
+        ]
+    },
+    {
+        "video": "dEdNYkHUomw.2.mp4",
+        "qa": [
+            {
+                "question": "Does the man appear in the video?",
+                "answer": "No",
+                "timestamp": "5.9393 -- 13.6803"
+            },
+            {
+                "question": "Does the man appear in the video?",
+                "answer": "Yes",
+                "timestamp": "13.7137 -- 25.2919"
+            }
+        ]
+    },
+    {
+        "video": "iHnvu_1l-5Q.42.mp4",
+        "qa": [
+            {
+                "question": "What does the video depict?",
+                "answer": "Two men talking.",
+                "timestamp": "0.0 -- 8.52"
+            },
+            {
+                "question": "What does the video depict?",
+                "answer": "An iron gate under the sky is shown.",
+                "timestamp": "8.56 -- 11.08"
+            },
+            {
+                "question": "What does the video depict?",
+                "answer": "Close-up view of catacombs.",
+                "timestamp": "11.12 -- 14.44"
+            }
+        ]
+    },
+    {
+        "video": "gBBS5XqzOu4.65.mp4",
+        "qa": [
+            {
+                "question": "What is the background voice talking about?",
+                "answer": "The number 40, 45.",
+                "timestamp": "0.0 -- 3.2699"
+            },
+            {
+                "question": "What is the background voice talking about?",
+                "answer": "A clever forgery.",
+                "timestamp": "3.3033 -- 7.2406"
+            },
+            {
+                "question": "What is the background voice talking about?",
+                "answer": "It's genuine.",
+                "timestamp": "7.2739 -- 10.3437"
+            },
+            {
+                "question": "What is the background voice talking about?",
+                "answer": "High-tech analyses.",
+                "timestamp": "10.4104 -- 13.2799"
+            }
+        ]
+    },
+    {
+        "video": "8nNDn4mAv6w.4.mp4",
+        "qa": [
+            {
+                "question": "What is the man wearing when talking to the camera?",
+                "answer": "Black shirt",
+                "timestamp": "0.0 -- 2.7361"
+            },
+            {
+                "question": "What is the man wearing when talking to the camera?",
+                "answer": "Blue shirt",
+                "timestamp": "13.647 -- 16.1161"
+            }
+        ]
+    },
+    {
+        "video": "O2wTicgnkmc.38.mp4",
+        "qa": [
+            {
+                "question": "What is in the picture?",
+                "answer": "Handouts with orange and purple borders.",
+                "timestamp": "0.0 -- 3.5035"
+            },
+            {
+                "question": "What is in the picture?",
+                "answer": "Purple-bordered handouts.",
+                "timestamp": "9.2426 -- 10.8108"
+            }
+        ]
+    },
+    {
+        "video": "8hkMuw9PIUo.11.mp4",
+        "qa": [
+            {
+                "question": "What does the video show?",
+                "answer": "Gesturing with his hands.",
+                "timestamp": "0.0 -- 2.3774"
+            },
+            {
+                "question": "What does the video show?",
+                "answer": "Close-up of melting substance.",
+                "timestamp": "2.4191 -- 5.1301"
+            }
+        ]
+    },
+    {
+        "video": "_hRQq5e7Wi0.19.mp4",
+        "qa": [
+            {
+                "question": "What is the man mainly talking about?",
+                "answer": "newscasters",
+                "timestamp": "0.0 -- 2.1688"
+            },
+            {
+                "question": "What is the man mainly talking about?",
+                "answer": "Clement Attlee",
+                "timestamp": "2.2022 -- 11.8452"
+            }
+        ]
+    },
+    {
+        "video": "JlRgfWlUO3M.30.mp4",
+        "qa": [
+            {
+                "question": "What is the video showing?",
+                "answer": "Man in black short sleeves",
+                "timestamp": "0.0 -- 1.8352"
+            },
+            {
+                "question": "What is the video showing?",
+                "answer": "Road sign and cars on the road.",
+                "timestamp": "9.2759 -- 12.3457"
+            }
+        ]
+    },
+    {
+        "video": "njV5Z0GxbfA.57.mp4",
+        "qa": [
+            {
+                "question": "What is the man without hat wearing?",
+                "answer": "Grey pullover",
+                "timestamp": "0.0 -- 4.9049"
+            },
+            {
+                "question": "What is the man without hat wearing?",
+                "answer": "Black wetsuit",
+                "timestamp": "8.4084 -- 15.7491"
+            }
+        ]
+    },
+    {
+        "video": "3EBMpTiWAg8.11.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the room?",
+                "answer": "A person is being restrained.",
+                "timestamp": "0.0 -- 7.5742"
+            },
+            {
+                "question": "What is happening in the room?",
+                "answer": "A man speaks and shakes his head.",
+                "timestamp": "9.9099 -- 12.4791"
+            }
+        ]
+    },
+    {
+        "video": "h9ubQQpBWTE.1.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A man stands and smiles.",
+                "timestamp": "2.1021 -- 7.2739"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "A man is sitting on the ground and pulling a leg.",
+                "timestamp": "10.6106 -- 14.7481"
+            }
+        ]
+    },
+    {
+        "video": "18qj-PmqcOg.55.mp4",
+        "qa": [
+            {
+                "question": "What is the young boy mainly talking about?",
+                "answer": "people can't expect things from films",
+                "timestamp": "6.5899 -- 8.9673"
+            },
+            {
+                "question": "What is the young boy mainly talking about?",
+                "answer": "The reason of the decision",
+                "timestamp": "14.4311 -- 16.4331"
+            }
+        ]
+    },
+    {
+        "video": "tAL5PE7zho.39.mp4",
+        "qa": [
+            {
+                "question": "What is the man about to do with the avocados?",
+                "answer": "Turn them",
+                "timestamp": "0.0 -- 3.4"
+            },
+            {
+                "question": "What is the man about to do with the avocados?",
+                "answer": "Slice them",
+                "timestamp": "10.04 -- 15.0"
+            }
+        ]
+    },
+    {
+        "video": "DERUMu9keNE.46.mp4",
+        "qa": [
+            {
+                "question": "What is being emphasized by the background voice?",
+                "answer": "Watercolor effect with dried-up markers.",
+                "timestamp": "0.0 -- 5.56"
+            },
+            {
+                "question": "What is being emphasized by the background voice?",
+                "answer": "Put the marker into the water cup.",
+                "timestamp": "5.6 -- 9.96"
+            }
+        ]
+    },
+    {
+        "video": "qm6B3s12VLI.27.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the scene?",
+                "answer": "People posing with a trophy",
+                "timestamp": "0.0 -- 7.5574"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "View of Stennis Space Center",
+                "timestamp": "11.2186 -- 14.5775"
+            },
+            {
+                "question": "What is happening in the scene?",
+                "answer": "Woman using a laptop",
+                "timestamp": "14.611 -- 16.5928"
+            }
+        ]
+    },
+    {
+        "video": "Jfx2FCAYGno.6.mp4",
+        "qa": [
+            {
+                "question": "What is the woman holding?",
+                "answer": "A sign that says \"PRISON.\"",
+                "timestamp": "0.0 -- 1.6016"
+            },
+            {
+                "question": "What is the woman holding?",
+                "answer": "A game console.",
+                "timestamp": "12.7461 -- 14.014"
+            }
+        ]
+    },
+    {
+        "video": "ZHubDHSl38U.117.mp4",
+        "qa": [
+            {
+                "question": "What is in the zebra\u2019s hand?",
+                "answer": "A brown bag",
+                "timestamp": "0.0 -- 5.08"
+            },
+            {
+                "question": "What is in the zebra\u2019s hand?",
+                "answer": "A red letter",
+                "timestamp": "11.88 -- 14.0"
+            }
+        ]
+    },
+    {
+        "video": "q4-r3WKLxdM.10.mp4",
+        "qa": [
+            {
+                "question": "Who is holding the baby?",
+                "answer": "A man in a suit.",
+                "timestamp": "0.0 -- 2.5359"
+            },
+            {
+                "question": "Who is holding the baby?",
+                "answer": "None.",
+                "timestamp": "4.1375 -- 5.3387"
+            }
+        ]
+    },
+    {
+        "video": "igX2OqHKOaA.1.mp4",
+        "qa": [
+            {
+                "question": "What is happening in the video?",
+                "answer": "A black man is walking forward.",
+                "timestamp": "0.0 -- 1.001"
+            },
+            {
+                "question": "What is happening in the video?",
+                "answer": "A man is talking into a microphone.",
+                "timestamp": "4.7381 -- 10.2769"
+            }
+        ]
+    },
+    {
+        "video": "3tEwb-IZuj8.7.mp4",
+        "qa": [
+            {
+                "question": "What is the color of the device?",
+                "answer": "Red",
+                "timestamp": "0.0 -- 3.36"
+            },
+            {
+                "question": "What is the color of the device?",
+                "answer": "Blue, white, and green",
+                "timestamp": "12.8 -- 18.48"
+            }
+        ]
+    },
+    {
+        "video": "IWrV6CIQIF0.61.mp4",
+        "qa": [
+            {
+                "question": "What is the man's emotional state?",
+                "answer": "Expressionless",
+                "timestamp": "0.0 -- 2.9696"
+            },
+            {
+                "question": "What is the man's emotional state?",
+                "answer": "Expressive",
+                "timestamp": "3.003 -- 5.5722"
+            }
+        ]
+    },
+    {
+        "video": "8JbqxN4TSYQ.6.mp4",
+        "qa": [
+            {
+                "question": "What is the male voice discussing?",
+                "answer": "The origin of the superintelligent Apes.",
+                "timestamp": "5.6306 -- 8.8839"
+            },
+            {
+                "question": "What is the male voice discussing?",
+                "answer": "Character development.",
+                "timestamp": "11.0944 -- 14.6396"
+            }
+        ]
+    },
+    {
+        "video": "WVESKBAPVBA.15.mp4",
+        "qa": [
+            {
+                "question": "How many characters in the video?",
+                "answer": "one",
+                "timestamp": "0.0 -- 8.5752"
+            },
+            {
+                "question": "How many characters in the video?",
+                "answer": "Two",
+                "timestamp": "19.9866 -- 21.2212"
+            }
+        ]
+    },
+    {
+        "video": "DYn16nzGbNE.7.mp4",
+        "qa": [
+            {
+                "question": "What is the color of the man's pants?",
+                "answer": "White",
+                "timestamp": "5.0467 -- 10.01"
+            },
+            {
+                "question": "What is the color of the man's pants",
+                "answer": "Brown",
+                "timestamp": "10.0517 -- 15.015"
+            }
+        ]
+    },
+    {
+        "video": "eDZVdZvmG74.3.mp4",
+        "qa": [
+            {
+                "question": "What is the context of the scene?",
+                "answer": "A person filling up a car.",
+                "timestamp": "0.0 -- 3.6"
+            },
+            {
+                "question": "What is the context of the scene?",
+                "answer": "Inside a gas pump machine.",
+                "timestamp": "9.1333 -- 14.1667"
+            },
+            {
+                "question": "What is the context of the scene?",
+                "answer": "A man wearing a suit and glasses.",
+                "timestamp": "20.5 -- 20.9667"
+            }
+        ]
+    },
+    {
+        "video": "YMWttbLZTIc.8.mp4",
+        "qa": [
+            {
+                "question": "What is the player in a white uniform doing?",
+                "answer": "Ready to bat",
+                "timestamp": "0.0 -- 2.1021"
+            },
+            {
+                "question": "What is the player in a white uniform doing?",
+                "answer": "Trotting around the field",
+                "timestamp": "11.4448 -- 13.5469"
+            }
+        ]
+    },
+    {
+        "video": "EBGlhLFya3c.33.mp4",
+        "qa": [
+            {
+                "question": "How many vehicles described in the scene?",
+                "answer": "One",
+                "timestamp": "0.0 -- 2.711"
+            },
+            {
+                "question": "How many vehicles described in the scene?",
+                "answer": "Three",
+                "timestamp": "7.299 -- 9.4678"
+            }
+        ]
+    },
+    {
+        "video": "F_0Nud7Wa8w.7.mp4",
+        "qa": [
+            {
+                "question": "What is the woman wearing?",
+                "answer": "A white wedding dress with a blue bow.",
+                "timestamp": "0.0 -- 3.9623"
+            },
+            {
+                "question": "What is the woman wearing?",
+                "answer": "A purple dress.",
+                "timestamp": "12.721 -- 15.0984"
+            }
+        ]
+    },
+    {
+        "video": "27Y0NoQoNp0.6.mp4",
+        "qa": [
+            {
+                "question": "What's is the scene?",
+                "answer": "In car",
+                "timestamp": "0.0 -- 4.2042"
+            },
+            {
+                "question": "What's is the scene?",
+                "answer": "Indoor scene",
+                "timestamp": "4.2376 -- 11.4781"
+            }
+        ]
+    },
+    {
+        "video": "iO1clYpP5jw.8.mp4",
+        "qa": [
+            {
+                "question": "What is the focus of the video scene?",
+                "answer": "Golden object",
+                "timestamp": "0.0 -- 2.8"
+            },
+            {
+                "question": "What is the focus of the video scene?",
+                "answer": "Display case",
+                "timestamp": "2.84 -- 7.2"
+            },
+            {
+                "question": "What is the focus of the video scene?",
+                "answer": "Men in armor",
+                "timestamp": "7.24 -- 11.56"
+            }
+        ]
+    },
+    {
+        "video": "07bcBWVYY8w.4.mp4",
+        "qa": [
+            {
+                "question": "What is the man doing in the scene?",
+                "answer": "Walking down the street",
+                "timestamp": "0.0 -- 1.5349"
+            },
+            {
+                "question": "What is the man doing in the scene?",
+                "answer": "Talking to the camera",
+                "timestamp": "6.5399 -- 10.2102"
+            }
+        ]
+    },
+    {
+        "video": "8TyV6UWcN54.40.mp4",
+        "qa": [
+            {
+                "question": "What is the man in the black hat doing?",
+                "answer": "Closing and locking the door.",
+                "timestamp": "0.0 -- 8.3417"
+            },
+            {
+                "question": "What is the man in the black hat doing?",
+                "answer": "Opening a small door.",
+                "timestamp": "8.375 -- 11.2779"
+            }
+        ]
+    },
+    {
+        "video": "GgnH27n6O_I.22.mp4",
+        "qa": [
+            {
+                "question": "How many speakers are on the table?",
+                "answer": "Three",
+                "timestamp": "0.0 -- 1.8"
+            },
+            {
+                "question": "How many speakers are on the table?",
+                "answer": "Zero",
+                "timestamp": "9.0 -- 10.0"
+            }
+        ]
+    },
+    {
+        "video": "j264iSMCQ_o.22.mp4",
+        "qa": [
+            {
+                "question": "What is the man's facial expression?",
+                "answer": "Expressionless",
+                "timestamp": "4.8 -- 6.42"
+            },
+            {
+                "question": "What is the man's facial expression?",
+                "answer": "Happy",
+                "timestamp": "15.0 -- 16.72"
+            }
+        ]
+    },
+    {
+        "video": "4fD246Nou1E.1.mp4",
+        "qa": [
+            {
+                "question": "What's the facial expression of the man with red boxing gloves?",
+                "answer": "Serious",
+                "timestamp": "0.0 -- 4.0"
+            },
+            {
+                "question": "What's the facial expression of the man with red boxing gloves?",
+                "answer": "Happy",
+                "timestamp": "17.4508 -- 19.1525"
+            }
+        ]
+    },
+    {
+        "video": "XSAb2Knd4GQ.29.mp4",
+        "qa": [
+            {
+                "question": "Is there a group of players?",
+                "answer": "No",
+                "timestamp": "0.0 -- 3.0364"
+            },
+            {
+                "question": "Is there a group of players?",
+                "answer": "Yes",
+                "timestamp": "8.008 -- 10.6773"
+            }
+        ]
+    },
+    {
+        "video": "6PMJRe_B2QQ.24.mp4",
+        "qa": [
+            {
+                "question": "Where is the person in white costume?",
+                "answer": "Room",
+                "timestamp": "0.0 -- 11.645"
+            },
+            {
+                "question": "Where is the person in white costume?",
+                "answer": "Elevator",
+                "timestamp": "11.6783 -- 14.9483"
+            }
+        ]
+    },
+    {
+        "video": "g5esQcMBxek.10.mp4",
+        "qa": [
+            {
+                "question": "What is happening on the stage?",
+                "answer": "A conversation among people.",
+                "timestamp": "0.0 -- 3.5035"
+            },
+            {
+                "question": "What is happening on the stage?",
+                "answer": "A piano performance.",
+                "timestamp": "6.4731 -- 10.0767"
+            }
+        ]
+    },
+    {
+        "video": "od0BBOhP8oc.6.mp4",
+        "qa": [
+            {
+                "question": "What is the main subject in the scene?",
+                "answer": "A man in a blue shirt",
+                "timestamp": "0.0 -- 4.5879"
+            },
+            {
+                "question": "What is the main subject in the scene?",
+                "answer": "Purple flower",
+                "timestamp": "4.6296 -- 6.5482"
+            }
+        ]
+    },
+    {
+        "video": "aGu-2KaP6pc.1.mp4",
+        "qa": [
+            {
+                "question": "What is man talking about the laptop?",
+                "answer": "Memory and processor",
+                "timestamp": "0.0 -- 11.9119"
+            },
+            {
+                "question": "What is man talking about the laptop?",
+                "answer": "keyboard",
+                "timestamp": "16.0494 -- 20.5539"
+            }
+        ]
+    },
+    {
+        "video": "Kb-d9DlvmX0.38.mp4",
+        "qa": [
+            {
+                "question": "What is shown on the mobie pop-up?",
+                "answer": "Authentication",
+                "timestamp": "0.0 -- 15.5822"
+            },
+            {
+                "question": "What is shown on the mobie pop-up?",
+                "answer": "Found Barcode",
+                "timestamp": "18.3156 -- 18.9189"
+            }
+        ]
+    },
+    {
+        "video": "_Cs2riJ92u8.1.mp4",
+        "qa": [
+            {
+                "question": "What is the man holding in the first scene?",
+                "answer": "Two ducks",
+                "timestamp": "0.0 -- 14.1333"
+            },
+            {
+                "question": "What is the man holding in the first scene?",
+                "answer": "Camera",
+                "timestamp": "14.1667 -- 30.0333"
+            }
+        ]
+    },
+    {
+        "video": "h3yv_L3K-MM.1.mp4",
+        "qa": [
+            {
+                "question": "What is the main focus on the white desk?",
+                "answer": "Colored pens in a box.",
+                "timestamp": "0.0 -- 2.4358"
+            },
+            {
+                "question": "What is the main focus on the white desk?",
+                "answer": "Large white papers.",
+                "timestamp": "2.4691 -- 5.3053"
+            },
+            {
+                "question": "What is the main focus on the white desk?",
+                "answer": "Pen holders filled with pens and books.",
+                "timestamp": "9.2759 -- 13.1465"
+            }
+        ]
+    },
+    {
+        "video": "fiQC5ZtPqVM.1.mp4",
+        "qa": [
+            {
+                "question": "Who is being called out in the video?",
+                "answer": "Carly",
+                "timestamp": "1.9186 -- 6.1728"
+            },
+            {
+                "question": "Who is being called out in the video?",
+                "answer": "Trey and Keke Palmer",
+                "timestamp": "6.2145 -- 11.7617"
+            }
+        ]
+    },
+    {
+        "video": "49M59RMSzzw.27.mp4",
+        "qa": [
+            {
+                "question": "Does a man or female hold the potato chip?",
+                "answer": "Male",
+                "timestamp": "0.0 -- 1.6683"
+            },
+            {
+                "question": "Does a man or female hold the potato chip?",
+                "answer": "Female",
+                "timestamp": "4.3377 -- 8.1415"
+            }
+        ]
+    },
+    {
+        "video": "JljoS47Qf_s.20.mp4",
+        "qa": [
+            {
+                "question": "What does the cartoon character mention about bells?",
+                "answer": "The smaller the bell, the higher it rings.",
+                "timestamp": "0.0 -- 5.2552"
+            },
+            {
+                "question": "What does the cartoon character mention about bells?",
+                "answer": "The sound of a violin or a guitar depends on string thickness.",
+                "timestamp": "5.297 -- 9.5095"
+            }
+        ]
+    },
+    {
+        "video": "OATUnQBQHuI.3.mp4",
+        "qa": [
+            {
+                "question": "Is the scene static or animated?",
+                "answer": "Animated",
+                "timestamp": "0.0 -- 1.6683"
+            },
+            {
+                "question": "Is the scene static or animated?",
+                "answer": "Static",
+                "timestamp": "7.5075 -- 18.9856"
+            }
+        ]
+    },
+    {
+        "video": "H_GQ4eSFTKA.3.mp4",
+        "qa": [
+            {
+                "question": "What is the person drawing on the arm?",
+                "answer": "White star",
+                "timestamp": "0.0 -- 3.3367"
+            },
+            {
+                "question": "What is the person drawing on the arm?",
+                "answer": "Purple and white flower",
+                "timestamp": "3.37 -- 11.9786"
+            }
+        ]
+    },
+    {
+        "video": "rl-izpUpHBo.4.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Talking to someone.",
+                "timestamp": "0.0 -- 2.08"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Working on a computer.",
+                "timestamp": "2.12 -- 3.32"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Speaking to the camera.",
+                "timestamp": "3.36 -- 5.88"
+            }
+        ]
+    },
+    {
+        "video": "JsZqoXIcLos.23.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Operating a machine.",
+                "timestamp": "2.48 -- 13.96"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Showing a component.",
+                "timestamp": "14.0 -- 15.2"
+            }
+        ]
+    },
+    {
+        "video": "E6-q-ITwipI.4.mp4",
+        "qa": [
+            {
+                "question": "What is being displayed on the large screen?",
+                "answer": "Shopping mall",
+                "timestamp": "0.0 -- 1.71"
+            },
+            {
+                "question": "What is being displayed on the large screen?",
+                "answer": "White screen",
+                "timestamp": "1.7517 -- 4.5462"
+            },
+            {
+                "question": "What is being displayed on the large screen?",
+                "answer": "City skyline",
+                "timestamp": "4.5879 -- 10.3437"
+            }
+        ]
+    },
+    {
+        "video": "4tvTX9QIjOw.11.mp4",
+        "qa": [
+            {
+                "question": "What color is the basketball player's uniform?",
+                "answer": "White",
+                "timestamp": "0.0 -- 1.6683"
+            },
+            {
+                "question": "What color is the basketball player's uniform?",
+                "answer": "Blue",
+                "timestamp": "1.7017 -- 6.5399"
+            }
+        ]
+    },
+    {
+        "video": "etUgUgqxcEg.53.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Holding a skull.",
+                "timestamp": "0.0 -- 3.1031"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Working with a microscope.",
+                "timestamp": "3.1365 -- 9.5429"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Hugging and smiling at the camera.",
+                "timestamp": "11.7451 -- 16.8502"
+            }
+        ]
+    },
+    {
+        "video": "Iudu236_rHE.7.mp4",
+        "qa": [
+            {
+                "question": "What feature is highlighted about the app?",
+                "answer": "The app is really handy.",
+                "timestamp": "0.0 -- 1.44"
+            },
+            {
+                "question": "What feature is highlighted about the app?",
+                "answer": "Tide information.",
+                "timestamp": "1.48 -- 13.08"
+            }
+        ]
+    },
+    {
+        "video": "ReNiTl1jAMI.13.mp4",
+        "qa": [
+            {
+                "question": "Is the car closed or opened?",
+                "answer": "Opened",
+                "timestamp": "1.8352 -- 16.0494"
+            },
+            {
+                "question": "Is the car closed or opened?",
+                "answer": "Closed",
+                "timestamp": "16.0827 -- 17.3198"
+            }
+        ]
+    },
+    {
+        "video": "2DtVO8G668A.15.mp4",
+        "qa": [
+            {
+                "question": "What is next to the green Barbie?",
+                "answer": "Toy helicopter",
+                "timestamp": "2.8362 -- 6.6733"
+            },
+            {
+                "question": "What is next to the green Barbie?",
+                "answer": "Pink toy car and Toy helicopter",
+                "timestamp": "15.4321 -- 19.5195"
+            }
+        ]
+    },
+    {
+        "video": "EqO4_R6sOCY.3.mp4",
+        "qa": [
+            {
+                "question": "Can you see the man's face?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 3.3367"
+            },
+            {
+                "question": "Can you see the man's face?",
+                "answer": "No",
+                "timestamp": "3.37 -- 13.5802"
+            }
+        ]
+    },
+    {
+        "video": "NBIQ96Ss9zc.6.mp4",
+        "qa": [
+            {
+                "question": "What is the flag?",
+                "answer": "American flag",
+                "timestamp": "0.0 -- 2.8028"
+            },
+            {
+                "question": "What is the flag?",
+                "answer": "European Union' flag",
+                "timestamp": "6.6066 -- 11.5782"
+            }
+        ]
+    },
+    {
+        "video": "GRq_z6sQXWM.4.mp4",
+        "qa": [
+            {
+                "question": "Is the car door opened or closed?",
+                "answer": "Closed",
+                "timestamp": "0.0 -- 3.8705"
+            },
+            {
+                "question": "Is the car door opened or closed?",
+                "answer": "Opened",
+                "timestamp": "9.9433 -- 11.7451"
+            }
+        ]
+    },
+    {
+        "video": "R994Tql3WvY.7.mp4",
+        "qa": [
+            {
+                "question": "Does the video show animation or live people?",
+                "answer": "Live people",
+                "timestamp": "4.0707 -- 6.8735"
+            },
+            {
+                "question": "Does the video show animation or live people?",
+                "answer": "Animation",
+                "timestamp": "6.9069 -- 9.0424"
+            }
+        ]
+    },
+    {
+        "video": "LWmmvMfxUsY.61.mp4",
+        "qa": [
+            {
+                "question": "Is there words shown on the video?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 8.16"
+            },
+            {
+                "question": "Is there words shown on the video?",
+                "answer": "No",
+                "timestamp": "8.2 -- 24.12"
+            }
+        ]
+    },
+    {
+        "video": "YIo3kTWsjlE.3.mp4",
+        "qa": [
+            {
+                "question": "What color is the car shown in the video?",
+                "answer": "Red",
+                "timestamp": "0.0 -- 1.025"
+            },
+            {
+                "question": "What color is the car shown in the video?",
+                "answer": "Green",
+                "timestamp": "2.6 -- 4.0"
+            },
+            {
+                "question": "What color is the car shown in the video?",
+                "answer": "White",
+                "timestamp": "5.76 -- 7.68"
+            }
+        ]
+    },
+    {
+        "video": "6vh3mfBZcn4.55.mp4",
+        "qa": [
+            {
+                "question": "What happens to the statue in the scene?",
+                "answer": "Destroyed",
+                "timestamp": "1.8018 -- 3.1365"
+            },
+            {
+                "question": "What happens to the statue in the scene?",
+                "answer": "Standing",
+                "timestamp": "10.0767 -- 11.9453"
+            }
+        ]
+    },
+    {
+        "video": "lIS3_02wKZM.8.mp4",
+        "qa": [
+            {
+                "question": "What does the banner under the camera says?",
+                "answer": "MICHELLE AVILA",
+                "timestamp": "0.0 -- 2.337"
+            },
+            {
+                "question": "What does the banner under the camera says?",
+                "answer": "CAMPOUT AGAINST CANCER KICKS OFF TODAY",
+                "timestamp": "15.5432 -- 19.1198"
+            }
+        ]
+    },
+    {
+        "video": "0v6Iy9JYjyM.8.mp4",
+        "qa": [
+            {
+                "question": "Is the man using drill?",
+                "answer": "Yes",
+                "timestamp": "4.3794 -- 7.5909"
+            },
+            {
+                "question": "Is the man using drill?",
+                "answer": "No",
+                "timestamp": "7.6326 -- 10.01"
+            }
+        ]
+    },
+    {
+        "video": "RE2XqeZMIsM.7.mp4",
+        "qa": [
+            {
+                "question": "How many fishes in the video?",
+                "answer": "Two",
+                "timestamp": "0.0 -- 3.0697"
+            },
+            {
+                "question": "How many fishes in the video?",
+                "answer": "Zero",
+                "timestamp": "3.1031 -- 15.2486"
+            },
+            {
+                "question": "How many fishes in the video?",
+                "answer": "One",
+                "timestamp": "15.2819 -- 18.4518"
+            }
+        ]
+    },
+    {
+        "video": "eTYmMCc_qaI.26.mp4",
+        "qa": [
+            {
+                "question": "What can you find in the video? door or window?",
+                "answer": "Door",
+                "timestamp": "9.84 -- 13.52"
+            },
+            {
+                "question": "What can you find in the video? door or window?",
+                "answer": "Window",
+                "timestamp": "13.56 -- 15.32"
+            }
+        ]
+    },
+    {
+        "video": "5iAKOS4fmTQ.15.mp4",
+        "qa": [
+            {
+                "question": "Is there a person wearing a spacesuit?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 7.3824"
+            },
+            {
+                "question": "Is there a person wearing a spacesuit?",
+                "answer": "No",
+                "timestamp": "12.2622 -- 15.015"
+            }
+        ]
+    },
+    {
+        "video": "c8cgVXHi5A4.22.mp4",
+        "qa": [
+            {
+                "question": "What does the room look like?",
+                "answer": "Empty with white walls.",
+                "timestamp": "0.0 -- 11.011"
+            },
+            {
+                "question": "What does the room look like?",
+                "answer": "Kitchen with a chandelier.",
+                "timestamp": "11.0444 -- 17.4841"
+            },
+            {
+                "question": "What does the room look like?",
+                "answer": "Gas stove on marble.",
+                "timestamp": "17.5175 -- 19.386"
+            }
+        ]
+    },
+    {
+        "video": "Z0Z5oT3DB8g.7.mp4",
+        "qa": [
+            {
+                "question": "Does the man ride on the motorcycle?",
+                "answer": "No",
+                "timestamp": "0.0 -- 4.8"
+            },
+            {
+                "question": "Does the man ride on the motorcycle?",
+                "answer": "Yes",
+                "timestamp": "9.4 -- 12.4"
+            }
+        ]
+    },
+    {
+        "video": "GzD9IDWLodk.15.mp4",
+        "qa": [
+            {
+                "question": "Has the man touched the box with both hands?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 5.17"
+            },
+            {
+                "question": "Has the man touched the box with both hands?",
+                "answer": "No",
+                "timestamp": "7.9079 -- 10.5105"
+            }
+        ]
+    },
+    {
+        "video": "hNSs2gxDZcg.3.mp4",
+        "qa": [
+            {
+                "question": "What is being shown in the video?",
+                "answer": "Museum interior, skeleton and heart model",
+                "timestamp": "9.4428 -- 11.8785"
+            },
+            {
+                "question": "What is being shown in the video?",
+                "answer": "Marine mammal jumping",
+                "timestamp": "11.9119 -- 19.4194"
+            }
+        ]
+    },
+    {
+        "video": "lH2gMNrUuEY.27.mp4",
+        "qa": [
+            {
+                "question": "What is the visual focus of the video?",
+                "answer": "Busy street with a man walking.",
+                "timestamp": "0.0 -- 10.32"
+            },
+            {
+                "question": "What is the visual focus of the video?",
+                "answer": "Bridge with people walking.",
+                "timestamp": "19.04 -- 20.52"
+            },
+            {
+                "question": "What is the visual focus of the video?",
+                "answer": "Close-up of surveillance cameras.",
+                "timestamp": "23.0 -- 25.12"
+            }
+        ]
+    },
+    {
+        "video": "iDGUVWzM6Q.3.mp4",
+        "qa": [
+            {
+                "question": "What is this person's tone like?",
+                "answer": "Humorous",
+                "timestamp": "0.0 -- 4.72"
+            },
+            {
+                "question": "What is this person's tone like?",
+                "answer": "Neutral",
+                "timestamp": "15.76 -- 18.24"
+            }
+        ]
+    },
+    {
+        "video": "RujfievRepk.2.mp4",
+        "qa": [
+            {
+                "question": "Are the people in the video giving high-fives?",
+                "answer": "Yes",
+                "timestamp": "0.0 -- 14.9149"
+            },
+            {
+                "question": "Are the people in the video giving high-fives?",
+                "answer": "No",
+                "timestamp": "14.9483 -- 20.2869"
+            }
+        ]
+    },
+    {
+        "video": "_BVVEW8y_VA.9.mp4",
+        "qa": [
+            {
+                "question": "From where does Arya jump?",
+                "answer": "the balcony",
+                "timestamp": "4.1667 -- 7.0333"
+            },
+            {
+                "question": "From where does Arya jump?",
+                "answer": "the ledge",
+                "timestamp": "7.0667 -- 8.4333"
+            }
+        ]
+    },
+    {
+        "video": "L0F1hMvcXb8.34.mp4",
+        "qa": [
+            {
+                "question": "Does the dog walk by human?",
+                "answer": "Yes",
+                "timestamp": "3.12 -- 12.76"
+            },
+            {
+                "question": "Does the dog walk by human?",
+                "answer": "No",
+                "timestamp": "12.8 -- 14.68"
+            }
+        ]
+    },
+    {
+        "video": "8Z0822sZ5Go.13.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing with the cream puffs?",
+                "answer": "Scraping into a cup",
+                "timestamp": "0.0 -- 5.6056"
+            },
+            {
+                "question": "What is the person doing with the cream puffs?",
+                "answer": "Squeezing onto parchment",
+                "timestamp": "7.5742 -- 23.4234"
+            }
+        ]
+    },
+    {
+        "video": "KhY0u3Tv4bo.10.mp4",
+        "qa": [
+            {
+                "question": "What's the name of the main character in the video?",
+                "answer": "Paul Brand",
+                "timestamp": "0.0 -- 12.36"
+            },
+            {
+                "question": "What's the name of the main character in the video?",
+                "answer": "Boris Johnson",
+                "timestamp": "15.4 -- 17.56"
+            }
+        ]
+    },
+    {
+        "video": "CDXXQORXXTQ.1.mp4",
+        "qa": [
+            {
+                "question": "Can you see car in the video?",
+                "answer": "No",
+                "timestamp": "0.0 -- 2.2022"
+            },
+            {
+                "question": "Can you see car in the video?",
+                "answer": "Yes",
+                "timestamp": "11.5782 -- 13.0797"
+            }
+        ]
+    },
+    {
+        "video": "qKvNOzeZ6DM.6.mp4",
+        "qa": [
+            {
+                "question": "What is the man mentioning in the audio?",
+                "answer": "Teaspoon of xanthan gum",
+                "timestamp": "0.0 -- 2.8362"
+            },
+            {
+                "question": "What is the man mentioning in the audio?",
+                "answer": "Gluten-free baking",
+                "timestamp": "2.8779 -- 7.2155"
+            },
+            {
+                "question": "What is the man mentioning in the audio?",
+                "answer": "mixing ingredients",
+                "timestamp": "7.2572 -- 10.5522"
+            }
+        ]
+    },
+    {
+        "video": "P766MXR8jKc.9.mp4",
+        "qa": [
+            {
+                "question": "Which words are highlighted in the right-hand sidebar of the live news?",
+                "answer": "Del Mar Shooting",
+                "timestamp": "0.0 -- 2.7027"
+            },
+            {
+                "question": "Which words are highlighted in the right-hand sidebar of the live news?",
+                "answer": "Danielle's Forecase",
+                "timestamp": "2.7361 -- 7.7077"
+            }
+        ]
+    },
+    {
+        "video": "KlwdnKXPN-4.39.mp4",
+        "qa": [
+            {
+                "question": "What's the main color of the toy?",
+                "answer": "Pink",
+                "timestamp": "6.7401 -- 7.1"
+            },
+            {
+                "question": "What's the main color of the toy?",
+                "answer": "Blue",
+                "timestamp": "13.5135 -- 21.5882"
+            }
+        ]
+    },
+    {
+        "video": "JepJM6lF2uc.3.mp4",
+        "qa": [
+            {
+                "question": "Does the person flip the bag?",
+                "answer": "No",
+                "timestamp": "0.0 -- 6.5333"
+            },
+            {
+                "question": "Does the person flip the bag?",
+                "answer": "Yes",
+                "timestamp": "6.5667 -- 11.4333"
+            }
+        ]
+    },
+    {
+        "video": "YeFYfErxy-g.1.mp4",
+        "qa": [
+            {
+                "question": "What is the woman talking about?",
+                "answer": "Future dreams",
+                "timestamp": "0.0 -- 4.7381"
+            },
+            {
+                "question": "What is the woman talking about?",
+                "answer": "Travel to DC",
+                "timestamp": "10.7774 -- 13.8472"
+            },
+            {
+                "question": "What is the woman talking about?",
+                "answer": "Maglev speed",
+                "timestamp": "15.7157 -- 19.7864"
+            }
+        ]
+    },
+    {
+        "video": "PtxwFuGZ1TE.23.mp4",
+        "qa": [
+            {
+                "question": "What is the snake doing?",
+                "answer": "Crawling on a cage",
+                "timestamp": "0.0 -- 4.7965"
+            },
+            {
+                "question": "What is the snake doing?",
+                "answer": "Eating a mouse",
+                "timestamp": "4.8382 -- 6.8819"
+            }
+        ]
+    },
+    {
+        "video": "eFK67hpi_xg.2.mp4",
+        "qa": [
+            {
+                "question": "What color is the hockey player's jersey?",
+                "answer": "Black",
+                "timestamp": "0.0 -- 2.5442"
+            },
+            {
+                "question": "What color is the hockey player's jersey?",
+                "answer": "Red",
+                "timestamp": "2.5859 -- 8.3"
+            }
+        ]
+    },
+    {
+        "video": "2ZcsoP1AUTI.6.mp4",
+        "qa": [
+            {
+                "question": "Does the man in the video weak a fluorescent vest?",
+                "answer": "No",
+                "timestamp": "8.7754 -- 16.7167"
+            },
+            {
+                "question": "Does the man in the video weak a fluorescent vest?",
+                "answer": "Yes",
+                "timestamp": "16.7501 -- 22.389"
+            }
+        ]
+    },
+    {
+        "video": "H_GYefDQv7E.5.mp4",
+        "qa": [
+            {
+                "question": "What is the woman's opinion about sprouts to fight?",
+                "answer": "She doesn't know anything.",
+                "timestamp": "0.0 -- 6.8402"
+            },
+            {
+                "question": "What is the woman's opinion about sprouts to fight?",
+                "answer": "She thinks it's a close fight.",
+                "timestamp": "6.8819 -- 11.303"
+            }
+        ]
+    },
+    {
+        "video": "NZyPWqcZkcs.2.mp4",
+        "qa": [
+            {
+                "question": "What does the man hold?",
+                "answer": "Red and green-packaged food",
+                "timestamp": "0.0 -- 1.8352"
+            },
+            {
+                "question": "What does the man hold?",
+                "answer": "Box of vegetables",
+                "timestamp": "1.8685 -- 7.8412"
+            }
+        ]
+    },
+    {
+        "video": "2l9I3UhWP10.8.mp4",
+        "qa": [
+            {
+                "question": "Is there a scene transition in the video?",
+                "answer": "No",
+                "timestamp": "0.0 -- 3.9373"
+            },
+            {
+                "question": "Is there a scene transition in the video?",
+                "answer": "Yes",
+                "timestamp": "14.4144 -- 16.42"
+            }
+        ]
+    },
+    {
+        "video": "I3mLwm889XI.7.mp4",
+        "qa": [
+            {
+                "question": "What is the woman wearing?",
+                "answer": "Black jacket",
+                "timestamp": "0.0 -- 0.832"
+            },
+            {
+                "question": "What is the woman wearing?",
+                "answer": "Grey jacket",
+                "timestamp": "6.298 -- 10.5105"
+            }
+        ]
+    },
+    {
+        "video": "3b64-1vz1FM.1.mp4",
+        "qa": [
+            {
+                "question": "What is the person doing?",
+                "answer": "Lifting weights",
+                "timestamp": "0.0 -- 2.6"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Talking on the phone",
+                "timestamp": "5.72 -- 10.12"
+            },
+            {
+                "question": "What is the person doing?",
+                "answer": "Carrying a couch",
+                "timestamp": "16.44 -- 20.4"
+            }
+        ]
+    },
+    {
+        "video": "dGGz3mRbK7c.9.mp4",
+        "qa": [
+            {
+                "question": "Can you see the car light?",
+                "answer": "No",
+                "timestamp": "7.08 -- 10.28"
+            },
+            {
+                "question": "Can you see the car light?",
+                "answer": "Yes",
+                "timestamp": "10.32 -- 12.88"
+            }
+        ]
+    },
+    {
+        "video": "OAj1356D288.23.mp4",
+        "qa": [
+            {
+                "question": "What number is on the football player's uniform?",
+                "answer": "70",
+                "timestamp": "0.0 -- 0.69"
+            },
+            {
+                "question": "What number is on the football player's uniform?",
+                "answer": "12",
+                "timestamp": "11.3667 -- 13.5"
+            }
+        ]
+    },
+    {
+        "video": "7y7ZIeQE7V0.19.mp4",
+        "qa": [
+            {
+                "question": "What is the panel name?",
+                "answer": "New items",
+                "timestamp": "0.0 -- 4.0374"
+            },
+            {
+                "question": "What is the panel name?",
+                "answer": "Store",
+                "timestamp": "7.0737 -- 12.6793"
+            }
+        ]
+    },
+    {
+        "video": "iHLBo7d3_0o.35.mp4",
+        "qa": [
+            {
+                "question": "How many cars are there in the scene?",
+                "answer": "Three",
+                "timestamp": "0.0 -- 1.275"
+            },
+            {
+                "question": "How many cars are there in the scene?",
+                "answer": "Two",
+                "timestamp": "1.816 -- 2.8333"
+            },
+            {
+                "question": "How many cars are there in the scene?",
+                "answer": "One",
+                "timestamp": "3.216 -- 3.858"
+            }
+        ]
+    },
+    {
+        "video": "G7TM9KOaim8.15.mp4",
+        "qa": [
+            {
+                "question": "What is the torque of the car mentioned by the speaker?",
+                "answer": "384",
+                "timestamp": "0.0 -- 12.3333"
+            },
+            {
+                "question": "What is the torque of the car mentioned by the speaker?",
+                "answer": "627",
+                "timestamp": "12.3667 -- 14.6333"
+            }
+        ]
+    },
+    {
+        "video": "HOqtu0gZ4Is.18.mp4",
+        "qa": [
+            {
+                "question": "What does the person hold in the video?",
+                "answer": "Chocolate-covered doughnuts",
+                "timestamp": "1.293 -- 3.4201"
+            },
+            {
+                "question": "What does the person hold in the video?",
+                "answer": "cookbook",
+                "timestamp": "3.4618 -- 18.31"
+            }
+        ]
+    },
+    {
+        "video": "RYun7EXYon8.35.mp4",
+        "qa": [
+            {
+                "question": "What is being described in the video?",
+                "answer": "Phuket lobster sashimi",
+                "timestamp": "0.0 -- 9.08"
+            },
+            {
+                "question": "What is being described in the video?",
+                "answer": "Head of a large lobster",
+                "timestamp": "19.48 -- 20.96"
+            }
+        ]
+    },
+    {
+        "video": "LmmxoV3rgwY.31.mp4",
+        "qa": [
+            {
+                "question": "What is the team names of the game?",
+                "answer": "Somerset and Warwickshire",
+                "timestamp": "0.0 -- 8.28"
+            }
+        ]
+    },
+    {
+        "video": "qKHGVxSWdqQ.38.mp4",
+        "qa": [
+            {
+                "question": "What kind of pig odes the video show? Domestic pig or wild boar",
+                "answer": "Domestic pig",
+                "timestamp": "0.0 -- 5.9393"
+            },
+            {
+                "question": "What kind of pig odes the video show? Domestic pig or wild boar",
+                "answer": "Wild boar",
+                "timestamp": "10.004 -- 11.0"
+            }
+        ]
+    },
+    {
+        "video": "3pJxlrRHA0Q.1.mp4",
+        "qa": [
+            {
+                "question": "What is the woman demonstrating in the video?",
+                "answer": "False lash effect",
+                "timestamp": "0.0 -- 7.4241"
+            },
+            {
+                "question": "What is the woman demonstrating in the video?",
+                "answer": "Curling eyelashes",
+                "timestamp": "25.1918 -- 34.326"
+            }
+        ]
+    },
+    {
+        "video": "6Y6rnjFQl7A.31.mp4",
+        "qa": [
+            {
+                "question": "What is happening to the flywheel?",
+                "answer": "Removing the screws.",
+                "timestamp": "1.3667 -- 18.8667"
+            },
+            {
+                "question": "What is happening to the flywheel?",
+                "answer": "It is on the ground.",
+                "timestamp": "18.9 -- 20.4333"
+            }
+        ]
+    },
+    {
+        "video": "EbCE9Yg4jXo.3.mp4",
+        "qa": [
+            {
+                "question": "What is name of the person being interviewing?",
+                "answer": "Daryl (P-Man) Jones",
+                "timestamp": "12.7127 -- 14.9483"
+            },
+            {
+                "question": "What is name of the person being interviewing?",
+                "answer": "Not specified",
+                "timestamp": "14.9816 -- 16.2829"
+            }
+        ]
+    },
+    {
+        "video": "JjTKKCLRLZY.19.mp4",
+        "qa": [
+            {
+                "question": "What is the basic price of the fare?",
+                "answer": "15 dollars per mile",
+                "timestamp": "0.0 -- 4.08"
+            },
+            {
+                "question": "What is the basic price of the fare?",
+                "answer": "Fifty dollars each way",
+                "timestamp": "9.92 -- 14.72"
+            }
+        ]
+    },
+    {
+        "video": "Hbzx671oEcI.23.mp4",
+        "qa": [
+            {
+                "question": "What product does the people want to buy according to the video?",
+                "answer": "milk tea and cotton candy smoothie",
+                "timestamp": "0.0 -- 5.8809"
+            },
+            {
+                "question": "What product does the people want to buy according to the video?",
+                "answer": "CD",
+                "timestamp": "5.9226 -- 14.5145"
+            }
+        ]
+    },
+    {
+        "video": "NmBuWlsSuQw.25.mp4",
+        "qa": [
+            {
+                "question": "Who is mentioned in the video?",
+                "answer": "Bruce Banner",
+                "timestamp": "3.3367 -- 5.4638"
+            },
+            {
+                "question": "Who is mentioned in the video?",
+                "answer": "Ant Man",
+                "timestamp": "7.566 -- 9.301"
+            }
+        ]
+    },
+    {
+        "video": "0yFMF1sSb2E.9.mp4",
+        "qa": [
+            {
+                "question": "What is the man holding?",
+                "answer": "blower",
+                "timestamp": "0.0 -- 3.3033"
+            },
+            {
+                "question": "What is the man holding?",
+                "answer": "PVC sheeting",
+                "timestamp": "3.3367 -- 8.7421"
+            }
+        ]
+    },
+    {
+        "video": "8dll64kkJpw.9.mp4",
+        "qa": [
+            {
+                "question": "What is happening to the building?",
+                "answer": "The walls are crumbling.",
+                "timestamp": "0.0 -- 2.7027"
+            },
+            {
+                "question": "What is happening to the building?",
+                "answer": "Firefighter in action.",
+                "timestamp": "12.7461 -- 17.384"
+            }
+        ]
+    },
+    {
+        "video": "G7CJ2TvVf9U.17.mp4",
+        "qa": [
+            {
+                "question": "What is the color of the woman's cloth?",
+                "answer": "Red",
+                "timestamp": "4.0333 -- 7.6333"
+            },
+            {
+                "question": "What is the color of the woman's cloth?",
+                "answer": "White",
+                "timestamp": "7.6667 -- 12.0333"
+            }
+        ]
+    },
+    {
+        "video": "ciCS98YanII.9.mp4",
+        "qa": [
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "Soaked rice noodles",
+                "timestamp": "0.0 -- 3.712"
+            },
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "Chili flakes",
+                "timestamp": "6.9653 -- 8.4251"
+            },
+            {
+                "question": "What is the focus of the scene?",
+                "answer": "Two women working",
+                "timestamp": "8.4668 -- 10.5939"
+            }
+        ]
+    },
+    {
+        "video": "O7p4D52MazY.21.mp4",
+        "qa": [
+            {
+                "question": "What car is the man talking about?",
+                "answer": "BMW 220i",
+                "timestamp": "0.0 -- 3.92"
+            },
+            {
+                "question": "What car is the man talking about?",
+                "answer": "BMW i3",
+                "timestamp": "7.24 -- 21.24"
+            }
+        ]
+    },
+    {
+        "video": "I_JsZK_iQqc.14.mp4",
+        "qa": [
+            {
+                "question": "What is the color of Zuckerberg's pupils?",
+                "answer": "Green",
+                "timestamp": "0.0 -- 0.941"
+            },
+            {
+                "question": "What is the color of Zuckerberg's pupils?",
+                "answer": "Purple",
+                "timestamp": "8.4084 -- 10.1768"
+            }
+        ]
+    },
+    {
+        "video": "bTMVVjv5zQ0.2.mp4",
+        "qa": [
+            {
+                "question": "What is the relation between the bear and the man?",
+                "answer": "A bear sniffing a man on the ground.",
+                "timestamp": "2.0854 -- 3.7537"
+            },
+            {
+                "question": "What is the relation between the bear and the man?",
+                "answer": "A man holding a gun to a bear.",
+                "timestamp": "5.7557 -- 7.2155"
+            }
+        ]
+    },
+    {
+        "video": "j-Nva2EEhlk.8.mp4",
+        "qa": [
+            {
+                "question": "What does the speaker say about the car?",
+                "answer": "nice",
+                "timestamp": "0.0 -- 3.2115"
+            },
+            {
+                "question": "What does the speaker say about the car?",
+                "answer": "people can't bear small car",
+                "timestamp": "3.2532 -- 11.4281"
+            }
+        ]
+    },
+    {
+        "video": "6Q-UeuliYpk.8.mp4",
+        "qa": [
+            {
+                "question": "What dishes are on the table?",
+                "answer": "Shrimp",
+                "timestamp": "0.0 -- 4.733"
+            },
+            {
+                "question": "What dishes are on the table?",
+                "answer": "Clam.",
+                "timestamp": "19.14 -- 21.98"
+            }
+        ]
+    },
+    {
+        "video": "XqDwTKVeUcI.31.mp4",
+        "qa": [
+            {
+                "question": "Are there people smoking?",
+                "answer": "No",
+                "timestamp": "2.8333 -- 4.9667"
+            },
+            {
+                "question": "Are there people smoking?",
+                "answer": "Yes",
+                "timestamp": "10.8 -- 15.9"
+            }
+        ]
+    },
+    {
+        "video": "7KOSPnBS_Lo.33.mp4",
+        "qa": [
+            {
+                "question": "How many points did someone get?",
+                "answer": "Seven points",
+                "timestamp": "4.2667 -- 6.3667"
+            },
+            {
+                "question": "How many points did someone get?",
+                "answer": "Five points",
+                "timestamp": "6.4 -- 20.9667"
+            }
+        ]
+    },
+    {
+        "video": "NbiG6PR8Ymk.9.mp4",
+        "qa": [
+            {
+                "question": "Where is the car?",
+                "answer": "Road with trees",
+                "timestamp": "0.0 -- 2.2"
+            },
+            {
+                "question": "Where is the car?",
+                "answer": "Side of a river",
+                "timestamp": "6.44 -- 10.08"
+            }
+        ]
+    }
+]
