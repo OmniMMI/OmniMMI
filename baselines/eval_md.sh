@@ -13,46 +13,7 @@ CHUNKS=${#GPULIST[@]}
 
 
 model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-environments=("minigpt4_video" "video_chatgpt" "videollava" "videochat2" "llamavid" "pllava" "llavanext" "share4video" "llongva" "pllava" "pllava" "llavanext")
 
-# model_names=("LongVA" "LLaMA-VID-13B" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-# environments=("llongva" "llamavid" "pllava" "pllava" "llavanext")
-
-# model_names=("LLaMA-VID")
-# environments=("llamavid")
-
-# model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B")
-
-model_names=("LLaMA-VID-13B" "LongLLaVA" "LongVILA" "VideoLLaMB")
-
-model_names=("LongVILA")
-
-model_names=("LLaVA-NeXT-Video-34B")
-
-model_names=("VideoOnline")
-environments=("videoonline")
-
-model_names=("VideoChatGPT" "VideoChat2" "VideoLLaVA" "LLaMA-VID" "MiniGPT4-Video" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LLaMA-VID-13B" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B" "LongVA" "LongVILA" "LongLLaVA" "VideoLLaMB")
-
-model_names=("VideoOnline")
-
-model_names=("GPT4O")
-
-# model_names=("Gemini-1.5-pro")
-
-model_names=("InterSuit")
-
-# model_names=("VideoLLaMA2")
-
-model_names=("GPT4O" "Gemini-1.5-pro")
-
-model_names=("vita" "miniomni2")
-
-model_names=("VideoLLaMA2")
-
-model_names=("InterSuitAV")
-
-# model_names=("InternLMXCO")
 
 for i in "${!model_names[@]}"; do
     model_name="${model_names[$i]}"

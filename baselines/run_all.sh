@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Define the file path
-# FILE="/home/wangyuxuan1/codes/OminousLLM/intersuit/checkpoints/longva7b-qwen2-llavanext-speech-full-start/tokenizer_config.json"
-FILE="checkpoints/longva7b-qwen2-llavanext-speech-full-start/tokenizer_config.json"
+FILE="checkpoints/YOUR_CHECKPOINT"
 
 # Loop indefinitely
 while true; do

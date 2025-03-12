@@ -2,8 +2,8 @@ from intersuit.model.builder import load_pretrained_model
 from intersuit.mm_utils import tokenizer_image_token, process_images
 from intersuit.constants import IMAGE_TOKEN_INDEX
 from PIL import Image
-from decord import VideoReader, cpu
 import torch
+from decord import VideoReader, cpu
 import numpy as np
 # fix seed
 torch.manual_seed(0)

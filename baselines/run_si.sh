@@ -26,37 +26,6 @@ CHUNKS=${#GPULIST[@]}
 model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video")
 environments=("minigpt4_video" "video_chatgpt" "videollava" "videochat2" "llamavid" "pllava" "llavanext")
 
-model_names=("PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "LLaMA-VID-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-environments=("pllava" "llavanext" "share4video" "llongva" "pllava" "pllava" "llavanext")
-
-model_names=("PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-environments=("pllava" "llavanext")
-
-model_names=("LongLLaVA" "LongVILA")
-environments=("longllava" "vila")
-
-model_names=("LLaMA-VID-13B")
-environments=("llamavid")
-
-model_names=("VideoLLaMB")
-environments=("llava")
-
-model_names=("VideoOnline")
-environments=("videoonline")
-
-model_names=("GPT4O")
-
-model_names=("InterSuit")
-environments=("longva")
-
-model_names=("InterSuitAV")
-environments=("longva")
-
-# model_names=("InternLMXCO")
-# environments=("internlmx")
-
-# model_names=("InterSuit" "VideoLLaMA2" "VideoXL")
-# environments=("longva" "videollama2" "videoxl")
 
 for i in "${!model_names[@]}"; do
     model_name="${model_names[$i]}"

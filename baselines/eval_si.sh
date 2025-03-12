@@ -10,7 +10,7 @@
 #SBATCH --output=./slurm_logs/speaker.out
 #SBATCH --error=./slurm_logs/speaker.error.out
 
-benchmark_name="speaker"
+benchmark_name="si"
 cache_dir="./cache_dir"
 input_dir="../omnimmi"
 video_dir="${input_dir}/videos"
@@ -25,30 +25,6 @@ CHUNKS=${#GPULIST[@]}
 
 
 model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-
-# model_names=("PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
-
-# model_names=("LongLLaVA" "LongVILA")
-
-# model_names=("LLaMA-VID-13B")
-
-model_names=("VideoLLaMB")
-
-model_names=("VideoOnline")
-
-model_names=("Gemini-1.5-pro")
-
-model_names=("GPT4O")
-
-model_names=("InterSuit")
-
-model_names=("vita" "miniomni2")
-
-# model_names=("VideoLLaMA2" "VideoXL")
-
-model_names=("InterSuitAV")
-
-# model_names=("InternLMXCO")
 
 for i in "${!model_names[@]}"; do
     model_name="${model_names[$i]}"

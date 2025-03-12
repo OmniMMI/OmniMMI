@@ -72,9 +72,9 @@ class InterSuitAV(ViLLMBaseModel):
         
         # process speech
         audio_path = "./wav/" + video_path.split("/")[-1]+".wav"
-        # if os.path.exists(audio_path): os.remove(audio_path) # init
+        if os.path.exists(audio_path): os.remove(audio_path) # init
         if not os.path.exists(audio_path):
-            wav = chat.infer(clean_text(instruction))
+            wav = chat.infer(clean_text(instruction))[0]
             try:
                 torchaudio.save(audio_path, torch.from_numpy(wav).unsqueeze(0), 24000)
             except:

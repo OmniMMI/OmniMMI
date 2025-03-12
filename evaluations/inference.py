@@ -101,87 +101,24 @@ def load_model(TESTING_MODEL, device):
         from videollambonline_modeling import VideoLLaMBOnline
         ckpt_path = f"{CKPT_DIR}/llava-7b-ft-rmtr1x-lvcn_16_4_pool12_new"
         model = VideoLLaMBOnline({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuit":
+    elif TESTING_MODEL == "M4":
         from intersuit_modeling import InterSuit
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-noise"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub20k-qwen2-RNS211"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-NRS211" # 26.5
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111" # 24
+        ckpt_path = f"{CKPT_DIR}/M4-LongVA-7B-Qwen2"
+        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111-ablate"
         model = InterSuit({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitAV":
+    elif TESTING_MODEL == "M4-Audio":
         from intersuit_av_modeling import InterSuitAV
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech" # 24
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns-0"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k-orns1111"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-NS-qwen2-speech-special"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-filter"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-filter-special-voiceassistant"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start-filter"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-vst-vt-st-300k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-voiceassistant-special"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-cosyvoice"
+        ckpt_path = f"{CKPT_DIR}/M4-Audio-LongVA-7B-Qwen2"
         model = InterSuitAV({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitOnline":
+    elif TESTING_MODEL == "M4Online":
         from intersuitonline_modeling import InterSuitOnline
-        # llama
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanext-llama31"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-llama31-rev"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-llama31-ONRS1111"
-        
-        # # qwen
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-rev"
-        # ckpt_path = f"{CKPT_DIR}/LongVA-7B-Qwen2"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub30k-qwen2-RNS"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub40k-qwen2-ORNS"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub20k-qwen2-RNS211"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111" # 24
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-RNS211" # 20.5
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-NRS211" # 26.5
+        ckpt_path = f"{CKPT_DIR}/M4-LongVA-7B-Qwen2"
+        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111-ablate"
         model = InterSuitOnline({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitOnlineAV":
+    elif TESTING_MODEL == "M4-AudioOnline":
         from intersuitonline_av_modeling import InterSuitOnlineAV
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns-0"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k-orns1111"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-NS-qwen2-speech-special"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-filter"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-filter-special-voiceassistant"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start-filter"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-vst-vt-st-300k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-voiceassistant-special"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-cosyvoice"
+        ckpt_path = f"{CKPT_DIR}/M4-Audio-LongVA-7B-Qwen2"
         model = InterSuitOnlineAV({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitOnline_Qwen":
-        from intersuitonline_modeling import InterSuitOnline
-        # llama
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanext-llama31"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-llama31-rev"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-llama31-ONRS1111"
-        
-        # # qwen
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-rev"
-        ckpt_path = f"{CKPT_DIR}/LongVA-7B-Qwen2"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub30k-qwen2-RNS"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub40k-qwen2-ORNS"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub20k-qwen2-RNS211"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111" # 24
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-RNS211" # 20.5
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-NRS211" # 26.5
-        model = InterSuitOnline({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoXL":
         from videoxl_modeling import VideoXL
         ckpt_path = f"{CKPT_DIR}/Video_XL/VideoXL_weight_8"
@@ -193,7 +130,11 @@ def load_model(TESTING_MODEL, device):
         from internlmxco_modeling import InternLMXCO
         ckpt_path = f"{CKPT_DIR}/internlm-xcomposer2d5-ol-7b"
         model = InternLMXCO({"model_path": ckpt_path, "device": 0})    
-
+    elif TESTING_MODEL == "MiniCPM-o":
+        from minicpmo_modeling import MiniCPMO
+        ckpt_path = f"{CKPT_DIR}/MiniCPM-o-2_6"
+        model = MiniCPMO({"model_path": ckpt_path, "device": 0})
+        
     return model
 
 
@@ -205,11 +146,11 @@ def main():
                     default="", 
                     choices=["VideoChatGPT", "VideoChat2", "VideoLLaVA", "LLaMA-VID","MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", "ShareGPT4Video",
                                  "Gemini-1.5-pro", "GPT4O",
-                                 "LongVA", "LongVALlama", "LongVILA", "LongLLaVA", "VideoLLaMB", "InterSuit", "VideoXL",
+                                 "LongVA", "LongVALlama", "LongVILA", "LongLLaVA", "VideoLLaMB", "M4", "VideoXL",
                                  "LLaMA-VID-13B", "PLLaVA-13B", 
                                  "PLLaVA-34B", "LLaVA-NeXT-Video-34B",
-                                 "VideoOnline", "VideoLLaMBOnline", "InterSuitOnline", "InterSuitOnline_Qwen", "InternLMXCO",
-                                 "VideoLLaMA2", "InterSuitAV", "InterSuitOnlineAV"], required=True)
+                                 "VideoOnline", "VideoLLaMBOnline", "M4Online", "InternLMXCO", "MiniCPM-o",
+                                 "VideoLLaMA2", "M4-Audio", "M4-AudioOnline"], required=True)
     parser.add_argument("--benchmark_name", type=str, # general task
                         default="", 
                         choices=["ap", "md", "sg", "si", "pa", "pt"], required=True)

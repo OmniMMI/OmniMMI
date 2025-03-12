@@ -7,6 +7,12 @@ To set up the environments, follow the instructions in the existing repositories
 2. use `export DECORD_EOF_RETRY_MAX=20480` to prevent possible issues from decord 
 
 
+*For models supporting speech input, we use ChatTTS to convert queries into speech for a fair comparison. Please install an additional TTS tool:*
+```bash
+pip install ChatTTS
+pip install num2words
+```
+
 
 - [Video-ChatGPT](https://github.com/mbzuai-oryx/Video-ChatGPT)
     - Installation: [Instruction](https://github.com/mbzuai-oryx/Video-ChatGPT?tab=readme-ov-file#installation-wrench) 
@@ -167,6 +173,24 @@ To set up the environments, follow the instructions in the existing repositories
     - Structure: 
         ``` 
             ├── checkpoints/Videollamb-llava-1.5-7b
+        ```
+
+- [InternLM-XComposer2.5-OmniLive](https://github.com/InternLM/InternLM-XComposer/tree/main/InternLM-XComposer-2.5-OmniLive)
+    - Installation: [Instruction](https://github.com/InternLM/InternLM-XComposer/blob/main/docs/install.md)
+    - Checkpoints:
+        - Source: [IXC2.5-OL](https://huggingface.co/internlm/internlm-xcomposer2d5-ol-7b)
+    - Structure:
+        ```
+            ├── checkpoints/internlm-xcomposer2d5-ol-7b
+        ```
+
+- [MiniCPM-o 2.6](https://openbmb.notion.site/MiniCPM-o-2-6-A-GPT-4o-Level-MLLM-for-Vision-Speech-and-Multimodal-Live-Streaming-on-Your-Phone-185ede1b7a558042b5d5e45e6b237da9)
+    - Installation: [Instruction](https://github.com/OpenBMB/MiniCPM-o?tab=readme-ov-file#inference)
+    - Checkpoints:
+        - Source: [MiniCPM-o-2_6](https://huggingface.co/openbmb/MiniCPM-o-2_6)
+    - Structure: 
+        ```
+            ├── checkpoints/MiniCPM-o-2_6
         ```
 
 - [Gemini API](https://github.com/google-gemini/cookbook)

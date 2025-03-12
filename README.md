@@ -13,10 +13,14 @@
 
 <!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
 
-
-
-
 ![image](assets/teaser.png)
+
+## Updates
+
+<!-- - [] Paper Release, check it on [Arxiv](https://arxiv.org/pdf/xxxx.xxxxx.pdf).  -->
+
+- `2025` **Meet [M4](https://github.com/patrick-tssn/M4)**. M4 enables multiplexed modeling capabilities for a video language model at minimal cost.
+- `2025` **First Release OmniMMI**. We're excited to share the first version of OmniMMI. 
 
 **Table of Contents**
 
@@ -53,7 +57,7 @@ we introduce OmniMMI, a comprehensive multi-modal interaction benchmark tailored
 You can download the OmniMMI from [huggingface](https://huggingface.co/datasets/ColorfulAI/OmniMMI), containing both json and raw videos.
 
 ```
-videohallucer_datasets                  
+videohallucer_datasets                
     ├── clips/ # video clips for assessing offline models
     ├── videos/
     ├── action_prediction.json
@@ -127,7 +131,9 @@ Large Omni Language Model
 - MiniOmni2-0.5B
 - M4-7B
 
-For detailed instructions on installation and checkpoints, please consult the [INSTALLATION](INSTALLATION.md) guide.
+For detailed instructions on installation and checkpoints of these baselines, please consult the [INSTALLATION](INSTALLATION.md) guide.
+
+**Note**: To evaluate audio-input models, we use a TTS model to automatically convert text queries into audio. Please install [ChatTTS](https://github.com/2noise/ChatTTS) beforehand.
 
 ### Usage
 
@@ -158,6 +164,7 @@ environments=("llongva" "pllava")
 ```
 
 There are two groups of models
+
 (i) common models
 
 ```

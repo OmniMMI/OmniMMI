@@ -33,12 +33,12 @@ def parse_args():
                         default="", 
                         choices=["VideoChatGPT", "VideoChat2", "VideoLLaVA", "LLaMA-VID","MiniGPT4-Video", "PLLaVA", "LLaVA-NeXT-Video", "ShareGPT4Video",
                                  "Gemini-1.5-pro", "GPT4O",
-                                 "LongVA", "LongVILA", "LongLLaVA", "VideoLLaMB", "InterSuit", "VideoXL",
+                                 "LongVA", "LongVILA", "LongLLaVA", "VideoLLaMB", "M4", "VideoXL",
                                  "LLaMA-VID-13B", "PLLaVA-13B", 
                                  "PLLaVA-34B", "LLaVA-NeXT-Video-34B",
-                                 "VideoOnline", "VideoLLaMBOnline", "InterSuitOnline",
-                                 "VideoLLaMA2", "vita", "miniomni2", "InternLMXCO",
-                                 "InterSuitAV", "InterSuitOnlineAV"], required=True)
+                                 "VideoOnline", "VideoLLaMBOnline", "M4Online",
+                                 "VideoLLaMA2", "vita", "miniomni2", "InternLMXCO", "MiniCPM-o",
+                                 "M4-Audio", "M4-AudioOnline"], required=True)
     parser.add_argument("--benchmark_name", type=str,
                         default="", 
                         choices=["ap", "md", "sg", "si", "pa", "pt"])
@@ -289,12 +289,12 @@ def main():
     prediction_set = {}
     for idx, sample in enumerate(new_pred_contents):
         vid = sample['video'].split(".mp4")[0] + f"##{idx}"
-        if args.benchmark_name == "plan" or args.benchmark_name == "speaker":
+        if args.benchmark_name == "ap" or args.benchmark_name == "si":
             answer = sample['answer']
             pred = sample['pred']
             ques = sample['question']
             eval_set = {"question": ques, "answer": answer, "pred": pred}
-        elif args.benchmark_name == "dependency" or args.benchmark_name == "transition":
+        elif args.benchmark_name == "md" or args.benchmark_name == "sg":
             eval_set = {"qa": []}
             for qa in sample["qa"]:
                 answer = qa['answer']

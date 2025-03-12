@@ -1,11 +1,11 @@
 #!/bin/bash
-#SBATCH --job-name=plan
+#SBATCH --job-name=ap
 #SBATCH --partition=HGX,DGX
 #SBATCH --account=research
 #SBATCH --qos=lv0a
 #SBATCH --time=5:00:00
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:2
 #SBATCH --output=./slurm_logs/ap.out
 #SBATCH --error=./slurm_logs/ap.error.out
 
@@ -26,43 +26,6 @@ CHUNKS=${#GPULIST[@]}
 model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
 environments=("minigpt4_video" "video_chatgpt" "videollava" "videochat2" "llamavid" "pllava" "llavanext" "share4video" "llongva" "pllava" "pllava" "llavanext")
 
-
-model_names=("LongVILA")
-environments=("vila")
-
-model_names=("LongLLaVA")
-environments=("longllava")
-
-model_names=("LLaMA-VID")
-environments=("llamavid")
-
-model_names=("VideoLLaMB")
-environments=("llava")
-
-model_names=("VideoOnline")
-environments=("videoonline")
-
-model_names=("Gemini-1.5-pro")
-
-model_names=("GPT4O")
-
-model_names=("InterSuit" "LongVA" "LongVILA" "VideoLLaMA2" "VideoXL")
-environments=("longva" "longva" "vila" "videollama2" "videoxl")
-
-model_names=("VideoXL" "InterSuit")
-environments=("videoxl" "longva")
-
-model_names=("InterSuit")
-environments=("longva")
-
-model_names=("InterSuitAV")
-environments=("longva")
-
-# model_names=("LongVA")
-# environments=("llongva")
-
-# model_names=("InternLMXCO")
-# environments=("internlmx")
 
 for i in "${!model_names[@]}"; do
     model_name="${model_names[$i]}"

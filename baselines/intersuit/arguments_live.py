@@ -18,7 +18,7 @@ class LiveTrainingArguments(TrainingArguments):
     lora_r: int = 128
     lora_alpha: int = 256
     finetune_modules: list[str] = field(default_factory=lambda: ['connector'])
-    frame_fps: int = 5 # for training. inference can be 10
+    frame_fps: int = 1 # for training. inference can be 10
     frame_token_cls: bool = None
     frame_token_pooled: list[int] = None
     frame_resolution: int = 336

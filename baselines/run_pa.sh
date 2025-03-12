@@ -2,10 +2,10 @@
 #SBATCH --job-name=pa
 #SBATCH --partition=HGX,DGX
 #SBATCH --account=research
-#SBATCH --qos=lv0b
+#SBATCH --qos=lv1
 #SBATCH --time=6:00:00
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:4
+#SBATCH --gres=gpu:2
 #SBATCH --output=./slurm_logs/pa.out
 #SBATCH --error=./slurm_logs/pa.error.out
 
@@ -26,27 +26,6 @@ CHUNKS=${#GPULIST[@]}
 model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VID" "PLLaVA" "LLaVA-NeXT-Video" "ShareGPT4Video" "LongVA" "PLLaVA-13B" "PLLaVA-34B" "LLaVA-NeXT-Video-34B")
 environments=("minigpt4_video" "video_chatgpt" "videollava" "videochat2" "llamavid" "pllava" "llavanext" "share4video" "llongva" "pllava" "pllava" "llavanext")
 
-
-model_names=("LongVILA")
-environments=("vila")
-
-model_names=("LongLLaVA")
-environments=("longllava")
-
-model_names=("LLaMA-VID")
-environments=("llamavid")
-
-model_names=("VideoLLaMB")
-environments=("llava")
-
-model_names=("VideoOnline" "VideoLLaMBOnline")
-environments=("videoonline" "llava")
-
-model_names=("InterSuitOnline")
-environments=("longva")
-
-model_names=("InterSuitOnlineAV")
-environments=("longva")
 
 
 for i in "${!model_names[@]}"; do

@@ -220,7 +220,7 @@ class InterSuitOnline:
                 # return video_time, query
             
             # 3. grounding 
-            if self.frame_count > 2:
+            if self.frame_count > 4:
                 attentions = attentions.squeeze(0)
                 # print("nan shape: ", torch.nonzero(torch.isnan(attentions), as_tuple=False))
                 non_nan_mask = ~torch.isnan(attentions)
@@ -257,7 +257,7 @@ class InterSuitOnline:
                     sa, cnt = self.salient.peek_max()
                     # print(self.salient.entry_finder)
                     # print(sa, cnt)
-                    if cnt > 15 and sa not in self.highlight_points: # forward step
+                    if cnt > 4 and sa not in self.highlight_points: # forward step
                         self.highlight_points.append(sa)
                         return sa/self.frame_fps, None
         

@@ -27,30 +27,6 @@ model_names=("MiniGPT4-Video" "VideoChatGPT" "VideoLLaVA" "VideoChat2" "LLaMA-VI
 environments=("minigpt4_video" "video_chatgpt" "videollava" "videochat2" "llamavid" "pllava" "llavanext" "share4video" "llongva" "pllava" "pllava" "llavanext")
 
 
-model_names=("LongVILA")
-environments=("vila")
-
-model_names=("LongLLaVA")
-environments=("longllava")
-
-model_names=("LLaMA-VID")
-environments=("llamavid")
-
-model_names=("VideoLLaMB")
-environments=("llava")
-
-model_names=("VideoOnline" "VideoLLaMBOnline")
-environments=("videoonline" "llava")
-
-model_names=("InterSuit")
-environments=("longva")
-
-model_names=("InterSuitAV")
-environments=("longva")
-
-model_names=("InternLMXCO")
-environments=("internlmx")
-
 
 for i in "${!model_names[@]}"; do
     model_name="${model_names[$i]}"

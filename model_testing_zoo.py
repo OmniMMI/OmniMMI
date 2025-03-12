@@ -14,12 +14,14 @@ video_path = "../assets/water.mp4"
 
 instruction = "Is there a dog in the video? Response with 'yes' or 'no'."
 instruction = "Describe the Video: "
-# instruction = "Can you describe the video?"
-# instruction = "How many peope in the video?"
+instruction = "Can you describe the video?"
+instruction = "How many peope in the video?"
 # instruction = "In the video provide a detailed description of the visual and auditory elements, including the setting, the main subjects or characters, their actions, the background music or sounds, and any notable events or interactions that occur throughout the footage."
-# instruction = "what's the next step to clean the scissors ?"
-# instruction = "According to the video, how to make a wine "
-instruction = "Is there a mixer in the video ?"
+instruction = "what's the next step to clean the scissors ?"
+instruction = "According to the video, how to make a wine "
+instruction = "How's the person look like?"
+# instruction = "What's the color of the person's cloth?"
+# instruction = "Is there a mixer in the video ?"
 # instruction = "I am responsible for executing Clean the scissors. The video's content shows the task's development, Can you recreate the steps I'll need to take? What's next step?"
 # debug
 # instruction = "yes, I know."
@@ -41,8 +43,8 @@ parser.add_argument("--model_name", type=str,
                              "Video-LLaMA-2-13B", "LLaMA-VID-13B", 
                              "PLLaVA-13B", "PLLaVA-34B", "LLaVA-NeXT-Video-34B",
                              "LongVA", "LongVILA", "LongLLaVA", "VideoLLaMB", "VideoXL", "InternLMXCO",
-                             "VideoOnline", "VideoLLaMBOnline", "InterSuit", "InterSuitOnline",
-                             "VideoLLaMA2", "InterSuitAV", "InterSuitOnlineAV"])
+                             "VideoOnline", "VideoLLaMBOnline", "M4", "M4Online", "MiniCPM-o",
+                             "VideoLLaMA2", "M4-Audio", "M4-AudioOnline"])
 args = parser.parse_args()
 TESTING_MODEL=args.model_name
 
@@ -149,20 +151,15 @@ def load_model(TESTING_MODEL):
         from videollambonline_modeling import VideoLLaMBOnline
         ckpt_path = f"{CKPT_DIR}/llava-7b-ft-rmtr1x-lvcn_16_4_pool12_new"
         model = VideoLLaMBOnline({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuit":
+    elif TESTING_MODEL == "M4":
         from intersuit_modeling import InterSuit
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-noise"
-        ckpt_path = f"{CKPT_DIR}/qwen27b-llavanextsub10k-qwen2-ORNS1111"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-cosyvoice"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanext-qwen2-speech-cosyvoice"
+        ckpt_path = f"{CKPT_DIR}/M4-LongVA-7B-Qwen2"
+        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111-ablate"
         model = InterSuit({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitOnline":
+    elif TESTING_MODEL == "M4Online":
         from intersuitonline_modeling import InterSuitOnline
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-rev"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111"
+        ckpt_path = f"{CKPT_DIR}/M4-LongVA-7B-Qwen2"
+        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-ORNS1111-ablate"
         model = InterSuitOnline({"model_path": ckpt_path, "device": 0})
     elif TESTING_MODEL == "VideoLLaMA2":
         from videollama2_modeling import VideoLLaMA2
@@ -175,41 +172,26 @@ def load_model(TESTING_MODEL):
         from internlmxco_modeling import InternLMXCO
         ckpt_path = f"{CKPT_DIR}/internlm-xcomposer2d5-ol-7b"
         model = InternLMXCO({"model_path": ckpt_path, "device": 0})    
+    elif TESTING_MODEL == "MiniCPM-o":
+        from minicpmo_modeling import MiniCPMO
+        ckpt_path = f"{CKPT_DIR}/MiniCPM-o-2_6"
+        model = MiniCPMO({"model_path": ckpt_path, "device": 0})
     
-    elif TESTING_MODEL == "InterSuitAV":
+    elif TESTING_MODEL == "M4-Audio":
         from intersuit_av_modeling import InterSuitAV
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech" # 24
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-va"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k-orns1111"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-full-start"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-vst-vt-st-300k"
-        
-        # ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-llavanext-speech-voiceassistant-special"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-cosyvoice"
-        # ckpt_path = f"{CKPT_DIR}/longva7b-llavanext-qwen2-speech-cosyvoice"
+        ckpt_path = f"{CKPT_DIR}/M4-Audio-LongVA-7B-Qwen2"
+        ckpt_path = f"{CKPT_DIR}/LongVA-7B-Qwen2-VA"
         model = InterSuitAV({"model_path": ckpt_path, "device": 0})
-    elif TESTING_MODEL == "InterSuitOnlineAV":
+    elif TESTING_MODEL == "M4-AudioOnline":
         from intersuitonline_av_modeling import InterSuitOnlineAV
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-qwen2-speech-va"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k"
-        ckpt_path = f"{CKPT_DIR}/longva7b-qwen2-voiceassistant-100k-orns1111"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanextsub10k-ORNS-qwen2-speech-va-ns"
-        ckpt_path = f"{CKPT_DIR}/longva7b-llavanext-qwen2-speech-cosyvoice"
-        
-
+        ckpt_path = f"{CKPT_DIR}/M4-Audio-LongVA-7B-Qwen2"
         model = InterSuitOnlineAV({"model_path": ckpt_path, "device": 0})
 
     return model
 
 model = load_model(TESTING_MODEL)
 
-if TESTING_MODEL in ["VideoOnline", "VideoLLaMBOnline", "InterSuitOnline", "InterSuitOnlineAV"]:
+if TESTING_MODEL in ["VideoOnline", "VideoLLaMBOnline", "M4Online", "M4-AudioOnline"]:
     import transformers
     logger = transformers.logging.get_logger('liveinfer')
     from evaluations.online_inference_utils import ffmpeg_once
@@ -224,7 +206,7 @@ if TESTING_MODEL in ["VideoOnline", "VideoLLaMBOnline", "InterSuitOnline", "Inte
     model.load_video(ffmpeg_video_path)
     question = instruction
     # liveinfer.input_query_stream('Please narrate the video in real time.', video_time=0.0)
-    if TESTING_MODEL == "InterSuitOnline" or TESTING_MODEL == "InterSuitOnlineAV":
+    if TESTING_MODEL == "M4Online" or TESTING_MODEL == "M4-AudioOnline":
         question = "Please notify me when there is a mixer."
         model.input_query_stream(question)
         print(f'(Current Time = 0s) User: {question}')
@@ -262,7 +244,7 @@ else:
     pred = model.generate(
         instruction=instruction,
         video_path=video_path,
-        gen=True
+        # gen=True
     )
     
 print('-'*20)
