@@ -3,12 +3,17 @@
     <a href="https://arxiv.org/abs/xxxx.xxxxx">
             <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3Axxxx.xxxxx-B31B1B.svg">
     </a>
-    <a href="https://huggingface.co/datasets/ColorfulAI/OmniMMI">
-        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-OmniMMI-yellow">
-    </a>
     <a href="https://omnimmi.github.io">
         <img alt="Build" src="https://img.shields.io/badge/OmniMMI-page-blue">
     </a>
+    <!-- <br> -->
+    <a href="https://huggingface.co/datasets/ColorfulAI/OmniMMI">
+        <img alt="Build" src="https://img.shields.io/badge/🤗 Dataset-OmniMMI-yellow">
+    </a>
+    <a href="https://cvpr.thecvf.com/Conferences/2025">
+            <img alt="Build" src="http://img.shields.io/badge/CVPR-2025-4b44ce.svg">
+    </a>
+    
 </p>
 
 <!-- [![Conference](http://img.shields.io/badge/AnyConference-year-4b44ce.svg)](https://<CONFERENCE>) -->
