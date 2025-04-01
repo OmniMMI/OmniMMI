@@ -1,7 +1,7 @@
 <h1 align="center">OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts</h1>
 <p align="center">
-    <a href="https://arxiv.org/abs/xxxx.xxxxx">
-            <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3Axxxx.xxxxx-B31B1B.svg">
+    <a href="https://arxiv.org/abs/2503.22952">
+            <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3A2503.22952-B31B1B.svg">
     </a>
     <a href="https://omnimmi.github.io">
         <img alt="Build" src="https://img.shields.io/badge/OmniMMI-page-blue">
@@ -24,8 +24,8 @@
 
 <!-- - [] Paper Release, check it on [Arxiv](https://arxiv.org/pdf/xxxx.xxxxx.pdf).  -->
 
-- `2025` **Meet [M4](https://github.com/patrick-tssn/M4)**. M4 enables multiplexed modeling capabilities for a video language model at minimal cost.
-- `2025` **First Release OmniMMI**. We're excited to share the first version of OmniMMI. 
+- `2025-04-01` **Meet [M4](https://github.com/patrick-tssn/M4)**. M4 enables multiplexed modeling capabilities for a video language model at minimal cost.
+- `2025-04-01` **First Release OmniMMI**. We're excited to share the first version of OmniMMI. 
 
 **Table of Contents**
 
@@ -42,7 +42,7 @@
 
 ### Introduction
 
-we introduce OmniMMI, a comprehensive multi-modal interaction benchmark tailored for OmniLLMs in streaming video contexts. OmniMMI encompasses over 1,121 real-world interactive videos and 2,290 questions, addressing two critical yet underexplored challenges in existing video benchmarks: streaming video understanding and proactive reasoning, across six distinct subtasks.
+we introduce OmniMMI, a comprehensive multi-modal interaction benchmark tailored for OmniLLMs in streaming video contexts. OmniMMI encompasses over 1,121 interactive videos and 2,290 questions, addressing two critical yet underexplored challenges in existing video benchmarks: streaming video understanding and proactive reasoning, across six distinct subtasks.
 
 - **Streaming Temporal State Awareness**.  Streaming video understanding must build an understanding w.r.t. the current and historical temporal state incrementally, without accessing the future context. This contrasts with traditional MLLM that can leverage the entire multi-modal contexts, posing challenges in our distinguished tasks of action prediction (AP), state grounding (SG) and multi-turn dependencies (MD).
 - **Proactive Reasoning and Turn-Taking**. Generating responses proactively and appropriately anticipating the turn-taking time spot w.r.t. user's intentions and dynamic contexts is a crucial feature for general interactive agents. This typically requires models to identify speakers (SI), distinguish between noise or legitimate query (PT), and proactively initiate a response (PA).
