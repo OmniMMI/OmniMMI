@@ -24,6 +24,7 @@
 
 <!-- - [] Paper Release, check it on [Arxiv](https://arxiv.org/pdf/xxxx.xxxxx.pdf).  -->
 
+- `2025-04-02` **First Release [Open-Omni-Nexus](https://github.com/patrick-tssn/Open-Omni-Nexus)**. a fully open-source implementation of a GPT-4o-like speech-to-speech video understanding model.
 - `2025-04-01` **Meet [M4](https://github.com/patrick-tssn/M4)**. M4 enables multiplexed modeling capabilities for a video language model at minimal cost.
 - `2025-04-01` **First Release OmniMMI**. We're excited to share the first version of OmniMMI. 
 
