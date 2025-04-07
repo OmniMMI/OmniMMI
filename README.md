@@ -1,4 +1,7 @@
-<h1 align="center">OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts</h1>
+<div align="center">
+  <img src="assets/OmniMMI.png" width="25%"/>
+</div>
+<h1 align="center"> A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts</h1>
 <p align="center">
     <a href="https://arxiv.org/abs/2503.22952">
             <img alt="Build" src="http://img.shields.io/badge/cs.CV-arXiv%3A2503.22952-B31B1B.svg">
