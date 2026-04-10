@@ -26,6 +26,7 @@
 ## Updates
 
 <!-- - [] Paper Release, check it on [Arxiv](https://arxiv.org/pdf/xxxx.xxxxx.pdf).  -->
+- `2026-04-10` We appreciate the community bringing this to our attention. In Table 3, the second-to-last row accidentally replicates SG’s results for M4 on MD 1st–3rd. Please use the avg for reference.
 - `2025-12-18` **Big Congrats to [Seed1.8](https://seed.bytedance.com/en/seed1_8) for achieving 53.0 on OmniMMI!**
 - `2025-04-02` **First Release [Open-Omni-Nexus](https://github.com/patrick-tssn/Open-Omni-Nexus)**. a fully open-source implementation of a GPT-4o-like speech-to-speech video understanding model.
 - `2025-04-01` **Meet [M4](https://github.com/patrick-tssn/M4)**. M4 enables multiplexed modeling capabilities for a video language model at minimal cost.
